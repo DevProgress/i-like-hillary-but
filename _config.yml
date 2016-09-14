@@ -21,9 +21,8 @@ description: >
   misconceptions about Hillary Clinton. Please pick your concern from
   the following list!
 
-baseurl: "" # the subpath of your site, e.g. /blog
-
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/i-like-hillary-but" # the subpath of your site, e.g. /blog
+url: "https://devprogress.us" # the base hostname & protocol for your site
 
 twitter_username: hillaryclinton
 github_username: devprogress
@@ -32,6 +31,7 @@ github_username: devprogress
 markdown: kramdown
 theme: minima
 
+destination:  ./docs
 
 collections:
   issues:
