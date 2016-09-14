@@ -109,7 +109,7 @@ div.header-img {
 }
 /*Content Styles */
 div.page-content {
-	height: calc(100vh - 100px);
+	min-height: calc(100vh - 100px);
 }
 
 /* Foot styles*/
