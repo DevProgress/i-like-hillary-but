@@ -39,12 +39,16 @@ $on-laptop:        800px;
 @import "minima";
 
 * {
-	box-sizing: border-box;
+	box-sizing: border-box !important;
 }
 
 body {
 	font: 400 16px/1.5 'Open Sans', sans-serif;
 	background: #fff;
+}
+
+a {
+	color: inherit;
 }
 
 /* Header styles */
@@ -62,8 +66,18 @@ header.site-header div.wrapper {
 	padding-top: 45px;
 }
 
+div.header-img {
+	width: 100px;
+	height: 100px;
+	background: url(../img/man-circle.png) no-repeat;
+	background-size: cover;
+	margin-right: 10px;
+	position: relative;
+	bottom: 25px;
+}
+
 .site-title, .site-title:visited {
-	font-size: 3em;
+	font-size: 2.5em;
 	font-weight: 700;
 	color: #dcc7aa;
 	margin-right: auto;
@@ -76,10 +90,30 @@ header.site-header div.wrapper {
 	top: 7px;
 }
 
+
+
 @media screen and (max-width: 600px) {
 	.site-nav .page-link {
 		color: #111;
 		position: static;
 		top: 0;
 	}
+	.site-title, .site-title:visited {
+		font-size: 2em;
+	}
+	div.header-img {
+		width: 75px;
+		height: 75px;
+		bottom: 15px;
+	}
 }
+/*Content Styles */
+div.page-content {
+	height: calc(100vh - 100px);
+}
+
+/* Foot styles*/
+footer.site-footer {
+	height: 100px;
+}
+
