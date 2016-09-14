@@ -32,6 +32,7 @@ github_username: devprogress
 markdown: kramdown
 theme: minima
 
+destination:  ./docs
 
 collections:
   issues:

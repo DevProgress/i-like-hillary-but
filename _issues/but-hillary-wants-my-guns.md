@@ -9,7 +9,13 @@ Q: But Hillary wants my guns!
 
 A: That's not precisely correct!
 
-Here's what her campaign website says:
+Basically, she doesn't want your guns, unless you're a felon, a
+domestic abuser, or someone with severe mental illnesses. And I think
+we can all agree that people like that shouldn't really have access to
+guns.
+
+
+Here's what her campaign [website](https://www.hillaryclinton.com/issues/gun-violence-prevention/) says:
 
 * Expand background checks to more gun sales—including by closing the
 gun show and internet sales loopholes—and strengthen the background
@@ -27,7 +33,3 @@ crime for someone to intentionally buy a gun for a person prohibited
 from owning one, and closing the loopholes that allow people suffering
 from severe mental illness to purchase and own guns. She will also
 support work to keep military-style weapons off our streets.
-
-So she doesn't want your guns, unless you're a felon, a domestic
-abuser, or someone with severe mental illnesses. And I think we can
-all agree that people like that shouldn't really have access to funs
