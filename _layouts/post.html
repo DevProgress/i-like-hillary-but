@@ -9,6 +9,11 @@ layout: default
   </header>
 
   <article class="post-content">
+	{% if page.image %}
+  	<img src="/img/{{ page.image }}">
+    {% endif %}
+ 
+
     {{ content }}
   </article>
 
