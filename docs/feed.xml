@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I like Hillary But...</title>
+    <description>I Like Hillary But... is a site designed to refute falsehoods and misconceptions about Hillary Clinton. Please pick your concern from the following list!
+</description>
+    <link>https://devprogress.us/i-like-hillary-but/</link>
+    <atom:link href="https://devprogress.us/i-like-hillary-but/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 13 Sep 2016 22:43:37 -0700</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 22:43:37 -0700</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+  </channel>
+</rss>
