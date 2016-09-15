@@ -493,10 +493,10 @@ div.header-img {
 
 .site-title:hover {
   text-decoration: none;
-  color: #f7c331; }
+  color: #e8e8e8; }
 
 .site-nav .page-link {
-  color: #fff;
+  color: #e8e8e8;
   font-size: 1.25em;
   position: relative;
   top: 7px; }
@@ -520,7 +520,7 @@ div.header-img {
     bottom: 15px; } }
 /*Content Styles */
 div.page-content {
-  min-height: calc(100vh - 250px); }
+  min-height: calc(100vh - 220px); }
 
 /*Homepage */
 .home .header-col .text {
@@ -544,6 +544,38 @@ div.page-content {
   text-decoration: none;
   background-color: #6b7a8f; }
 
+/* Issues page styles */
+.post .post-header .post-title {
+  display: inline-block;
+  color: #6b7a8f;
+  font-weight: 700;
+  font-size: 2.5em;
+  background-color: #e8e8e8;
+  padding: 8px 5px; }
+
+article.post-content p {
+  font-size: 1.15em;
+  color: #828282; }
+
+article.post-content > p:first-child,
+article.post-content > p:nth-child(2) {
+  font-weight: 600; }
+
+header.post-header {
+  margin-bottom: 0; }
+
 /* Foot styles*/
 footer.site-footer {
-  height: 100px; }
+  height: 70px;
+  border: none;
+  background-color: #dcc7aa; }
+
+.footer-col-wrapper {
+  font-weight: 600; }
+
+.footer-col-wrapper .footer-col {
+  margin-bottom: 0; }
+
+.footer-col-wrapper .footer-col a:hover {
+  text-decoration: none;
+  color: #424242; }
