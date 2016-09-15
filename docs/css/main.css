@@ -580,6 +580,11 @@ footer.site-footer {
 .footer-col-wrapper {
   font-weight: 600; }
 
+@media screen and (max-width: 600px) {
+  .footer-col-wrapper .footer-col {
+    font-weight: 400;
+    display: inline-block;
+    width: auto; } }
 .footer-col-wrapper .footer-col {
   margin-bottom: 0; }
 
