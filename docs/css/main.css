@@ -514,6 +514,27 @@ div.header-img {
 div.page-content {
   min-height: calc(100vh - 250px); }
 
+/*Homepage */
+.home .header-col .text {
+  font-size: 1.35em;
+  font-weight: 600;
+  color: #828282; }
+
+.home .post-list li {
+  display: inline-block;
+  margin-bottom: 1em; }
+
+.home h2 .post-link {
+  color: #6b7a8f;
+  font-size: 1.25em;
+  font-weight: 700;
+  background-color: #e8e8e8;
+  padding: 2px 5px; }
+
+.home h2 .post-link:hover {
+  color: #f7c331;
+  text-decoration: none; }
+
 /* Foot styles*/
 footer.site-footer {
   height: 100px; }

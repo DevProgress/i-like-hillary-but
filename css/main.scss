@@ -20,6 +20,11 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$blue-color: 		#6b7a8f;
+$orange-color: 		#f7882f;
+$yellow-color:		#f7c331;
+$beige-color: 		#dcc7aa;
+
 // Width of the content area
 $content-width:    800px;
 
@@ -110,6 +115,35 @@ div.header-img {
 /*Content Styles */
 div.page-content {
 	min-height: calc(100vh - 250px);
+}
+
+/*Homepage */
+.home .header-col .text {
+	font-size: 1.35em;
+	font-weight: 600;
+	color: $grey-color;
+}
+
+.home .post-list li {
+	display: inline-block;
+	margin-bottom: 1em;
+}
+
+.home h2 .post-link {
+	color: $blue-color;
+	font-size: 1.25em;
+	font-weight: 700;
+	background-color: $grey-color-light;
+	padding: 2px 5px;
+}
+
+.home h2 .post-link:hover {
+	color: $yellow-color;
+	text-decoration: none;
+}
+
+@include media-query($on-palm) {
+	
 }
 
 /* Foot styles*/
