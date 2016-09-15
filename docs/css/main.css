@@ -491,11 +491,19 @@ div.header-img {
   color: #dcc7aa;
   margin-right: auto; }
 
+.site-title:hover {
+  text-decoration: none;
+  color: #f7c331; }
+
 .site-nav .page-link {
   color: #fff;
   font-size: 1.25em;
   position: relative;
   top: 7px; }
+
+.site-nav .page-link:hover {
+  text-decoration: none;
+  font-weight: 600; }
 
 @media screen and (max-width: 600px) {
   .site-nav .page-link {
