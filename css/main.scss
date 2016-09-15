@@ -90,11 +90,11 @@ div.header-img {
 
 .site-title:hover {
 	text-decoration: none;
-	color: $yellow-color;
+	color: $grey-color-light;
 }
 
 .site-nav .page-link {
-	color: #fff;
+	color: $grey-color-light;
 	font-size: 1.25em;
 	position: relative;
 	top: 7px;
@@ -123,7 +123,7 @@ div.header-img {
 }
 /*Content Styles */
 div.page-content {
-	min-height: calc(100vh - 250px);
+	min-height: calc(100vh - 220px);
 }
 
 /*Homepage */
@@ -152,12 +152,47 @@ div.page-content {
 	background-color: $blue-color;
 }
 
-@include media-query($on-palm) {
-	
+/* Issues page styles */
+
+.post .post-header .post-title {
+	display: inline-block;
+	color: $blue-color;
+	font-weight: 700;
+	font-size: 2.5em;
+	background-color: $grey-color-light;
+	padding: 8px 5px;
+}
+
+article.post-content p {
+	font-size: 1.15em;
+    color: $grey-color;
+}
+
+article.post-content>p:first-child, 
+article.post-content>p:nth-child(2) {
+	font-weight: 600;
+}
+
+header.post-header{
+	margin-bottom: 0;
 }
 
 /* Foot styles*/
 footer.site-footer {
-	height: 100px;
+	height: 70px;
+	border: none;
+	background-color: $beige-color;
 }
 
+.footer-col-wrapper {
+	font-weight: 600;
+}
+
+.footer-col-wrapper .footer-col {
+	margin-bottom: 0;
+}
+
+.footer-col-wrapper .footer-col a:hover{
+	text-decoration: none;
+	color: $grey-color-dark;
+}
