@@ -20,6 +20,11 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$blue-color: 		#6b7a8f;
+$orange-color: 		#f7882f;
+$yellow-color:		#f7c331;
+$beige-color: 		#dcc7aa;
+
 // Width of the content area
 $content-width:    800px;
 
@@ -45,6 +50,7 @@ $on-laptop:        800px;
 body {
 	font: 400 16px/1.5 'Open Sans', sans-serif;
 	background: #fff;
+	color: $grey-color;
 }
 
 a {
@@ -79,17 +85,26 @@ div.header-img {
 .site-title, .site-title:visited {
 	font-size: 2.5em;
 	font-weight: 700;
-	color: #dcc7aa;
+	color: $beige-color;
 	margin-right: auto;
 }
 
+.site-title:hover {
+	text-decoration: none;
+	color: $grey-color-light;
+}
+
 .site-nav .page-link {
-	color: #fff;
+	color: $grey-color-light;
 	font-size: 1.25em;
 	position: relative;
 	top: 7px;
 }
 
+.site-nav .page-link:hover {
+	text-decoration: none;
+	font-weight: 600;
+}
 
 
 @media screen and (max-width: 600px) {
@@ -109,11 +124,90 @@ div.header-img {
 }
 /*Content Styles */
 div.page-content {
-	min-height: calc(100vh - 100px);
+	min-height: calc(100vh - 220px);
+}
+
+/*Homepage */
+.home .header-col .text {
+	font-size: 1.35em;
+	font-weight: 600;
+	color: $grey-color;
+}
+
+.home .post-list li {
+	display: inline-block;
+	margin-bottom: 1em;
+}
+
+.home h2 .post-link {
+	color: $blue-color;
+	font-size: 1.25em;
+	font-weight: 700;
+	background-color: $grey-color-light;
+	padding: 2px 5px;
+}
+
+.home h2 .post-link:hover {
+	color: $grey-color-light;
+	text-decoration: none;
+	background-color: $blue-color;
+}
+
+ @include media-query($on-palm) {
+     .home h2 .post-link {
+		font-size: 1.1em;
+     }
+ }
+
+
+
+/* Issues page styles */
+
+.post .post-header .post-title {
+	display: inline-block;
+	color: $blue-color;
+	font-weight: 700;
+	font-size: 2.5em;
+	background-color: $grey-color-light;
+	padding: 8px 5px;
+}
+
+ @include media-query($on-palm) {
+    .post .post-header .post-title {
+		font-size: 2em;
+     }
+ }
+
+article.post-content p {
+	font-size: 1.15em;
+    color: $grey-color;
+}
+
+article.post-content>p:first-child, 
+article.post-content>p:nth-child(2) {
+	font-weight: 600;
+}
+
+header.post-header{
+	margin-bottom: 0;
 }
 
 /* Foot styles*/
 footer.site-footer {
-	height: 100px;
+	height: 70px;
+	border: none;
+	background-color: $beige-color;
 }
 
+.footer-col-wrapper {
+	font-weight: 600;
+}
+
+.footer-col-wrapper .footer-col {
+	margin-bottom: 0;
+}
+
+.footer-col-wrapper .footer-col a:hover{
+	text-decoration: none;
+	color: $grey-color-dark;
+}
