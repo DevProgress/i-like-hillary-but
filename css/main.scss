@@ -147,8 +147,9 @@ div.page-content {
 }
 
 .home h2 .post-link:hover {
-	color: $yellow-color;
+	color: $grey-color-light;
 	text-decoration: none;
+	background-color: $blue-color;
 }
 
 @include media-query($on-palm) {
