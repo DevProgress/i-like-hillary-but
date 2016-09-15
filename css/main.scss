@@ -84,8 +84,13 @@ div.header-img {
 .site-title, .site-title:visited {
 	font-size: 2.5em;
 	font-weight: 700;
-	color: #dcc7aa;
+	color: $beige-color;
 	margin-right: auto;
+}
+
+.site-title:hover {
+	text-decoration: none;
+	color: $yellow-color;
 }
 
 .site-nav .page-link {
@@ -95,6 +100,10 @@ div.header-img {
 	top: 7px;
 }
 
+.site-nav .page-link:hover {
+	text-decoration: none;
+	font-weight: 600;
+}
 
 
 @media screen and (max-width: 600px) {
