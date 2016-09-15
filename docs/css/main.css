@@ -461,7 +461,8 @@ pre {
 
 body {
   font: 400 16px/1.5 'Open Sans', sans-serif;
-  background: #fff; }
+  background: #fff;
+  color: #828282; }
 
 a {
   color: inherit; }
@@ -544,6 +545,9 @@ div.page-content {
   text-decoration: none;
   background-color: #6b7a8f; }
 
+@media screen and (max-width: 600px) {
+  .home h2 .post-link {
+    font-size: 1.1em; } }
 /* Issues page styles */
 .post .post-header .post-title {
   display: inline-block;
@@ -553,6 +557,9 @@ div.page-content {
   background-color: #e8e8e8;
   padding: 8px 5px; }
 
+@media screen and (max-width: 600px) {
+  .post .post-header .post-title {
+    font-size: 2em; } }
 article.post-content p {
   font-size: 1.15em;
   color: #828282; }

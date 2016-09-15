@@ -50,6 +50,7 @@ $on-laptop:        800px;
 body {
 	font: 400 16px/1.5 'Open Sans', sans-serif;
 	background: #fff;
+	color: $grey-color;
 }
 
 a {
@@ -152,6 +153,14 @@ div.page-content {
 	background-color: $blue-color;
 }
 
+ @include media-query($on-palm) {
+     .home h2 .post-link {
+		font-size: 1.1em;
+     }
+ }
+
+
+
 /* Issues page styles */
 
 .post .post-header .post-title {
@@ -162,6 +171,12 @@ div.page-content {
 	background-color: $grey-color-light;
 	padding: 8px 5px;
 }
+
+ @include media-query($on-palm) {
+    .post .post-header .post-title {
+		font-size: 2em;
+     }
+ }
 
 article.post-content p {
 	font-size: 1.15em;
