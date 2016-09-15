@@ -540,8 +540,9 @@ div.page-content {
   padding: 2px 5px; }
 
 .home h2 .post-link:hover {
-  color: #f7c331;
-  text-decoration: none; }
+  color: #e8e8e8;
+  text-decoration: none;
+  background-color: #6b7a8f; }
 
 /* Foot styles*/
 footer.site-footer {
