@@ -1,5 +1,6 @@
 ## Set up
 You can skip this step if you already have Ruby and Bundler installed.
+
 1. Get Ruby. Note that these instructions are for OS X 10.6+ only, which comes with Ruby, but it's used for system's own purposes. Follow these steps to avoid mucking with that Ruby's config.
     1. Install [homebrew](http://brew.sh/)
     2. Run `brew update`
