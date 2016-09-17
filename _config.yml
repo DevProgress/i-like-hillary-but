@@ -23,6 +23,7 @@ description: >
 
 baseurl: "/i-like-hillary-but" # the subpath of your site, e.g. /blog
 url: "https://devprogress.us" # the base hostname & protocol for your site
+exclude: [ README.md, Gemfile, Gemfile.lock, LICENSE ]
 
 twitter_username: hillaryclinton
 github_username: devprogress
