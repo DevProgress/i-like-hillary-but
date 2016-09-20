@@ -21,3 +21,6 @@ You can skip this step if you already have Ruby and Bundler installed.
 3. You should see the built site.
 4. Making changes to the source will automatically regenerate Jekyll content.
 5. Refresh the page to see the changes.
+
+## Test
+1. Run `rake test`.
