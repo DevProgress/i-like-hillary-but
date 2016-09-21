@@ -13,7 +13,7 @@ You can skip this step if you already have Ruby and Bundler installed.
            ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin15]
         ```
 2. Get Bundler by running `gem install bundler`.
-3. Run `bundle install` to install project dependencies.
+3. Run `bundle install` in the project folder i.e. i-like-hillary-but to install project dependencies.
 
 ## Develop
 1. Run `bundle exec jekyll serve` to start a local server.
