@@ -573,9 +573,10 @@ header.post-header {
 
 /* Foot styles*/
 footer.site-footer {
-  height: 70px;
+  height: auto;
   border: none;
-  background-color: #dcc7aa; }
+  background-color: #dcc7aa;
+  padding: 15px 0; }
 
 .footer-col-wrapper {
   font-weight: 600; }
@@ -587,6 +588,14 @@ footer.site-footer {
     width: auto; } }
 .footer-col-wrapper .footer-col {
   margin-bottom: 0; }
+
+.footer-col {
+  font-weight: 400;
+  font-size: .95em; }
+
+.footer-col a {
+  font-weight: 600;
+  color: inherit; }
 
 .footer-col-wrapper .footer-col a:hover {
   text-decoration: none;
