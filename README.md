@@ -24,3 +24,7 @@ You can skip this step if you already have Ruby and Bundler installed.
 
 ## Test
 1. Run `rake test`.
+
+## Contributing
+
+Content, UI design, and frontend code contributions are welcome. Please see [our list of open issues](https://github.com/DevProgress/i-like-hillary-but/issues). Please see our [Contribution Guide](CONTRIBUTING.md) for more detail. The guide also covers the [DevProgress code of conduct](https://github.com/DevProgress/code-of-conduct) and the [DevProgress Contributor Agreement](https://github.com/DevProgress/contributor-agreement).
