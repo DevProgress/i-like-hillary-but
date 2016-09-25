@@ -6,7 +6,9 @@ categories: trust
   
 Q: Isn't The Clinton Foundation corrupt?  
   
-A: Nothing could be further from the truth. First, let's take a quick look at the foundation's history. The Clinton Foundation was founded by President Bill Clinton in 2001, originally to support the work of the Clinton Presidential Center, which contains his Presidential Library and supports the local Arkansas community. President Clinton expanded the role of the foundation in 2002 to help improve global access to treatment for people living with HIV/AIDS. Since then, the foundation has continued to grow and take on new challenges, including battling climate change, fighting childhood obesity, and increasing opportunities for women and girls, to name just a few.
+A: Nothing could be further from the truth. The Clinton Foundation is a world-renowned charitable organization. It has recieved top marks from independent charity watchdog groups. And, despite what her opponent and his surrogates claim, there is absolutely no truth their ridiculous accusations.
+
+First, let's take a quick look at the foundation's history. The Clinton Foundation was founded by President Bill Clinton in 2001, originally to support the work of the Clinton Presidential Center, which contains his Presidential Library and supports the local Arkansas community. President Clinton expanded the role of the foundation in 2002 to help improve global access to treatment for people living with HIV/AIDS. Since then, the foundation has continued to grow and take on new challenges, including battling climate change, fighting childhood obesity, and increasing opportunities for women and girls, to name just a few.
 
 Here are some [interesting facts about the foundation's work](https://www.hillaryclinton.com/feed/the-clinton-foundation-explained/): 
 * 2/3rds of people who have received HIV/AIDS treatment throughout the world have been able to so because of the Clinton Foundation.
