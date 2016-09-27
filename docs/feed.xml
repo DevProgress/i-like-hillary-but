@@ -6,6 +6,8 @@
 </description>
     <link>https://devprogress.us/i-like-hillary-but/</link>
     <atom:link href="https://devprogress.us/i-like-hillary-but/feed.xml" rel="self" type="application/rss+xml"/>
+
+
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -44,7 +46,11 @@ support work to keep military-style weapons off our streets.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
+<<<<<<< HEAD
+        <pubDate>Mon, 26 Sep 2016 23:38:32 -0400</pubDate>
+=======
         <pubDate>Sat, 24 Sep 2016 23:24:54 -0700</pubDate>
+>>>>>>> d788263cb409bd2ce1e8565661b50b4ead9365cd
         <link>https://devprogress.us/i-like-hillary-but/issues/but-hillary-wants-my-guns/</link>
         <guid isPermaLink="true">https://devprogress.us/i-like-hillary-but/issues/but-hillary-wants-my-guns/</guid>
         
