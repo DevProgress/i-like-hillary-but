@@ -506,6 +506,15 @@ div.header-img {
   text-decoration: none;
   font-weight: 600; }
 
+.sharing-links > * {
+  vertical-align: bottom !important; }
+
+span.sharing-links {
+  display: inline-block; }
+
+div.post-meta {
+  margin-bottom: 1em; }
+
 @media screen and (max-width: 600px) {
   .site-nav .page-link {
     color: #111;
@@ -547,7 +556,10 @@ div.page-content {
 
 @media screen and (max-width: 600px) {
   .home h2 .post-link {
-    font-size: 1.1em; } }
+    font-size: 1.1em; }
+
+  .sharing-links {
+    display: none; } }
 /* Issues page styles */
 .post .post-header .post-title {
   display: inline-block;
