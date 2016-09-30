@@ -106,6 +106,16 @@ div.header-img {
 	font-weight: 600;
 }
 
+// For sharing, Fix alignment
+.sharing-links > * {
+	vertical-align: bottom !important;
+}
+span.sharing-links {
+	display: inline-block;
+}
+div.post-meta {
+	margin-bottom: 1em;
+}
 
 @media screen and (max-width: 600px) {
 	.site-nav .page-link {
@@ -153,11 +163,14 @@ div.page-content {
 	background-color: $blue-color;
 }
 
- @include media-query($on-palm) {
-     .home h2 .post-link {
+@include media-query($on-palm) {
+	.home h2 .post-link {
 		font-size: 1.1em;
-     }
- }
+	}
+	.sharing-links {
+		display: none;
+	}
+}
 
 
 
@@ -183,7 +196,7 @@ article.post-content p {
     color: $grey-color;
 }
 
-article.post-content>p:first-child, 
+article.post-content>p:first-child,
 article.post-content>p:nth-child(2) {
 	font-weight: 600;
 }
