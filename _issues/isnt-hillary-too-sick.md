@@ -24,7 +24,7 @@ conditions include hypothyroidism and seasonal pollen allergies",
 
 
 On September 11, 2016, Hillary had
-[an incident in New York City](https://www.washingtonpost.com/politics/clinton-falls-ill-during-911-memorial-service-in-new-york/). One
+[an incident in New York City](https://www.washingtonpost.com/politics/clinton-falls-ill-during-911-memorial-service-in-new-york/2016/09/11/a52e09c2-7855-11e6-ac8e-cf8e0dd91dc7_story.html). One
 of the most famous living journalists in United States history, Dan
 Rather, put
 [this into context](https://www.facebook.com/theDanRather/posts/10157417560045716):
