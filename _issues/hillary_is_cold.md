@@ -1,19 +1,19 @@
----  
-layout: post  
-title: "But Hillary Clinton cold, robotic, and unlikable"  
+---
+layout: post
+title: "But Hillary Clinton cold, robotic, and unlikable"
 categories: personality
----  
-  
-Q: Why is Hillary so cold, robotic, and unlikable?  
-  
+---
+
+Q: Why is Hillary so cold, robotic, and unlikable?
+
 A: Well, first of all, the real Hillary Clinton is none of those things. Just ask the people who know her. The Hillary that some people think is real is the result of decades-long attacks by her critics, a psychological phenomena, and Hillary's admitted discomfort with the process of campaigning.
 
-Imagine being in the public eye, at a national and even world-wide level, since 1992. Imagine that you had a vocal group of people that critized everthing you did, every word that came out of your mouth, every new hair style and clothing choice, the sound of your voice, your laugh, and your smile. Even her [cookie recipe](http://www.cnn.com/2012/03/16/opinion/swinth-hillary-clinton/index.html) created controversy. No kidding. That is the scrutiny that Hillary Clinton has faced for almost three decades. 
+Imagine being in the public eye, at a national and even world-wide level, since 1992. Imagine that you had a vocal group of people that critized everthing you did, every word that came out of your mouth, every new hair style and clothing choice, the sound of your voice, your laugh, and your smile. Even her [cookie recipe](http://www.cnn.com/2012/03/16/opinion/swinth-hillary-clinton/index.html) created controversy. No kidding. That is the scrutiny that Hillary Clinton has faced for almost three decades.
 
 Even before entering the public spotlight, Hillary learned that, as a woman, [she needed to keep her emotions in check](http://www.humansofnewyork.com/post/150127870371/i-was-taking-a-law-school-admissions-test-in-a):
->I know that I can be perceived as aloof or cold or unemotional, but I had to learn as a young woman to control my emotions. And that’s a hard path to walk. Because you need to protect yourself, you need to keep steady, but at the same time you don’t want to seem ‘walled off.’ 
+>I know that I can be perceived as aloof or cold or unemotional, but I had to learn as a young woman to control my emotions. And that’s a hard path to walk. Because you need to protect yourself, you need to keep steady, but at the same time you don’t want to seem ‘walled off.’
 
-Donald Trump has no similar constraints. Frankly, no other Presidential candidate ever has. If Hillary is perceived as too serious, she is labeled "angry and defensive." If she expresses passion for the causes she has fought for her whole political life, she is "too emotional." But why is that? Well, [one study](http://psycnet.apa.org/journals/emo/9/5/649/) indicates that it's because we perceive men and women differently. In this study, subjects were shown pictures of the faces of men and women in various poses. The subjects were asked if the person in the picture was likely being emotional, or responding to a situation. The study showed that in most cases, the women were said to be emotional, while the men were reacting to a situation. Unfortunately, [these stereotypes are playing out in this election](http://www.nytimes.com/2016/09/25/opinion/sunday/hillary-clintons-angry-face.html?_r=0).   
+Donald Trump has no similar constraints. Frankly, no other Presidential candidate ever has. If Hillary is perceived as too serious, she is labeled "angry and defensive." If she expresses passion for the causes she has fought for her whole political life, she is "too emotional." But why is that? Well, [one study](http://psycnet.apa.org/journals/emo/9/5/649/){:data-proofer-ignore="true"} indicates that it's because we perceive men and women differently. In this study, subjects were shown pictures of the faces of men and women in various poses. The subjects were asked if the person in the picture was likely being emotional, or responding to a situation. The study showed that in most cases, the women were said to be emotional, while the men were reacting to a situation. Unfortunately, [these stereotypes are playing out in this election](http://www.nytimes.com/2016/09/25/opinion/sunday/hillary-clintons-angry-face.html?_r=0).
 
 And to top it off, Hillary knows that she is not [a natural politician](http://www.politico.com/blogs/2016-dem-primary-live-updates-and-results/2016/03/hillary-clinton-i-am-not-a-natural-politician-220544).
 
