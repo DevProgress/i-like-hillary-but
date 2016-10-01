@@ -23,7 +23,16 @@ You can skip this step if you already have Ruby and Bundler installed.
 5. Refresh the page to see the changes.
 
 ## Test
-1. Run `rake test`.
+1. Run `rake`. This exact thing will happen automatically when you post a pull request. As a result, your pull request will either have the "All checks passed" or "All checks failed" from a mysterious Travis CI. If you get an error, click on `Details` to see the results of the test run.
+2. When the test fails, it usually comes up with a list of errors. Here's a handy guide to some errors:
+    1. The `404 No error` message means that the link in your article is likely leading to a dead end. Please double-check the link.
+    2. The `302 Number of redirects hit maximum amount` error sometimes happens when the site you're linking to takes special measures to protect against bots (such as the link-checker in our test).
+3. If you are satisfied with your check, but the error still appears, you can suppress it by adding the `{:data-proofer-ignore="true"}` incantation at the end of the link markdown. For example:
+
+```
+... Well, [one study](http://psycnet.apa.org/journals/emo/9/5/649/){:data-proofer-ignore="true"} indicates ...
+```
+
 
 ## Contributing
 
