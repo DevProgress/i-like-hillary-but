@@ -1,18 +1,47 @@
 ---
-layout: default
+layout: hero
 ---
+<script type="text/javascript">
+function ready(fn) {
+  if (document.readyState != 'loading'){
+    fn();
+  } else {
+    document.addEventListener('DOMContentLoaded', fn);
+  }
+}
+
+ready(function() {
+
+  var callback = function() {
+    var heros;
+
+    while ((heros = document.body.getElementsByClassName("hero")) && heros.length > 0) {
+      var hero = heros[0];
+      hero.className = hero.className.split(' ').filter(function(cls) { return cls != "hero"; }).join(' ');
+    }
+    document.body.onmousemove = null;
+    document.body.onscroll = null;
+    document.body.onkeydown = null;
+  };
+
+  document.body.onmousemove = callback;
+  document.body.onscroll = callback;
+  document.body.onkeydown = callback;
+
+});
+</script>
+
+<header class="home-header hero wrapper">
+  <h1>I'd vote for Hillary, but...</h1>
+</header>
 
 <div class="home">
-  <div class="header-col  header-col-3">
-        <p class="text">{{ site.description }}</p>
-  </div>
-
   <ul class="post-list">
     {% for post in site.issues %}
       <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          <span class="wrapper">{{ post.title | escape }}</span>
+        </a>
       </li>
     {% endfor %}
   </ul>
