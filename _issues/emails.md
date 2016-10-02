@@ -4,7 +4,7 @@ title: "But isn't she a criminal for using a private email server?"
 categories: controversy
 ---  
 
-Source: (http://www.politico.com/magazine/story/2016/09/hillary-clinton-emails-2016-server-state-department-fbi-214307)
+Source: [What the FBI Files Reveal About Hillary Clinton’s Email Server](http://www.politico.com/magazine/story/2016/09/hillary-clinton-emails-2016-server-state-department-fbi-214307)
  
 Q: Isn't Hillary is a criminal because she used a private email server?
   
