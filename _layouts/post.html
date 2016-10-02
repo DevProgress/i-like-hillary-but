@@ -3,18 +3,28 @@ layout: default
 ---
 <div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <div class="post-meta">{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • <span class="sharing-links">{% include social-sharing.html %}</span></div>
-  </header>
-
   <article class="post-content">
 	{% if page.image %}
   	<img src="/img/{{ page.image }}">
     {% endif %}
 
-
     {{ content }}
   </article>
+
+  <div class="call-to-action">
+    <p>
+      <a class="primary-action" href="http://www.rockthevote.org/">Register to Vote</a>
+      <a class="secondary-action" href="https://www.hillaryclinton.com/donate/">Donate</a>
+    </p>
+    <p>
+      <a class="not-convinced" href="#">I'm still not convinced</a>
+    </p>
+  </div>
+
+  <div class="post-meta">
+    <span class="sharing-links">{% include social-sharing.html %}</span>
+    {% if page.author %} • {{ page.author }}{% endif %}
+    {% if page.meta %} • {{ page.meta }}{% endif %}
+  </div>
 
 </div>
