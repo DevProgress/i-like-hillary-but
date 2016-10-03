@@ -18,8 +18,7 @@ Consider the facts:
 
 > While this agreement provides some benefit for New York, I regretfully conclude the harm outweighs the good. I must therefore vote to oppose...Sadly, DR-CAFTA is a step backward.
 
-* Fact: Like Senator Bernie Sanders, Hillary voted against the [Trade Act of 2002](http://www.politifact.com/truth-o-meter/statements/2016/apr/10/bernie-s/clinton-voted-virtually-every-trade-
-agreement-kill/). This legislation extended the Andean Trade Preference Act, but also gave the President fast track authority to negotiate trade deals. Fast track authority means that when the President negotiates a trade deal, Congress can only vote for or against it.
+* Fact: Like Senator Bernie Sanders, Hillary voted against the [Trade Act of 2002](http://www.politifact.com/truth-o-meter/statements/2016/apr/10/bernie-s/clinton-voted-virtually-every-trade-agreement-kill/). This legislation extended the Andean Trade Preference Act, but also gave the President fast track authority to negotiate trade deals. Fast track authority means that when the President negotiates a trade deal, Congress can only vote for or against it.
 
 * Fact: Hillary did not "flip flop" on TPP. Yes, Hillary did originally support the Trans-Pacific Partnership, or TPP. However, when the final deal was finished, [it did not meet her standards](http://www.ontheissues.org/2016/Hillary_Clinton_Free_Trade.htm). As a result, she felt obligated to oppose it:
 
