@@ -118,6 +118,7 @@ div.page-content {
 	flex: auto;
 	overflow-y: auto;
 	overflow-x: hidden;
+	padding-bottom: 0;
 }
 
 /*Homepage */
@@ -291,7 +292,6 @@ footer.site-footer {
 	padding-top: $spacing-unit/2;
 	padding-bottom: $spacing-unit/2;
 	font-size: 0.95em;
-	flex: 0;
 }
 
 footer.site-footer p { margin-bottom: 0; padding-bottom: 0; }
