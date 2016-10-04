@@ -51,7 +51,6 @@ body {
 	font-size: $base-font-size;
 	background-color: $background-color;
 	color: $content-text-color;
-	padding-bottom: 3em;
 
 	display: flex;
 	flex-direction: column;
@@ -119,7 +118,6 @@ div.page-content {
 	flex: auto;
 	overflow-y: auto;
 	overflow-x: hidden;
-	//min-height: calc(100vh - 220px);
 }
 
 /*Homepage */
@@ -138,13 +136,15 @@ span.wrapper {
 	display: block;
 }
 
-a.post-link,
-a.post-link:active,
-a.post-link:visited {
-	color: $title-color;
+a.post-link {
 	font-size: 2.5em;
 	font-weight: 700;
 	padding: 2px 5px;
+}
+
+a.post-link,
+a.post-link:visited {
+	color: $title-color;
 	background-color: transparent;
 	text-decoration: none;
 }
@@ -155,38 +155,51 @@ a.post-link:hover {
 	background-color: $brand-color-light;
 }
 
+header.home-header {
+	color: $title-color;
+	font-size: 0.6em;
+	transition-duration: 1s;
+	transition-property: font-size, padding-top, padding-bottom, margin-bottom, font-weight, height, min-height;
+	transition-timing-function: ease-in;
+
+	width: 100%;
+	flex: 1 0 auto;
+	display: flex;
+	align-items: center;
+	min-height: 0;
+}
+header.home-header h1 {
+	margin-bottom: 0;
+	transition-duration: 1s;
+	transition-property: font-weight;
+	padding-top: 1em;
+}
+
+header.hero {
+	font-size: 3em;
+	min-height: 100vh;
+	margin-bottom: 10em;
+}
+
+header.hero h1 {
+	font-weight: 700;
+}
+
 @include media-query($on-palm) {
+	a.post-link {
+		font-size: 2em;
+	}
+
 	.home h2 .post-link {
 		font-size: 1.1em;
 	}
 	.sharing-links {
 		display: none;
 	}
-}
 
-header.home-header {
-	color: $title-color;
-	font-size: 0.6em;
-	padding-top: 5em;
-	padding-bottom: 3em;
-	transition-duration: 1s;
-	transition-property: font-size, padding-top, padding-bottom, margin-bottom, font-weight, height;
-	transition-timing-function: ease-in;
-	width: 100%;
-}
-header.home-header h1 {
-	margin-bottom: 0;
-	transition-duration: 1s;
-	transition-property: font-weight;
-}
-
-header.hero {
-	font-size: 3em;
-	margin-bottom: 10em;
-}
-
-header.hero h1 {
-	font-weight: 700;
+	header.hero {
+		font-size: 2.25em;
+	}
 }
 
 /* Issues page styles */
@@ -273,16 +286,12 @@ article.post-content>p:nth-child(2) {
 footer.site-footer {
 	height: auto;
 	border: none;
-	position: fixed;
-	bottom: 0;
-	left: 0;
-	right: 0;
 	background-color: $background-color;
 	font-weight: 400;
-	margin-bottom: 0;
 	padding-top: $spacing-unit/2;
 	padding-bottom: $spacing-unit/2;
 	font-size: 0.95em;
+	flex: 0;
 }
 
 footer.site-footer p { margin-bottom: 0; padding-bottom: 0; }
