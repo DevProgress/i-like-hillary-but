@@ -271,7 +271,6 @@ pre {
 
 .post-list {
   margin-left: 0;
-  margin-top: 1em;
   list-style: none; }
   .post-list > li {
     margin-bottom: 30px; }
@@ -567,11 +566,10 @@ header.home-header {
   min-height: 0; }
 
 header.home-header h1 {
-  margin-bottom: 1em;
+  margin-bottom: 0;
   transition-duration: 1s;
   transition-property: font-weight;
-  padding-top: 4em; 
-  font-size: 2.25em; }
+  padding-top: 1em; }
 
 header.hero {
   font-size: 3em;
@@ -580,11 +578,6 @@ header.hero {
 
 header.hero h1 {
   font-weight: 700; }
-
-/* Changes vertical header spacing for mobile */
-@media screen and (max-width: 800px) {
-  header.home-header h1 {
-    padding-top: 1.5em; } }
 
 @media screen and (max-width: 600px) {
   a.post-link {
@@ -656,7 +649,7 @@ article.post-content p {
 
 article.post-content > p:first-child,
 article.post-content > p:nth-child(2) {
-  font-weight: 600;
+  font-weight: 300;
   color: #0057B8; }
 
 /* Footer styles*/
