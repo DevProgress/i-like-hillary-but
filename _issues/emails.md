@@ -8,7 +8,7 @@ Source: [What the FBI Files Reveal About Hillary Clinton’s Email Server](http:
  
 Hillary is a criminal because she used a private email server
   
-Although Hillary was not the first Secretary of State to use a private email account for business, she has stated repeatedly that her use of a private email server was a mistake. Additionally, an intensive FBI investigation showed that her actions were not criminal. Hillary used a personal email server merely for convenience, and not to circumvent security regulations, as her critics have claimed. Let's look at the facts:
+Although Hillary was not the first Secretary of State to use a private email account for business, she has stated repeatedly that her use of a private email server was a mistake. Additionally, an intensive FBI investigation showed that her actions were not criminal. Hillary used a personal email server for convenience, and not to circumvent security regulations, as her critics have claimed. Let's look at the facts:
 
 * **Fact**: The FBI investigation concluded that there was **no criminal wrongdoing.** As we all know, on July 5th, FBI Director James Comey took the unprecedented step of publicly criticizing Hillary for her use of private emails. However, he went on to say that the FBI investigation showed that there was insufficient evidence of any criminal wrongdoing.  
 
