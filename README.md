@@ -33,6 +33,10 @@ You can skip this step if you already have Ruby and Bundler installed.
 ... Well, [one study](http://psycnet.apa.org/journals/emo/9/5/649/){:data-proofer-ignore="true"} indicates ...
 ```
 
+## Building
+
+Issues are stored as markdown in the `_issues` directory. To serve these via Github Pages, run `./build.sh` which generates the `docs` directory.
+
 
 ## Contributing
 
