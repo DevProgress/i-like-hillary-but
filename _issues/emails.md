@@ -28,7 +28,7 @@ Q: If she had nothing to hide, why did she destroy her old phones?
 
 A: If Hillary had a government-issued Blackberry, it would have met a similar fate at the end of her tenure. Old government phones are  [completely wiped clean and recycled, or they are destroyed] (https://www.wired.com/2016/09/actually-clinton-destroyed-phones-better/). Jonathan Zdziarski, iOS forensics expert and security researcher, stated that if he were to destroy a Blackberry, he'd use "a blender and fire."
 
-Q: And why did she delete all of those emails?
+Q: And why did she delete those 33,000 emails?
 
 A: FBI Director Comey explained that very well in his [testimony to Congress](https://www.c-span.org/video/?412315-1/fbi-director-james-comey-testifies-hillary-clinton-email-probe&live):
 
