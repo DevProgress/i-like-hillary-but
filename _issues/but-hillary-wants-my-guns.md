@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "But Hillary wants my guns!"
+title: "But oesn't she want my guns?"
 categories: guns, gun control
 ---
 
-Q: But Hillary wants my guns!
+**Q: But doesn't Hillary want my guns?**
 
 
-A: That's not precisely correct!
+**A**: That's not precisely correct!
 
 Basically, she doesn't want your guns, unless you're a felon, a
 domestic abuser, or someone with severe mental illnesses. And I think

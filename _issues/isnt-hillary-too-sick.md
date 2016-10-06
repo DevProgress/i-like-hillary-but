@@ -4,9 +4,9 @@ title: "But isn't Hillary too sick to be president?"
 categories: health
 ---
 
-Q: Isn't Hillary too sick to be President?
+**Q: Isn't Hillary too sick to be President?**
 
-A: No. While personal health is a consideration when choosing a
+**A**: No. While personal health is a consideration when choosing a
 President, Hillary **is a healthy woman**, who happens to have some mild
 health conditions.
 
