@@ -1,3 +1,9 @@
+---  
+layout: post  
+title: "Isn't she cold and unlikable?"  
+categories: personality
+---  
+  
 **Q**: Isn't Hillary is cold and unlikable?
   
 **A**: The real Hillary Clinton is none of those things. Just ask [the people who know her](http://www.vox.com/a/hillary-clinton-interview/the-gap-listener-leadership-quality):
@@ -10,7 +16,6 @@
 
 [Madeleine Albright](https://www.demconvention.com/app_news/app_news_speeches/former-secretary-state-madeleine-albright-2016-dnc-speech/), former Secretary of State:
 >"She knows that **safeguarding freedom and security is not like hosting a reality TV show**. It is a complex, round-the-clock job that demands not only a steady hand and a cool head, but also a big heart."
->>>>>>> b6e9826ab0e721872665e50ec2fe2017c211172b
 
 [Chelsea Clinton](http://www.realclearpolitics.com/video/2016/07/28/chelsea_clinton_introduces_hillary_at_dnc_she_never_forgets_who_she_is_fighting_for.html):
 >"I never once doubted that my parents cared about my thoughts and my ideas, and **I always knew how deeply they love me**. That feeling of being valued and loved — that is what my mom wants for every child. It is the calling of her life."
