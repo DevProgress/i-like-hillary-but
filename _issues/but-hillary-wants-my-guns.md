@@ -7,13 +7,10 @@ categories: guns, gun control
 Q: But Hillary wants my guns!
 
 
-A: That's not precisely correct!
+A: Not unless you're a terrorist, a violent criminal, or severely mentally ill.
 
-Basically, she doesn't want your guns, unless you're a felon, a
-domestic abuser, or someone with severe mental illnesses. And I think
-we can all agree that people like that shouldn't really have access to
-guns.
-
+> If you’re too dangerous to get on a plane, you are too dangerous to buy a gun in
+America. (Hillary, June 13, 2016)
 
 Here's what her campaign [website](https://www.hillaryclinton.com/issues/gun-violence-prevention/) says:
 
