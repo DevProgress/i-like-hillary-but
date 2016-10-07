@@ -10,7 +10,7 @@ A: No. A "war hawk" is considered to be someone who favors military use over dip
 
 * Hillary is a **diplomat first**. As Secretary of State, she [visited 112 different countries and logged almost 1,000,000 miles!](https://mic.com/articles/21829/5-top-highlights-in-hillary-clinton-s-secretary-of-state-tenure#.x0B1Hndr6) Hillary negotiated a ceasefire between Israel and Hamas, helped open Burma to the rest of the world, and pushed the sanctions that finally got Iran to the negotiating table. 
 
-* Yes, Hillary voted for the Iraq War in 2002. However, she and the other 76 Senators who voted Yes were **told by the Bush administration that war would be the last resort**. On the Senate floor, [Hillary explained the thought process behind her vote](http://www.thepeoplesview.net/main/2016/3/20/hillary-clinton-is-not-a-hawk-foreign-policy)as bipartisan support that would bring more allies and legitimacy to the cause. 
+* Yes, Hillary voted for the Iraq War in 2002. However, she and the other 76 Senators who voted Yes were **told by the Bush administration that war would be the last resort**. On the Senate floor, [Hillary explained the thought process behind her vote](http://www.thepeoplesview.net/main/2016/3/20/hillary-clinton-is-not-a-hawk-foreign-policy) as bipartisan support that would bring more allies and legitimacy to the cause. 
 
 * Hillary's critics have made Benghazi a "rallying cry." They've used the deaths of four American citizens, including U.S. Ambassador Christopher Stevens, [to score political points](http://www.cnn.com/2015/10/14/politics/hillary-clinton-benghazi-committee/index.html) and to paint Hillary as incompetent and hawkish. They've even **admitted that the Benghazi investigations were politically motivated**.
 
