@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "But Hillary wants my guns!"
+title: "Hillary wants my guns!"
 categories: guns, gun control
 ---
 
