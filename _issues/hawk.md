@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "But isn't she a war hawk?"  
+title: "Isn't she a war hawk?"  
 categories: policy
 ---  
 
