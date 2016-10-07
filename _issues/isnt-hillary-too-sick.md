@@ -20,6 +20,6 @@ Dan Rather has well over 40 years of context for Presidential campaigns: he ough
 
 Q: Why did they say she was suffering from heat exhaustion rather than pneumonia?
 
-A: Hillary's illness at the 9/11 event was a result of overheating and overexertion, which is not uncommon when battling an infection like pneumonia. Thus the initial statement given by the campaign was accurate. Like a number of Americans, Hillary chose to continue working, even when ill, and did not share the information regarding her illness widely across the campaign. [It was only after this incident that Secretary Clinton and her campaign chose to spread the news of her illness and have her doctor comment further on her condition.](http://www.nbcnews.com/politics/2016-election/hillary-clinton-falls-ill-9-11-memorial-n-y-n646376)
+A: Hillary's illness at the 9/11 event was a result of overheating and overexertion, which is not uncommon when battling an infection like pneumonia. Thus the initial statement given by the campaign was accurate. Like many Americans, Hillary chose to continue working, even when ill, and did not share the information regarding her illness widely across the campaign. [It was only after this incident that Secretary Clinton and her campaign chose to spread the news of her illness and have her doctor comment further on her condition.](http://www.nbcnews.com/politics/2016-election/hillary-clinton-falls-ill-9-11-memorial-n-y-n646376)
 
 
