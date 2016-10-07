@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "...but isn't her foundation corrupt?"  
+title: "...isn't her foundation corrupt?"  
 categories: trust  
 ---  
   
