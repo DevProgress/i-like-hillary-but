@@ -138,7 +138,7 @@ span.wrapper {
 }
 
 a.post-link {
-	font-size: 2.5em;
+	font-size: 2.25em;
 	font-weight: 700;
 	padding: 2px 5px;
 }
@@ -158,7 +158,7 @@ a.post-link:hover {
 
 header.home-header {
 	color: $title-color;
-	font-size: 0.6em;
+	font-size: 0.75em;
 	transition-duration: 1s;
 	transition-property: font-size, padding-top, padding-bottom, margin-bottom, font-weight, height, min-height;
 	transition-timing-function: ease-in;
@@ -173,7 +173,8 @@ header.home-header h1 {
 	margin-bottom: 0;
 	transition-duration: 1s;
 	transition-property: font-weight;
-	padding-top: 1em;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
 }
 
 header.hero {
@@ -208,7 +209,7 @@ header.post-header {
 	background-color: $brand-color-light;
 	color: $title-color;
 	margin-bottom: 0;
-	padding-top: 1em;
+	padding-top: 0.5em;
 	font-size: 7vmin;
 	flex: 0 1 auto;
 }
@@ -279,7 +280,7 @@ article.post-content p {
 
 article.post-content>p:first-child,
 article.post-content>p:nth-child(2) {
-	font-weight: 600;
+	font-weight: 300;
 	color: $brand-color-dark;
 }
 

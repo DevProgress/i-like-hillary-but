@@ -1,4 +1,7 @@
 *~
 _site
+_dev_config.yml
 .sass-cache
 .jekyll-metadata
+.DS_Store
+
