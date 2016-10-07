@@ -19,9 +19,7 @@ Q: OK, if it wasn't a crime or against the rules, she was still negligent and ex
 A: No. Consider these facts:
 
 * The three emails Hillary received containing classified information were not properly marked to indicate their sensitive content. FBI Director James Comey stated that the emails lacked the proper headers and banners indicating they were classified. He went on to say that **it would be a “reasonable inference” to assume that the emails were not classified.**
-
 * Hillary strongly preferred in-person conversations and printed documents to emails. **Most of her communications were done outside of email.** To put things in perspective, of the approximately 40,000 emails sent and received on the private servers, **only 0.0048 percent** of those emails were even in question.
-
 * Hillary **used [Sensitive Compartmented Information Facilities (SCIFs)](https://en.wikipedia.org/wiki/Sensitive_Compartmented_Information_Facility)** throughout her tenure as Secretary of State. A SCIF is a secure area or room where sensitive information is viewed or discussed, and where secure telephone conversations are conducted. She even had SCIFs in her homes in Washington DC and Chappaqua, NY.
 
 Q: If she had nothing to hide, why did she destroy her old phones?
