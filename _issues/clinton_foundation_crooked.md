@@ -22,7 +22,7 @@ categories: trust
 
 **A**: Neither Hillary, Bill, nor Chelsea Clinton [draw a salary from the Clinton Foundation](https://www.clintonfoundation.org/about/frequently-asked-questions) or are otherwise compensated for their work for the foundation. Additionally:
 
-* A remarkable [**88% of the funds** collected by the Clinton Foundation went to charity]https://www.charitywatch.org/ratings-and-metrics/bill-hillary-chelsea-clinton-foundation/478.
+* A remarkable [**88% of the funds** collected by the Clinton Foundation went to charity](https://www.charitywatch.org/ratings-and-metrics/bill-hillary-chelsea-clinton-foundation/478).
 * There is [**no evidence**](http://www.vox.com/policy-and-politics/2016/8/30/12690444/alma-powell-clinton-foundation) to support accusations that Clinton Foundation donors gained special access or favors from the State Department under Hillary. 
 
 **Q**: What is The Clinton Foundation anyway?
