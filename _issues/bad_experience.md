@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "But isn't her experience all bad?"  
+title: "...but isn't her experience all bad?"  
 categories: experience
 ---  
   

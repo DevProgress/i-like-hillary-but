@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "But isn't Hillary Clinton's foundation corrupt?"  
+title: "...but isn't her foundation corrupt?"  
 categories: trust  
 ---  
   

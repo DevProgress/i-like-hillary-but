@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "But Hillary Clinton cold, robotic, and unlikable"
+title: "...but isn't she cold, robotic, and unlikable?"
 categories: personality
 ---
 

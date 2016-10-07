@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "But hasn't the establishment failed us?"  
+title: "...but hasn't the establishment failed us?"  
 categories: obama
 ---  
 **Q: Why has the establishment failed us?**  

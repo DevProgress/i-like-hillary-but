@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "But isn't she for free trade?"  
+title: "...but isn't she for free trade?"  
 categories: policy
 ---  
 
