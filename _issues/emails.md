@@ -1,14 +1,14 @@
 ---  
 layout: post  
-title: "Hillary is a criminal for using a private email server"  
+title: "isn't she a criminal for using a private email server?"  
 categories: controversy
 ---  
 
 Source: [What the FBI Files Reveal About Hillary Clinton’s Email Server](http://www.politico.com/magazine/story/2016/09/hillary-clinton-emails-2016-server-state-department-fbi-214307)
  
-Q: Isn't Hillary is a criminal because she used a private email server?
+**Q: Isn't Hillary is a criminal because she used a private email server?**
   
-A: No, an intensive FBI investigation concluded that there was **no criminal wrongdoing.** As we all know, on July 5th, FBI Director James Comey took the unprecedented step of publicly criticizing Hillary for her use of private emails. However, he went on to say that the FBI investigation showed that there was insufficient evidence of any criminal wrongdoing.  
+**A**: No, an intensive FBI investigation concluded that there was **no criminal wrongdoing.** As we all know, on July 5th, FBI Director James Comey took the unprecedented step of publicly criticizing Hillary for her use of private emails. However, he went on to say that the FBI investigation showed that there was insufficient evidence of any criminal wrongdoing.  
 
 Q: Even if it wasn't a crime, wasn't it against Department of State requlations?
 

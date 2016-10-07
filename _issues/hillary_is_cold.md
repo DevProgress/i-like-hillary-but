@@ -1,12 +1,12 @@
----  
-layout: post  
-title: "Isn't she cold and unlikable?"  
+---
+layout: post
+title: "isn't she cold, robotic, and unlikable?"
 categories: personality
 ---  
   
-**Q**: Isn't Hillary is cold and unlikable?
+**Q: Why is Hillary so cold, robotic, and unlikable?**
   
-**A**: The real Hillary Clinton is none of those things. Just ask [the people who know her](http://www.vox.com/a/hillary-clinton-interview/the-gap-listener-leadership-quality):
+**A**: Well, first of all, the real Hillary Clinton is none of those things. Just ask [the people who know her](http://www.vox.com/a/hillary-clinton-interview/the-gap-listener-leadership-quality). The Hillary that some people think is real is the result of decades-long attacks by her critics, a psychological phenomena, and Hillary's admitted discomfort with the process of campaigning.
 
 [John Podesta](http://www.vox.com/a/hillary-clinton-interview/the-gap-listener-leadership-quality), Chief of Staff to President Bill Clinton, Counselor to President Barack Obama, and Chairman of Hillary's 2016 Presidential Campaign:
 >"You hear people say, ‘She’s so different in person.’ That’s what they’re finding so appealing. When people don’t know her well and they encounter her, people are taken with the fact that **she is interested in them**."

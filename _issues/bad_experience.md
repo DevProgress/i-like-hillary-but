@@ -1,12 +1,12 @@
 ---  
 layout: post  
-title: "But isn't her experience all bad?"  
+title: "isn't her experience all bad?"  
 categories: experience
 ---  
   
-Q: Hillary has experience, but isn't it bad experience?  
+**Q: Hillary has experience, but isn't it bad experience?**  
   
-A: In the first Presidential debate, Donald Trump claimed that Hillary "has experience, but it's bad experience." This is utter nonsense. Hillary's record of public service spans four decades, starting with her first job out of law school. Here are just a few examples of [Hillary's many accomplishments](https://www.hillaryclinton.com/feed/seven-hillary-clintons-biggest-accomplishments/):
+**A**: In the first Presidential debate, Donald Trump claimed that Hillary "has experience, but it's bad experience." This is utter nonsense. Hillary's record of public service spans four decades, starting with her first job out of law school. Here are just a few examples of [Hillary's many accomplishments](https://www.hillaryclinton.com/feed/seven-hillary-clintons-biggest-accomplishments/):
 
 * **Fact**: As Secretary of State, [Hillary demonstrated her "shuttle diplomacy" skills](http://www.politico.com/story/2012/11/clinton-announces-gaza-cease-fire-084145). During a brutal period of violence, Hillary cut short a trip to southeast Asia and flew to the region. The bus bombing struck Tel Aviv as Hillary arrived to begin an intense round of shuttle negotiations. But **within twenty-four hours, the ceasefire went into effect**.
 

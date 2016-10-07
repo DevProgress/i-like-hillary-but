@@ -1,12 +1,12 @@
 ---  
 layout: post  
-title: "But isn't she a war hawk?"  
+title: "isn't she a war hawk?"  
 categories: policy
 ---  
 
-Q: Isn't Hillary a "war hawk"?
+**Q: Isn't Hillary a "war hawk"?**
   
-A: No. A "war hawk" is considered to be someone who favors military use over diplomacy. That is absolutely NOT Hillary Clinton. Here are the facts:
+**A**: No. A "war hawk" is considered to be someone who favors military use over diplomacy. That is absolutely NOT Hillary Clinton. Here are the facts:
 
 * **Fact:** Hillary is a **diplomat first**. As Secretary of State, she [visited 112 different countries and logged almost 1,000,000 miles!](https://mic.com/articles/21829/5-top-highlights-in-hillary-clinton-s-secretary-of-state-tenure#.x0B1Hndr6) Hillary negotiated a ceasefire between Israel and Hamas, helped open Burma to the rest of the world, and pushed the sanctions that finally got Iran to the negotiating table. 
 

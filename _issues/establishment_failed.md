@@ -1,11 +1,11 @@
 ---  
 layout: post  
-title: "But hasn't the establishment failed us?"  
+title: "hasn't the establishment failed us?"  
 categories: obama
 ---  
-Q: Why has the establishment failed us?  
+***Q: Why has the establishment failed us?**  
   
-A: "Are you better off now than you were four years ago?" Ronald Reagan first posed this question during the 1980 Presidential campaign, and Americans have been asking it themselves ever since. This is the final year of President Obama's second term, so to cover his entire Presidency, let's consider what the current administration has done over the past eight years.
+**A**: "Are you better off now than you were four years ago?" Ronald Reagan first posed this question during the 1980 Presidential campaign, and Americans have been asking it themselves ever since. This is the final year of President Obama's second term, so to cover his entire Presidency, let's consider what the current administration has done over the past eight years.
 
 Has the establishment failed us? Take a look at just a small sampling of what the Obama Administration has accomplished and decide for yourself.
 

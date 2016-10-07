@@ -1,12 +1,12 @@
 ---  
 layout: post  
-title: "But isn't she for free trade?"  
+title: "isn't she for free trade?"  
 categories: policy
 ---  
 
-Q: Doesn't Hillary support trade agreements that take jobs away from American workers?
+**Q: Doesn't Hillary support trade agreements that take jobs away from American workers?**
   
-A: Not at all. Trade deals are complex because they are supposed to benefit all of the nations involved. However, Hillary strongly believes that all trade deals must benefit American workers, first and foremost.   
+**A**: Not at all. Trade deals are complex because they are supposed to benefit all of the nations involved. However, Hillary strongly believes that all trade deals must benefit American workers, first and foremost.   
 
 Consider the facts:
 

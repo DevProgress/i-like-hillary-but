@@ -1,12 +1,12 @@
 ---  
 layout: post  
-title: "But isn't Hillary Clinton's foundation corrupt?"  
+title: "isn't her foundation corrupt?"  
 categories: trust  
 ---  
   
-Q: Isn't The Clinton Foundation corrupt?  
+**Q: Isn't The Clinton Foundation corrupt?**  
   
-A: Nothing could be further from the truth. The Clinton Foundation is a world-renowned charitable organization, and has recieved top marks from independent charity watchdog groups. The only reason it is being attacked now is because Hillary Clinton is running for President.
+**A**: Nothing could be further from the truth. The Clinton Foundation is a world-renowned charitable organization, and has recieved top marks from independent charity watchdog groups. The only reason it is being attacked now is because Hillary Clinton is running for President.
 
 First, let's take a quick look at the foundation's history. The Clinton Foundation was founded by President Bill Clinton in 2001, originally to support the work of the Clinton Presidential Center, which contains his Presidential Library and supports the local Arkansas community. President Clinton expanded the role of the foundation in 2002 to help improve global access to treatment for people living with HIV/AIDS. Since then, the foundation has continued to grow and take on new challenges, including battling climate change, fighting childhood obesity, and increasing opportunities for women and girls, to name just a few.
 
