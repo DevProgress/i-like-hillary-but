@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "...isn't she too sick to be president?"
+title: "isn't she too sick to be president?"
 categories: health
 ---
 

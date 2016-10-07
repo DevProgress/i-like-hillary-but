@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "...isn't she cold, robotic, and unlikable?"
+title: "isn't she cold, robotic, and unlikable?"
 categories: personality
 ---
 

@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "...isn't she a criminal for using a private email server?"  
+title: "isn't she a criminal for using a private email server?"  
 categories: controversy
 ---  
 

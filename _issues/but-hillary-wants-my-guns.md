@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "...doesn't she want my guns?"
+title: "doesn't she want my guns?"
 categories: guns, gun control
 ---
 
