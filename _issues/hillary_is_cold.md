@@ -20,9 +20,6 @@ categories: personality
 [Chelsea Clinton](http://www.realclearpolitics.com/video/2016/07/28/chelsea_clinton_introduces_hillary_at_dnc_she_never_forgets_who_she_is_fighting_for.html):
 >"I never once doubted that my parents cared about my thoughts and my ideas, and **I always knew how deeply they love me**. That feeling of being valued and loved — that is what my mom wants for every child. It is the calling of her life."
 
-Even Donald Trump had praise for Hillary Clinton, before he became her Republican challenger:
->"I think **Hillary Clinton could do whatever she puts her mind to**. I really do. She's incredibly dedicated to public service, she is smart as a whip, and she's effective."
-
 **Q**: So where does the myth that Hillary is unlikeable come from?
 
 **A**: The myth has two main origins: [decades-long attacks](https://decorrespondent.nl/5072/clinton-derangement-syndrome-diagnosing-the-real-reason-that-so-many-americans-hate-hillary/1434615793424-45000115) by Hillary’s critics; and the [pressures placed](http://www.nytimes.com/2016/09/25/opinion/sunday/hillary-clintons-angry-face.html?_r=0) on female public figures.
@@ -31,6 +28,7 @@ Even Donald Trump had praise for Hillary Clinton, before he became her Republica
 * If Hillary is perceived as too serious, she is labeled [angry and defensive.”](http://nytlive.nytimes.com/womenintheworld/2016/09/08/clinton-criticized-for-not-smiling-enough-during-commander-in-chief-forum/)If she expresses passion for the causes she has fought for her whole political life, she is ["too emotional."](https://thinkprogress.org/media-torn-over-whether-to-cast-clinton-as-weak-or-calculating-for-emotional-display-89faa9827964#.45qbd7hn2) Even her [cookie recipe](http://www.cnn.com/2012/03/16/opinion/swinth-hillary-clinton/index.html) created controversy. 
 
 **Q**: But doesn't politics and campaigining come naturally to her?
+
 **A**: On the contrary, Hillary has acknowledged that [campaigning](http://www.politico.com/blogs/2016-dem-primary-live-updates-and-results/2016/03/hillary-clinton-i-am-not-a-natural-politician-220544) does not come easy for her. Nevertheless, those who [endorse](http://www.chron.com/opinion/recommendations/article/For-Hillary-Clinton-8650345.php) Clinton [note](http://www.azcentral.com/story/opinion/editorial/2016/09/27/hillary-clinton-endorsement/91198668/) that her emotional restraint and poise under pressure would help make her an effective president
 
 Those who know Clinton best can attest that she is an empathetic, caring individual. But more important, they confirm that [she is ready](http://www.vox.com/2016/7/27/12306702/democratic-convention-obama-hillary-clinton-bill-qualified) to lead this country.
