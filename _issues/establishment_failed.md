@@ -1,10 +1,6 @@
 ---  
 layout: post  
-<<<<<<< HEAD
-title: "Hasn't the establishment failed us?"  
-=======
 title: "hasn't the establishment failed us?"  
->>>>>>> DevProgress/master
 categories: obama
 ---  
 ***Q: Why has the establishment failed us?**  
