@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: I like Hillary But...
+title: I'd vote for Hillary But... | Hillary Myths
 email: ilikehillary@example.com
 
 description: >
-  I Like Hillary But... is a site designed to refute falsehoods and
+  I'd vote for Hillary But... is a site designed to refute myths and
   misconceptions about Hillary Clinton. Please pick your concern from
   the following list!
 
-baseurl: "/i-like-hillary-but" # the subpath of your site, e.g. /blog
-url: "https://devprogress.us" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://hillarymyths.org" # the base hostname & protocol for your site
 
 exclude:
   - vendor
