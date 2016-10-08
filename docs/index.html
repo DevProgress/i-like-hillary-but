@@ -31,19 +31,19 @@ x///////////////////////x   http://DevProgress.us
   <title>I'd vote for Hillary But... | Hillary Myths</title>
   <meta name="description" content="I'd vote for Hillary But... is a site designed to refute myths and misconceptions about Hillary Clinton. Please pick your concern from the following list!
 ">
- 	<link rel="shortcut icon" href="favicon.ico"/>
+ 	<link rel="shortcut icon" href="/favicon.ico"/>
 
   <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
 
   <link rel="stylesheet" href="/css/main.css">
 
-  <link rel="canonical" href="http://hillarymyths.org/">
-  <link rel="alternate" type="application/rss+xml" title="I'd vote for Hillary But... | Hillary Myths" href="http://hillarymyths.org/feed.xml" />
+  <link rel="canonical" href="https://hillarymyths.org/">
+  <link rel="alternate" type="application/rss+xml" title="I'd vote for Hillary But... | Hillary Myths" href="https://hillarymyths.org/feed.xml" />
 
   <!-- Facebook OpenGraph Metadata -->
   <meta property="fb:app_id"        content="585977871590212" />
   <meta property="og:site_name"     content="I'd vote for Hillary But... | Hillary Myths" />
-  <meta property="og:url"           content="http://hillarymyths.org/" />
+  <meta property="og:url"           content="https://hillarymyths.org/" />
   <meta property="og:type"          content="website" />
   <meta property="og:title"         content="I'd vote for Hillary But... | Hillary Myths" />
   <meta property="og:description"   content="I'd vote for Hillary But... is a site designed to refute myths and misconceptions about Hillary Clinton. Please pick your concern from the following list!
@@ -57,7 +57,7 @@ x///////////////////////x   http://DevProgress.us
 " />
   <meta name="twitter:description"  content="I'd vote for Hillary But... is a site designed to refute myths and misconceptions about Hillary Clinton. Please pick your concern from the following list!
 " />
-  <meta name="twitter:url"          content="http://hillarymyths.org/" />
+  <meta name="twitter:url"          content="https://hillarymyths.org/" />
 
   <script>
 
@@ -94,9 +94,16 @@ x///////////////////////x   http://DevProgress.us
 <script src="//platform.twitter.com/widgets.js" charset="utf-8" async defer></script>
 <script src="//apis.google.com/js/platform.js" async defer></script>
 
+    <header class="home-header wrapper">
+      <h1>I'd vote for Hillary, but...</h1>
+    </header>
     <script>
 
     ~function() {
+
+      var header = document.body.querySelector('header');
+      if (!header)
+        return; // this is unlikely.
 
       var alwaysAnimate = location.search.indexOf('always_animate') >= 0;
       var shouldAnimate = !localStorage.getItem('animated');
@@ -104,87 +111,88 @@ x///////////////////////x   http://DevProgress.us
         localStorage.setItem('animated', "yes");
       }
 
-      document.addEventListener('DOMContentLoaded', function() {
-        if (alwaysAnimate || shouldAnimate) {
-          onMotionDetected(toggleHero);
-        } else {
-          toggleHero();
-        }
-      });
-
-      function onMotionDetected(handler) {
-        document.body.onmousemove = handler;
-        document.body.onscroll = handler;
-        document.body.onkeydown = handler;
+      if (alwaysAnimate || shouldAnimate) {
+        header.classList.add('animated-ease-in');
+        header.classList.add('hero');
+        addMotionDetected();
       }
 
-      function toggleHero() {
-        [].forEach.call(document.body.querySelectorAll('.hero'), function(hero) {
-          hero.classList.toggle('hero');
-        });
-        onMotionDetected(null);
+      function addMotionDetected() {
+        document.body.addEventListener('mousemove', toggleHeroAnimation);
+        document.body.addEventListener('scroll', toggleHeroAnimation);
+        document.body.addEventListener('keydown', toggleHeroAnimation);
+        document.body.addEventListener('touchstart', toggleHeroAnimation);
+      }
+
+      function removeMotionDetected() {
+        document.body.removeEventListener('mousemove', toggleHeroAnimation);
+        document.body.removeEventListener('scroll', toggleHeroAnimation);
+        document.body.removeEventListener('keydown', toggleHeroAnimation);
+        document.body.removeEventListener('touchstart', toggleHeroAnimation);
+      }
+
+      function toggleHeroAnimation() {
+        header.classList.remove('hero');
+        removeMotionDetected();
       }
 
     }();
 
     </script>
-    <header class="home-header hero wrapper">
-      <h1>I'd vote for Hillary, but...</h1>
-    </header>
     <div class="home">
       <ul class="post-list">
   
     <li>
       <a class="post-link" href="/issues/bad-experience/">
-        <span class="wrapper">isn&#39;t her experience all bad?</span>
+        <span class="wrapper">&hellip;&nbsp;isn&#39;t her experience all bad?</span>
       </a>
     </li>
   
     <li>
       <a class="post-link" href="/issues/but-hillary-wants-my-guns/">
-        <span class="wrapper">doesn&#39;t she want my guns?</span>
+        <span class="wrapper">&hellip;&nbsp;doesn&#39;t she want my guns?</span>
       </a>
     </li>
   
     <li>
       <a class="post-link" href="/issues/clinton-foundation-crooked/">
-        <span class="wrapper">isn&#39;t the Clinton Foundation corrupt?</span>
+        <span class="wrapper">&hellip;&nbsp;isn&#39;t the Clinton Foundation corrupt?</span>
       </a>
     </li>
   
     <li>
       <a class="post-link" href="/issues/emails/">
-        <span class="wrapper">isn&#39;t she a criminal for using a private email server?</span>
+        <span class="wrapper">&hellip;&nbsp;isn&#39;t she a criminal for using a private email server?</span>
       </a>
     </li>
   
     <li>
       <a class="post-link" href="/issues/establishment-failed/">
-        <span class="wrapper">hasn&#39;t the establishment failed us?</span>
+        <span class="wrapper">&hellip;&nbsp;hasn&#39;t the establishment failed us?</span>
       </a>
     </li>
   
     <li>
       <a class="post-link" href="/issues/hawk/">
-        <span class="wrapper">isn&#39;t she a war hawk?</span>
+        <span class="wrapper">&hellip;&nbsp;isn&#39;t she a war hawk?</span>
       </a>
     </li>
   
     <li>
       <a class="post-link" href="/issues/hillary-is-cold/">
-        <span class="wrapper">isn&#39;t she cold, robotic, and unlikable?</span>
+        <span class="wrapper">&hellip;&nbsp;isn&#39;t she cold, robotic, and unlikable?</span>
       </a>
     </li>
   
     <li>
       <a class="post-link" href="/issues/isnt-hillary-too-sick/">
-        <span class="wrapper">isn&#39;t she too sick to be president?</span>
+        <span class="wrapper">&hellip;&nbsp;isn&#39;t she too sick to be president?</span>
       </a>
     </li>
   
     <li>
       <a class="post-link" href="/issues/trade/">
-        <span class="wrapper">isn&#39;t she for free trade?</span>
+        <span class="wrapper">&hellip;&nbsp;isn&#39;t she for free trade?</span>
       </a>
     </li>
   
