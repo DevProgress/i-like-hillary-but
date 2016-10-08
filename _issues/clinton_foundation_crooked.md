@@ -28,4 +28,4 @@ But don't take our word for it. Check for yourself with independent charity watc
 In [an interview with CNN](http://www.cnn.com/videos/politics/2016/08/24/charity-watch-clinton-foundation-lv.cnn), CharityWatch President Daniel Borochoff said:
 >If Hillary Clinton wasn't running for President, the Clinton Foundation would be seen as one of the great humanitarian charities of our generation.
  
-The Clinton Foundation truly is a world-class humanitarian charity. And that's not coming from Hillary Clinton, her campaign, or the Clinton Foundation.  
+The Clinton Foundation truly is a world-class humanitarian charity. And that's not coming from Hillary Clinton, her campaign, or the Clinton Foundation.    
