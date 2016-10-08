@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="hero">
+    {% include body-js.html %}
+    <script>
+
+    ~function() {
+
+      var alwaysAnimate = location.search.indexOf('always_animate') >= 0;
+      var shouldAnimate = !localStorage.getItem('animated');
+      if (shouldAnimate) {
+        localStorage.setItem('animated', "yes");
+      }
+
+      document.addEventListener('DOMContentLoaded', function() {
+        if (alwaysAnimate || shouldAnimate) {
+          onMotionDetected(toggleHero);
+        } else {
+          toggleHero();
+        }
+      });
+
+      function onMotionDetected(handler) {
+        document.body.onmousemove = handler;
+        document.body.onscroll = handler;
+        document.body.onkeydown = handler;
+      }
+
+      function toggleHero() {
+        [].forEach.call(document.body.querySelectorAll('.hero'), function(hero) {
+          hero.classList.toggle('hero');
+        });
+        onMotionDetected(null);
+      }
+
+    }();
+
+    </script>
+    <header class="home-header hero wrapper">
+      <h1>I'd vote for Hillary, but...</h1>
+    </header>
+    <div class="home">
+      {{ content }}
+      {% include footer.html %}
+    </div>
+  </body>
+
+</html>
