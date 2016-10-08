@@ -1,10 +1,6 @@
 ---  
 layout: post  
-<<<<<<< HEAD
-title: "Isn't she for free trade?"  
-=======
 title: "isn't she for free trade?"  
->>>>>>> DevProgress/master
 categories: policy
 ---  
 
