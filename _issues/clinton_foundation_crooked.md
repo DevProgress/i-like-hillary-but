@@ -1,10 +1,6 @@
 ---  
 layout: post  
-<<<<<<< HEAD
-title: "Isn't Hillary Clinton's foundation corrupt?"  
-=======
 title: "isn't her foundation corrupt?"  
->>>>>>> DevProgress/master
 categories: trust  
 ---  
   
