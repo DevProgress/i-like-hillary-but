@@ -22,7 +22,7 @@ description: >
   the following list!
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hillarymyths.org" # the base hostname & protocol for your site
+url: "https://hillarymyths.org" # the base hostname & protocol for your site
 
 exclude:
   - vendor
