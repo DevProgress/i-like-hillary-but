@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: "Isn't Hillary Clinton cold, robotic, and unlikable"
-=======
 title: "isn't she cold, robotic, and unlikable?"
->>>>>>> DevProgress/master
 categories: personality
 ---  
   
