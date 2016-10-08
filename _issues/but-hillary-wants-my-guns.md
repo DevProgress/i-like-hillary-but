@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: "Hillary wants my guns!"
-=======
 title: "doesn't she want my guns?"
->>>>>>> DevProgress/master
 categories: guns, gun control
 ---
 
