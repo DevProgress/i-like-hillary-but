@@ -129,6 +129,18 @@ div.page-content {
 		border-bottom-width: 1px;
 		text-decoration: none;
 	}
+	@media (max-width: $on-palm) {
+		padding-top: 15px;
+		.wrapper {
+			padding-left: 30px;
+			padding-right: 30px;
+		}
+		blockquote {
+			font-size: 1em;
+			padding-left: 10px;
+		}
+	}
+
 }
 
 /*Homepage */
@@ -186,6 +198,10 @@ header.home-header h1 {
 	transition-duration: 1s;
 	transition-property: font-weight;
 	padding-top: 1.5em;
+	@include media-query($on-palm) {
+		padding-top: 0.5em;
+	}
+
 	padding-bottom: 0.5em;
 }
 
@@ -201,7 +217,7 @@ header.hero h1 {
 
 @include media-query($on-palm) {
 	a.post-link {
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 
 	.home h2 .post-link {
@@ -273,6 +289,9 @@ header.post-header h1 {
 
  .post {
 	 margin-left: $spacing-unit * 4;
+	 ul {
+	 	margin-left: 0;
+	 }
  }
  @include media-query($on-laptop) {
 	 .post {
@@ -281,7 +300,7 @@ header.post-header h1 {
  }
  @include media-query($on-palm) {
 	 .post {
-		 margin-left: $spacing-unit;
+		 margin-left: 0;
 	 }
  }
 
