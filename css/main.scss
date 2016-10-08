@@ -156,12 +156,15 @@ a.post-link:hover {
 	background-color: $brand-color-light;
 }
 
-header.home-header {
-	color: $title-color;
-	font-size: 0.75em;
+.animated-ease-in {
 	transition-duration: 1s;
 	transition-property: font-size, padding-top, padding-bottom, margin-bottom, font-weight, height, min-height;
 	transition-timing-function: ease-in;
+}
+
+header.home-header {
+	color: $title-color;
+	font-size: 0.75em;
 
 	width: 100%;
 	flex: 1 0 auto;
