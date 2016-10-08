@@ -49,6 +49,10 @@ body {
 	font-family: $base-font-family;
 	font-weight: 400;
 	font-size: $base-font-size;
+	@include media-query($on-palm) {
+		font-size: $base-font-size - 2px;
+	}
+
 	background-color: $background-color;
 	color: $content-text-color;
 
