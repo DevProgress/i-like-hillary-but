@@ -25,18 +25,26 @@
       if (alwaysAnimate || shouldAnimate) {
         header.classList.add('animated-ease-in');
         header.classList.add('hero');
-        onMotionDetected(toggleHeroAnimation);
+        addMotionDetected();
       }
 
-      function onMotionDetected(handler) {
-        document.body.onmousemove = handler;
-        document.body.onscroll = handler;
-        document.body.onkeydown = handler;
+      function addMotionDetected() {
+        document.body.addEventListener('mousemove', toggleHeroAnimation);
+        document.body.addEventListener('scroll', toggleHeroAnimation);
+        document.body.addEventListener('keydown', toggleHeroAnimation);
+        document.body.addEventListener('touchstart', toggleHeroAnimation);
+      }
+
+      function removeMotionDetected() {
+        document.body.removeEventListener('mousemove', toggleHeroAnimation);
+        document.body.removeEventListener('scroll', toggleHeroAnimation);
+        document.body.removeEventListener('keydown', toggleHeroAnimation);
+        document.body.removeEventListener('touchstart', toggleHeroAnimation);
       }
 
       function toggleHeroAnimation() {
         header.classList.remove('hero');
-        onMotionDetected(null);
+        removeMotionDetected();
       }
 
     }();
