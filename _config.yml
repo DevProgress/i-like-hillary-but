@@ -21,6 +21,8 @@ description: >
   misconceptions about Hillary Clinton. Please pick your concern from
   the following list!
 
+sharing_image: /ivhb.png
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hillarymyths.org" # the base hostname & protocol for your site
 
