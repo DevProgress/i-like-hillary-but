@@ -3,7 +3,7 @@ layout: post
 title: "hasn't the establishment failed us?"  
 categories: obama
 ---  
-**Q**: hasn't the establishment failed us?
+**Q**: Hasn't the establishment failed us?
   
 **A**: No. President Obama inherited a [financial](http://www.csmonitor.com/Commentary/Opinion/2009/0218/p09s02-coop.html) disaster. And despite an [obstructionist Republican Congress](https://www.washingtonpost.com/opinions/republican-obstructionism-is-nothing-new/2016/02/15/2d856c12-d42c-11e5-b195-2e29a4e13425_story.html?utm_term=.7faadad9f0e1), look at [where we are now](http://www.nytimes.com/2016/05/01/magazine/president-obama-weighs-his-economic-legacy.html?_r=0):
 
