@@ -8,7 +8,7 @@ Source: [What the FBI Files Reveal About Hillary Clinton’s Email Server](http:
  
 **Q: Isn't Hillary is a criminal because she used a private email server?**
   
-**A**: No, an intensive FBI investigation concluded that there was **no criminal wrongdoing.** As we all know, on July 5th, FBI Director James Comey took the unprecedented step of publicly criticizing Hillary for her use of private emails. However, he went on to say that the FBI investigation showed that there was insufficient evidence of any criminal wrongdoing.  
+**A**: No, an intensive FBI investigation concluded that there was **no criminal wrongdoing.** On July 5th, FBI Director James Comey took the unprecedented step of publicly criticizing Hillary for her use of private emails. However, he went on to say that the FBI investigation showed that there was insufficient evidence of any criminal wrongdoing.  
 
 Q: Even if it wasn't a crime, wasn't it against Department of State requlations?
 
@@ -31,4 +31,3 @@ Q: And why did she delete those 33,000 emails?
 A: FBI Director Comey explained that very well in his [testimony to Congress](https://www.c-span.org/video/?412315-1/fbi-director-james-comey-testifies-hillary-clinton-email-probe&live):
 
 > She actually had deleted some I think over time as an ordinary user would. And then the State Department contacted her and other former secretaries and said we have a gap in our records, we need you to look and see if you have e-mails and give them back. She then tasked her lawyers to engage in this review process of that 60 some thousand and make that cut and then was asked by her lawyers at the end, do you want us to keep the personal e-mails. And she said I have no use for them anymore. It's then that they issued the direction that the technical people delete them.
-
