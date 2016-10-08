@@ -1,9 +1,9 @@
 ---  
 layout: post  
-title: "Hasn't the establishment failed us?"  
+title: "hasn't the establishment failed us?"  
 categories: obama
 ---  
-**Q**: Hasn't the establishment failed us?
+**Q**: hasn't the establishment failed us?
   
 **A**: No. President Obama inherited a [financial](http://www.csmonitor.com/Commentary/Opinion/2009/0218/p09s02-coop.html) disaster. And despite an [obstructionist Republican Congress](https://www.washingtonpost.com/opinions/republican-obstructionism-is-nothing-new/2016/02/15/2d856c12-d42c-11e5-b195-2e29a4e13425_story.html?utm_term=.7faadad9f0e1), look at [where we are now](http://www.nytimes.com/2016/05/01/magazine/president-obama-weighs-his-economic-legacy.html?_r=0):
 
@@ -22,7 +22,7 @@ categories: obama
 
 * The U.S. Treasury created the [Home Affordable Refinance Program (HARP)](http://www.harp.gov) and the [Making Home Affordable Program](https://www.makinghomeaffordable.gov/pages/default.aspx). Both programs **help people impacted by the mortgage crisis keep their homes**. 
 
-* And perhaps President Obama's crowning achievement, the Affordable Care Act (informally known as "Obamacare"), [**provides health insurance to 4.2 million people**](http://www.politico.com/story/2014/03/obamacare-affordable-care-act-104540)!
+* And perhaps President Obama's crowning achievement, the Affordable Care Act (informally known as "Obamacare"), [**provides health insurance to 11.3 million people**](https://www.washingtonpost.com/news/to-your-health/wp/2016/01/07/more-than-11-3-million-americans-signed-up-for-obamacare-report-says/)!
 
 **Q**: Is there more to do? 
 
