@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "But Hillary Clinton’s not trustworthy. She lies all the time, right?"
+title: "Hillary Clinton’s not trustworthy. She lies all the time, right?"
 categories: deception
 ---
 
