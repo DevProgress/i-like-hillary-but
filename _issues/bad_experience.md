@@ -1,10 +1,6 @@
 ---  
 layout: post  
-<<<<<<< HEAD
-title: "Isn't her experience all bad?"  
-=======
 title: "isn't her experience all bad?"  
->>>>>>> DevProgress/master
 categories: experience
 ---  
   
