@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Montserrat", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -12,24 +12,22 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$content-text-color:   #4A4A4A;
+$background-color:     #FFFFFF;
+$brand-color-dark:     #0057B8;
+$brand-color-light:    #01A9E0;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$primary-action-color: #BD10E0;
+$secondary-action-color: #9B9B9B;
 
-$blue-color: 		#6b7a8f;
-$orange-color: 		#f7882f;
-$yellow-color:		#f7c331;
-$beige-color: 		#dcc7aa;
+$title-color: $background-color;
+$title-color-hover: $background-color;
 
 // Width of the content area
-$content-width:    800px;
+$content-width:     900px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-palm:           600px;
+$on-laptop:         900px;
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
@@ -48,127 +46,210 @@ $on-laptop:        800px;
 }
 
 body {
-	font: 400 16px/1.5 'Open Sans', sans-serif;
-	background: #fff;
-	color: $grey-color;
+	font-family: $base-font-family;
+	font-weight: 400;
+	font-size: $base-font-size;
+	background-color: $background-color;
+	color: $content-text-color;
+
+	display: flex;
+	flex-direction: column;
+	position: fixed;
+	top: 0; bottom: 0; left: 0; right: 0;
+}
+
+body.hero {
+	background-color: $brand-color-dark;
 }
 
 a {
 	color: inherit;
+	text-decoration: underline;
 }
 
-/* Header styles */
-
-header.site-header {
-	border: none;
-	height: 150px;
-	background: #6b7a8f;
+.fact-fiction {
+	color: $brand-color-dark;
 }
 
-
-
-header.site-header div.wrapper {
-	display: flex;
-	padding-top: 45px;
-}
-
-div.header-img {
-	width: 100px;
-	height: 100px;
-	background: url(../img/man-circle.png) no-repeat;
-	background-size: cover;
-	margin-right: 10px;
-	position: relative;
-	bottom: 25px;
-}
-
-.site-title, .site-title:visited {
-	font-size: 2.5em;
-	font-weight: 700;
-	color: $beige-color;
-	margin-right: auto;
-}
-
-.site-title:hover {
-	text-decoration: none;
-	color: $grey-color-light;
-}
-
-.site-nav .page-link {
-	color: $grey-color-light;
-	font-size: 1.25em;
-	position: relative;
-	top: 7px;
-}
-
-.site-nav .page-link:hover {
-	text-decoration: none;
-	font-weight: 600;
-}
-
-
-@media screen and (max-width: 600px) {
-	.site-nav .page-link {
-		color: #111;
-		position: static;
-		top: 0;
-	}
-	.site-title, .site-title:visited {
-		font-size: 2em;
-	}
-	div.header-img {
-		width: 75px;
-		height: 75px;
-		bottom: 15px;
-	}
-}
-/*Content Styles */
-div.page-content {
-	min-height: calc(100vh - 220px);
-}
-
-/*Homepage */
-.home .header-col .text {
-	font-size: 1.35em;
-	font-weight: 600;
-	color: $grey-color;
-}
-
-.home .post-list li {
+.primary-action,
+.secondary-action {
+	padding: 10px 16px;
 	display: inline-block;
+	margin: 2px;
+	font-weight: 500;
+	border-radius: 4px;
+}
+
+.secondary-action,
+a.secondary-action,
+a.secondary-action:visited
+{
+	color: $content-text-color;
+	background-color: $background-color;
+	border: 2px $secondary-action-color solid;
+	text-decoration: none;
+}
+
+.primary-action,
+a.primary-action,
+a.primary-action:visited
+{
+	color: $background-color;
+	background-color: $primary-action-color;
+	border: 2px $primary-action-color solid;
+	text-decoration: none;
+}
+
+/* Main page */
+
+// For sharing, Fix alignment
+.sharing-links > * {
+	vertical-align: bottom !important;
+}
+span.sharing-links {
+	display: inline-block;
+}
+div.post-meta {
 	margin-bottom: 1em;
 }
 
-.home h2 .post-link {
-	color: $blue-color;
-	font-size: 1.25em;
+/*Content Styles */
+div.page-content {
+	flex: auto;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding-bottom: 0;
+}
+
+/*Homepage */
+.home {
+	background-color: $brand-color-dark;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+.home .post-list li {
+	display: block;
+	margin-bottom: 1em;
+}
+
+span.wrapper {
+	display: block;
+}
+
+a.post-link {
+	font-size: 2.25em;
 	font-weight: 700;
-	background-color: $grey-color-light;
 	padding: 2px 5px;
 }
 
-.home h2 .post-link:hover {
-	color: $grey-color-light;
+a.post-link,
+a.post-link:visited {
+	color: $title-color;
+	background-color: transparent;
 	text-decoration: none;
-	background-color: $blue-color;
 }
 
- @include media-query($on-palm) {
-     .home h2 .post-link {
+a.post-link:hover {
+	color: $title-color-hover;
+	text-decoration: none;
+	background-color: $brand-color-light;
+}
+
+header.home-header {
+	color: $title-color;
+	font-size: 0.75em;
+	transition-duration: 1s;
+	transition-property: font-size, padding-top, padding-bottom, margin-bottom, font-weight, height, min-height;
+	transition-timing-function: ease-in;
+
+	width: 100%;
+	flex: 1 0 auto;
+	display: flex;
+	align-items: center;
+	min-height: 0;
+}
+header.home-header h1 {
+	margin-bottom: 0;
+	transition-duration: 1s;
+	transition-property: font-weight;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
+}
+
+header.hero {
+	font-size: 3em;
+	min-height: 100vh;
+	margin-bottom: 10em;
+}
+
+header.hero h1 {
+	font-weight: 700;
+}
+
+@include media-query($on-palm) {
+	a.post-link {
+		font-size: 2em;
+	}
+
+	.home h2 .post-link {
 		font-size: 1.1em;
-     }
- }
+	}
+	.sharing-links {
+		display: none;
+	}
 
-
+	header.hero {
+		font-size: 2.25em;
+	}
+}
 
 /* Issues page styles */
+header.post-header {
+	background-color: $brand-color-light;
+	color: $title-color;
+	margin-bottom: 0;
+	padding-top: 0.5em;
+	font-size: 7vmin;
+	flex: 0 1 auto;
+}
+
+@media screen and (min-width: $on-laptop + $spacing-unit * 20) {
+	header.post-header .wrapper {
+		margin-left: $spacing-unit * 10;
+		margin-right: $spacing-unit * 10;
+		max-width: none;
+	}
+}
+
+header.post-header h1 {
+	font-weight: 700;
+	font-size: 1em;
+	line-height: 1em;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+.back-to-home {
+	display: inline-block;
+	vertical-align: top;
+	text-decoration: none;
+
+	background: url('../img/back-caret.svg') no-repeat;
+	background-size: cover;
+	-webkit-filter: brightness(0) invert(1);
+	filter: brightness(0) invert(1);
+
+	width: 1em;
+	height: 1em;
+}
 
 .post .post-header .post-title {
 	display: inline-block;
-	color: $blue-color;
+	color: $title-color;
 	font-weight: 700;
 	font-size: 2.5em;
-	background-color: $grey-color-light;
+	background-color: $brand-color-light;
 	padding: 8px 5px;
 }
 
@@ -178,56 +259,56 @@ div.page-content {
      }
  }
 
+ .post {
+	 margin-left: $spacing-unit * 4;
+ }
+ @include media-query($on-laptop) {
+	 .post {
+		 margin-left: $spacing-unit * 4;
+	 }
+ }
+ @include media-query($on-palm) {
+	 .post {
+		 margin-left: $spacing-unit;
+	 }
+ }
+
 article.post-content p {
 	font-size: 1.15em;
-    color: $grey-color;
+    color: $content-text-color;
 }
 
-article.post-content>p:first-child, 
+article.post-content>p:first-child,
 article.post-content>p:nth-child(2) {
-	font-weight: 600;
+	font-weight: 300;
+	color: $brand-color-dark;
 }
 
-header.post-header{
-	margin-bottom: 0;
-}
-
-/* Foot styles*/
+/* Footer styles*/
 footer.site-footer {
 	height: auto;
 	border: none;
-	background-color: $beige-color;
-	padding: 15px 0;
+	background-color: $background-color;
+	font-weight: 400;
+	padding-top: $spacing-unit/2;
+	padding-bottom: $spacing-unit/2;
+	font-size: 0.95em;
 }
 
-.footer-col-wrapper {
+footer.site-footer p { margin-bottom: 0; padding-bottom: 0; }
+
+footer.site-footer a{
 	font-weight: 600;
+	color: inherit;
+	text-decoration: underline;
+}
+
+footer.site-footer a:hover{
+	text-decoration: none;
 }
 
 @include media-query($on-palm) {
-    .footer-col-wrapper .footer-col {
+    footer.site-footer {
 		font-weight: 400;
-		display:inline-block;
-		width: auto;
     }
-}
-
-
-.footer-col-wrapper .footer-col {
-	margin-bottom: 0;
-}
-
-.footer-col {
-	font-weight: 400;
-	font-size: .95em;
-}
-
-.footer-col a{
-	font-weight: 600;
-	color: inherit;
-}
-
-.footer-col-wrapper .footer-col a:hover{
-	text-decoration: none;
-	color: $grey-color-dark;
 }
