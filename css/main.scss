@@ -123,6 +123,12 @@ div.page-content {
 	overflow-y: auto;
 	overflow-x: hidden;
 	padding-bottom: 0;
+
+	a {
+		border-bottom-style: dotted;
+		border-bottom-width: 1px;
+		text-decoration: none;
+	}
 }
 
 /*Homepage */
