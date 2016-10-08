@@ -5,9 +5,16 @@
 
   <body class="hero">
     {% include body-js.html %}
+    <header class="home-header wrapper">
+      <h1>I'd vote for Hillary, but...</h1>
+    </header>
     <script>
 
     ~function() {
+
+      var header = document.body.querySelector('header');
+      if (!header)
+        return; // this is unlikely.
 
       var alwaysAnimate = location.search.indexOf('always_animate') >= 0;
       var shouldAnimate = !localStorage.getItem('animated');
@@ -15,13 +22,11 @@
         localStorage.setItem('animated', "yes");
       }
 
-      document.addEventListener('DOMContentLoaded', function() {
-        if (alwaysAnimate || shouldAnimate) {
-          onMotionDetected(toggleHero);
-        } else {
-          toggleHero();
-        }
-      });
+      if (alwaysAnimate || shouldAnimate) {
+        header.classList.add('animated-ease-in');
+        header.classList.add('hero');
+        onMotionDetected(toggleHeroAnimation);
+      }
 
       function onMotionDetected(handler) {
         document.body.onmousemove = handler;
@@ -29,19 +34,14 @@
         document.body.onkeydown = handler;
       }
 
-      function toggleHero() {
-        [].forEach.call(document.body.querySelectorAll('.hero'), function(hero) {
-          hero.classList.toggle('hero');
-        });
+      function toggleHeroAnimation() {
+        header.classList.remove('hero');
         onMotionDetected(null);
       }
 
     }();
 
     </script>
-    <header class="home-header hero wrapper">
-      <h1>I'd vote for Hillary, but...</h1>
-    </header>
     <div class="home">
       {{ content }}
       {% include footer.html %}
