@@ -1,10 +1,6 @@
 ---  
 layout: post  
-<<<<<<< HEAD
-title: "Isn't she a war hawk?"  
-=======
 title: "isn't she a war hawk?"  
->>>>>>> DevProgress/master
 categories: policy
 ---  
 
