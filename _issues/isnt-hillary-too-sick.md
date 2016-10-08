@@ -12,6 +12,7 @@ In 2015, Hillary’s personal physician, Dr. Lisa Bardack, released a [statement
 >“Mrs. Clinton is a healthy 67-year-old female whose current medical conditions include hypothyroidism and seasonal pollen allergies…. She participates in a healthy lifestyle and has had a full medical evaluation, which reveals no evidence of additional medical issues or cardiovascular disease…. She is in excellent physical condition and fit to serve as President of the United States.”
 
 Q: Then what happened at the 9/11 Memorial?
+
 A: On September 11, 2016, Hillary, who [had pneumonia,](http://www.theatlantic.com/news/archive/2016/09/hillary-clinton-overheated/499514/) stumbled while leaving an event in New York City. Recovered, she [returned to the campaign trail](http://www.latimes.com/nation/la-na-pol-clinton-campaigning-20160915-snap-story.html) four days later. One of the most famous living journalists in United States history, Dan Rather, put [this into context](https://www.facebook.com/theDanRather/posts/10157417560045716):
 
 >*But let’s be clear - barring any new developments this remains the story of a candidate working hard on the campaign trail who got a mild case of pneumonia and kept going when she maybe should have rested a bit. Everyone gets sick and until we have more proof of something severe, it remains a storyline to monitor but not belabor.*
