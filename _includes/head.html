@@ -44,13 +44,23 @@ x///////////////////////x   http://DevProgress.us
   <meta property="og:title"         content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:description"   content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 
-  <!-- meta property="og:image"  content="http://www.your-domain.com/path/image.jpg" /-->
-
   <!-- Twitter Cards Metadata -->
   <meta name="twitter:title"        content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta name="twitter:card"         content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:description"  content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:url"          content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+
+  <!-- Images -->
+  {% if page.image %}
+  <meta property="og:image"  content="{{ page.image | prepend: '/img' | prepend: site.url }}" />
+  <meta name="twitter:image" content="{{ page.image | prepend: '/img' | prepend: site.url }}" />
+  {% elsif page.sharing_image %}
+  <meta property="og:image"  content="{{ page.sharing_image | prepend: '/img' | prepend: site.url }}" />
+  <meta name="twitter:image" content="{{ page.sharing_image | prepend: '/img' | prepend: site.url }}" />
+  {% else %}
+  <meta property="og:image"  content="{{ site.sharing_image | prepend: '/img' | prepend: site.url }}" />
+  <meta name="twitter:image" content="{{ site.sharing_image | prepend: '/img' | prepend: site.url }}" />
+  {% endif %}
 
   <script>
 
