@@ -12,7 +12,7 @@ categories: policy
 
 **Q**: What is Hillary's voting record on trade?
 
-**A**: As a U.S. Senator from New York, Hillary voted for roughly half of the trade deals that came before her. However, she voted against the [Dominican Republic-Central America Free Trade Agreement(DR-CAFTA)](https://scout.sunlightfoundation.com/item/speech/CREC-2005-06-30-pt2-PgS7697.chunk96/sen-hillary-clinton-senate), saying:
+**A**: As a U.S. Senator from New York, Hillary voted in favor of roughly half of the trade deals that came before her. However, she voted against the [Dominican Republic-Central America Free Trade Agreement(DR-CAFTA)](https://scout.sunlightfoundation.com/item/speech/CREC-2005-06-30-pt2-PgS7697.chunk96/sen-hillary-clinton-senate), saying:
 
 > While this agreement provides some benefit for New York, I regretfully conclude **the harm outweighs the good.** I must therefore vote to oppose...Sadly, DR-CAFTA is a step backward.
 
