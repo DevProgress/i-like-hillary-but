@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: "Isn't Hillary too sick to be president?"
-=======
 title: "isn't she too sick to be president?"
->>>>>>> DevProgress/master
 categories: health
 ---
 
