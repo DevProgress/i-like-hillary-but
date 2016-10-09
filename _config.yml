@@ -38,6 +38,11 @@ exclude:
 twitter_username: hillaryclinton
 github_username: devprogress
 
+# Feedback configuration has the following structure:
+# feedback:
+#   action: [url to the form where the feedback is submitted]
+#   input: [name of the text input of the feedback form]
+
 # Build settings
 markdown: kramdown
 theme: minima
