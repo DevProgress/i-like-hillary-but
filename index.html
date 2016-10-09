@@ -4,8 +4,8 @@ layout: hero
 <ul class="post-list">
   {% for post in site.issues %}
     <li>
-      <a class="post-link wrapper" href="{{ post.url | prepend: site.baseurl }}">
-        ...&nbsp;{{ post.title | escape }}
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <span class="wrapper">&hellip;&nbsp;{{ post.title | escape }}</span>
       </a>
     </li>
   {% endfor %}
