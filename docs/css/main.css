@@ -456,9 +456,6 @@ pre {
   .highlight .il {
     color: #099; }
 
-* {
-  box-sizing: border-box !important; }
-
 body {
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -472,6 +469,9 @@ body {
   bottom: 0;
   left: 0;
   right: 0; }
+  @media screen and (max-width: 600px) {
+    body {
+      font-size: 14px; } }
 
 body.hero {
   background-color: #0057B8; }
@@ -523,6 +523,19 @@ div.page-content {
   overflow-y: auto;
   overflow-x: hidden;
   padding-bottom: 0; }
+  div.page-content a {
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+    text-decoration: none; }
+  @media (max-width: 600px) {
+    div.page-content {
+      padding-top: 15px; }
+      div.page-content .wrapper {
+        padding-left: 30px;
+        padding-right: 30px; }
+      div.page-content blockquote {
+        font-size: 1em;
+        padding-left: 10px; } }
 
 /*Homepage */
 .home {
@@ -539,8 +552,7 @@ span.wrapper {
 
 a.post-link {
   font-size: 2.25em;
-  font-weight: 700;
-  padding: 2px 5px; }
+  font-weight: 700; }
 
 a.post-link,
 a.post-link:visited {
@@ -573,6 +585,9 @@ header.home-header h1 {
   transition-property: font-weight;
   padding-top: 1.5em;
   padding-bottom: 0.5em; }
+  @media screen and (max-width: 600px) {
+    header.home-header h1 {
+      padding-top: 0.5em; } }
 
 header.hero {
   font-size: 3em;
@@ -584,7 +599,7 @@ header.hero h1 {
 
 @media screen and (max-width: 600px) {
   a.post-link {
-    font-size: 2em; }
+    font-size: 1.5em; }
 
   .home h2 .post-link {
     font-size: 1.1em; }
@@ -639,13 +654,15 @@ header.post-header h1 {
     font-size: 2em; } }
 .post {
   margin-left: 120px; }
+  .post ul {
+    margin-left: 0; }
 
 @media screen and (max-width: 900px) {
   .post {
     margin-left: 120px; } }
 @media screen and (max-width: 600px) {
   .post {
-    margin-left: 30px; } }
+    margin-left: 0; } }
 article.post-content p {
   font-size: 1.15em;
   color: #4A4A4A; }
