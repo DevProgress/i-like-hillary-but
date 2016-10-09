@@ -55,6 +55,9 @@ feedback:
 markdown: kramdown
 theme: minima
 
+gems:
+  - jekyll-sitemap
+
 destination:  ./docs
 
 collections:
