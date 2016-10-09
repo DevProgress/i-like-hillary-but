@@ -483,25 +483,23 @@ a {
 .myth {
   color: #0057B8; }
 
-.primary-action,
-.secondary-action {
+div.call-to-action .primary-action,
+div.call-to-action .secondary-action {
   padding: 10px 16px;
   display: inline-block;
   margin: 2px;
   font-weight: 500;
   border-radius: 4px; }
-
-.secondary-action,
-a.secondary-action,
-a.secondary-action:visited {
+div.call-to-action .secondary-action,
+div.call-to-action a.secondary-action,
+div.call-to-action a.secondary-action:visited {
   color: #4A4A4A;
   background-color: #FFFFFF;
   border: 2px #9B9B9B solid;
   text-decoration: none; }
-
-.primary-action,
-a.primary-action,
-a.primary-action:visited {
+div.call-to-action .primary-action,
+div.call-to-action a.primary-action,
+div.call-to-action a.primary-action:visited {
   color: #FFFFFF;
   background-color: #BD10E0;
   border: 2px #BD10E0 solid;
