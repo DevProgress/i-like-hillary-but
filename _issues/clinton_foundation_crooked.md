@@ -6,7 +6,7 @@ categories: trust
   
 **Q**: Isn't the Clinton Foundation corrupt?
 
-**A**: No. The Clinton Foundation is a world-renowned charitable organization that has recieved top marks from independent charity watchdog groups. In [an interview with CNN](http://www.cnn.com/videos/politics/2016/08/24/charity-watch-clinton-foundation-lv.cnn), CharityWatch President Daniel Borochoff said:
+**A**: No. The Clinton Foundation is a world-renowned charitable organization that has received top marks from independent charity watchdog groups. In [an interview with CNN](http://www.cnn.com/videos/politics/2016/08/24/charity-watch-clinton-foundation-lv.cnn), CharityWatch President Daniel Borochoff said:
 
 > If Hillary Clinton wasn't running for President, the Clinton Foundation would be seen as one of the great humanitarian charities of our generation.
 
