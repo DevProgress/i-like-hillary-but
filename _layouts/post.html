@@ -21,6 +21,7 @@ layout: default
       <a class="not-convinced" href="#">I'm still not convinced</a>
       <form id="feedback" hidden action="{{ site.feedback.action }}" class="veiled" target="feedback-target" method="POST">
         <textarea name="{{ site.feedback.input }}" placeholder="Tell us more..."></textarea>
+        <input type="hidden" name="{{ site.feedback.url }}" value="{{ page.url }}">
         <button type="submit">Send</button>
         <iframe id="feedback-target" name="feedback-target"></iframe>
       </form>

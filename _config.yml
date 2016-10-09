@@ -44,7 +44,12 @@ github_username: devprogress
 # Feedback configuration has the following structure:
 # feedback:
 #   action: [url to the form where the feedback is submitted]
-#   input: [name of the text input of the feedback form]
+#   input: [name of the comment input field of the feedback form]
+#   url: [name url input field of the originating page]
+feedback:
+  action: "https://docs.google.com/forms/d/e/1FAIpQLSf7ugj0I_HBLkIhJrrAlRYf-ddQsT8awOMYFPWKG0rERrDovQ/formResponse"
+  input: "entry.955832435"
+  url: "entry.620619372"
 
 # Build settings
 markdown: kramdown
