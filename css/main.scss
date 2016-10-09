@@ -41,10 +41,6 @@ $on-laptop:         900px;
 // Import partials from the `minima` theme.
 @import "minima";
 
-* {
-	box-sizing: border-box !important;
-}
-
 body {
 	font-family: $base-font-family;
 	font-weight: 400;
