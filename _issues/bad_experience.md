@@ -31,4 +31,4 @@ categories: experience
 
 **Q**: So she only got into public service because she was Bill Clinton's wife, right?
 
-**A**: No. Hillary's call to public service began before she married Bill. When Hlllary graduated law school, she could have joined a prestigious law firm. Instead, she chose to take a job with the [Children's Defense Fund](https://www.hillaryclinton.com/feed/what-hillary-clintons-first-job-out-of-law-school-can-tell-us-about-who-she-is-today/), where **she worked with teenagers incarcerated in adult prisons and families with disabled children**.
+**A**: No. Hillary's call to public service began before she married Bill. When Hillary graduated law school, she could have joined a prestigious law firm. Instead, she chose to take a job with the [Children's Defense Fund](https://www.hillaryclinton.com/feed/what-hillary-clintons-first-job-out-of-law-school-can-tell-us-about-who-she-is-today/), where **she worked with teenagers incarcerated in adult prisons and families with disabled children**.

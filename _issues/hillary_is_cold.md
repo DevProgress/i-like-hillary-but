@@ -20,7 +20,7 @@ categories: personality
 [Chelsea Clinton](http://www.realclearpolitics.com/video/2016/07/28/chelsea_clinton_introduces_hillary_at_dnc_she_never_forgets_who_she_is_fighting_for.html):
 >"I never once doubted that my parents cared about my thoughts and my ideas, and **I always knew how deeply they love me**. That feeling of being valued and loved — that is what my mom wants for every child. It is the calling of her life."
 
-**Q**: So where does the myth that Hillary is unlikeable come from?
+**Q**: So where does the myth that Hillary is unlikable come from?
 
 **A**: The myth has two main origins: [decades-long attacks](https://decorrespondent.nl/5072/clinton-derangement-syndrome-diagnosing-the-real-reason-that-so-many-americans-hate-hillary/1434615793424-45000115) by Hillary’s critics; and the [pressures placed](http://www.nytimes.com/2016/09/25/opinion/sunday/hillary-clintons-angry-face.html?_r=0) on female public figures.
 
