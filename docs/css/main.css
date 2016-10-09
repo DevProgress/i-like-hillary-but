@@ -673,6 +673,36 @@ article.post-content > p:nth-child(2) {
   font-weight: 300;
   color: #0057B8; }
 
+#feedback {
+  display: flex;
+  align-items: flex-start; }
+  #feedback textarea, #feedback button {
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin-right: 1em;
+    padding: 10px 16px;
+    margin: 2px;
+    border-radius: 4px;
+    color: #4A4A4A;
+    background-color: #FFFFFF;
+    border: 2px #9B9B9B solid; }
+  #feedback textarea {
+    flex-grow: 4;
+    font-weight: 400;
+    height: 6em; }
+  #feedback button {
+    flex-grow: 1;
+    font-weight: 500;
+    -webkit-appearance: none; }
+  #feedback iframe {
+    height: 0;
+    width: 0;
+    overflow: hidden;
+    visibility: hidden; }
+
+[hidden] {
+  display: none !important; }
+
 /* Footer styles*/
 footer.site-footer {
   height: auto;
