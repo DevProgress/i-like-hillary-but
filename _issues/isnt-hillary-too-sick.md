@@ -17,7 +17,7 @@ A: On September 11, 2016, Hillary, who [had pneumonia,](http://www.theatlantic.c
 
 >*But let’s be clear - barring any new developments this remains the story of a candidate working hard on the campaign trail who got a mild case of pneumonia and kept going when she maybe should have rested a bit. Everyone gets sick and until we have more proof of something severe, it remains a storyline to monitor but not belabor.*
 
-Dan Rather has well over 40 years of context for Presidential campaigns: he ought to know what should be considered normal.
+Dan Rather has well over 40 years of context for Presidential campaigns; he ought to know what should be considered normal.
 
 Q: Why did they say she was suffering from heat exhaustion rather than pneumonia?
 
