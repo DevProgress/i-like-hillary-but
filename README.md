@@ -1,3 +1,7 @@
+# "I'd vote for Hillary, But..." | Hillary Clinton Myths
+
+A website to refute myths and misconceptions about Hillary Clinton. The live version is at https://hillarymyths.org.
+
 ## Set up
 You can skip this step if you already have Ruby and Bundler installed.
 
