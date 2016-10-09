@@ -12,7 +12,7 @@ categories: policy
 
 **Q**: What is Hillary's voting record on trade?
 
-**A**: As a U.S. Senator from New York, Hillary voted in favor of roughly half of the trade deals that came before her. However, she voted against the [Dominican Republic-Central America Free Trade Agreement(DR-CAFTA)](https://scout.sunlightfoundation.com/item/speech/CREC-2005-06-30-pt2-PgS7697.chunk96/sen-hillary-clinton-senate), saying:
+**A**: As a U.S. Senator from New York, Hillary voted in favor of roughly half of the trade deals that came before her. However, she voted against the [Dominican Republic-Central America Free Trade Agreement(DR-CAFTA)](https://scout.sunlightfoundation.com/item/speech/CREC-2005-06-30-pt2-PgS7697.chunk96/sen-hillary-clinton-senate), saying in 2005:
 
 > While this agreement provides some benefit for New York, I regretfully conclude **the harm outweighs the good.** I must therefore vote to oppose...Sadly, DR-CAFTA is a step backward.
 
@@ -20,7 +20,7 @@ And like **Senator Bernie Sanders**, Hillary voted against the [Trade Act of 200
 
 **Q**: But she "flip-flopped" on TPP, right?
 
-**A**: No, she did not. Yes, Hillary did originally support the Trans-Pacific Partnership (TPP). However, when the final deal was finished, [it did not benefit American workers the way she thought it should](http://www.ontheissues.org/2016/Hillary_Clinton_Free_Trade.htm). As a result, she felt obligated to oppose it:
+**A**: No. Hillary did originally support the Trans-Pacific Partnership (TPP). However, when the final deal was finished, [it did not benefit American workers the way she thought it should](http://www.ontheissues.org/2016/Hillary_Clinton_Free_Trade.htm). As a result, she felt obligated to oppose it. At the Democratic Primary Debate on October 13, 2015, she said:
 
 > I have always fought for the same values and principles, but, like most human beings--including those of us who run for office--I do absorb new information. I do look at what's happening in the world. Take the trade deal. I did say, when I was secretary of state, three years ago, that I hoped it would be the gold standard. It was just finally negotiated last week, and in looking at it, it didn't meet my standards. My standards for more new, good jobs for Americans, for raising wages for Americans. And **I want to make sure that I can look into the eyes of any middle-class American and say, "this will help raise your wages."** And I concluded I could not.
 
