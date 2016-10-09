@@ -6,7 +6,7 @@ categories: experience
   
 **Q:** Isn't her experience all bad? 
   
-**A**: In the first Presidential debate, Donald Trump claimed that Hillary "has experience, but it's bad experience." This is utter nonsense. Specifically, he was referring to the [Iran Nuclear Deal](http://correctrecord.org/the-path-to-a-landmark-deal-how-hillary-led-on-iran-sanctions/) and our [intervention in Libya](http://www.npr.org/2011/09/12/140292920/natos-intervention-in-libya-a-new-model):
+**A**: In the first Presidential debate, Donald Trump claimed that Hillary "has experience, but it's bad experience." This is not true. Specifically, he was referring to the [Iran Nuclear Deal](http://correctrecord.org/the-path-to-a-landmark-deal-how-hillary-led-on-iran-sanctions/) and our [intervention in Libya](http://www.npr.org/2011/09/12/140292920/natos-intervention-in-libya-a-new-model):
 
 * Far from a failure, the Iran Nuclear Deal was [one of the most strategic successes](https://www.washingtonpost.com/opinions/the-obama-bet-that-paid-off/2015/09/15/e46b80f6-5be6-11e5-8e9e-dce8a2a2a679_story.html?utm_term=.225e39af4806) of the Obama administration. And the [crippling sanctions](http://correctrecord.org/the-path-to-a-landmark-deal-how-hillary-led-on-iran-sanctions/) that Hillary personally fought for pushed Iran to the negotiating table.
 
