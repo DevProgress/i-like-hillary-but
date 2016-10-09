@@ -12,10 +12,10 @@ categories: trust
 
 **Q**: What do these independent organizations say about the Clinton Foundation?
 
-**A**: Independent charity watchdog agencies have given the Clinton Foundation **high ratings transparency and accountability**.
+**A**: Independent charity watchdog agencies have given the Clinton Foundation **high ratings for transparency and accountability**.
 
 * [CharityWatch](https://www.charitywatch.org/ratings-and-metrics/bill-hillary-chelsea-clinton-foundation/478) gave the foundation an **A rating**.
-* [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=16680) gave them **a 4 star rating**, with an incredible overall score of 94.74 out of 100.
+* [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=16680) gave them ** the highest possible rating, 4 stars**, with an incredible overall score of 94.74 out of 100.
 * [GuideStar](http://www.guidestar.org/profile/31-1580204) bestowed **Platinum status on the Clinton Foundation, indicating the foundation's commitment to transparency.**
 
 **Q**: OK, but the Clintons must make money from the foundation, right?
@@ -27,7 +27,7 @@ categories: trust
 
 **Q**: What is The Clinton Foundation anyway?
  
-**A**: The Clinton Foundation was founded by President Bill Clinton in 2001, to support the work of the Clinton Presidential Center, which contains his Presidential Library and supports the Arkansas community. He expanded the foundation's role in 2002 to improve global access to HIV/AIDS treatment. The foundation has continued to grow and take on new challenges, including: battling climate change, fighting childhood obesity, and increasing opportunities for women and girls, to name just a few.
+**A**: The Clinton Foundation was founded by President Bill Clinton in 2001, to support the work of the Clinton Presidential Center, which contains his Presidential Library and supports the Arkansas community. He expanded the foundation's role in 2002 to improve global access to HIV/AIDS treatment. The foundation has continued to grow and take on new challenges, including battling climate change, fighting childhood obesity, and increasing opportunities for women and girls, to name just a few.
 
 **Q**: What are some of the Clinton Foundation's accomplishments?
 
