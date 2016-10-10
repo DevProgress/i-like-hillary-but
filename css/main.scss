@@ -288,19 +288,19 @@ header.post-header h1 {
      }
  }
 
- .post {
+ .post, footer.site-footer p {
 	 margin-left: $spacing-unit * 4;
 	 ul {
 	 	margin-left: 0;
 	 }
  }
  @include media-query($on-laptop) {
-	 .post {
+	 .post, footer.site-footer p {
 		 margin-left: $spacing-unit * 4;
 	 }
  }
  @include media-query($on-palm) {
-	 .post {
+	 .post, footer.site-footer p {
 		 margin-left: 0;
 	 }
  }
@@ -371,15 +371,18 @@ footer.site-footer {
 	font-size: 0.95em;
 }
 
-footer.site-footer p { margin-bottom: 0; padding-bottom: 0; }
+footer.site-footer p {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
 
-footer.site-footer a{
+footer.site-footer a {
 	font-weight: 600;
 	color: inherit;
 	text-decoration: underline;
 }
 
-footer.site-footer a:hover{
+footer.site-footer a:hover {
 	text-decoration: none;
 }
 
