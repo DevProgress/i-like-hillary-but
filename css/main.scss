@@ -42,20 +42,23 @@ $on-laptop:         900px;
 @import "minima";
 
 body {
-	font-family: $base-font-family;
-	font-weight: 400;
-	font-size: $base-font-size;
-	@include media-query($on-palm) {
-		font-size: $base-font-size - 2px;
+	@media screen {
+		font-family: $base-font-family;
+		font-weight: 400;
+		font-size: $base-font-size;
+
+		@include media-query($on-palm) {
+			font-size: $base-font-size - 2px;
+		}
+
+		background-color: $background-color;
+		color: $content-text-color;
+
+		display: flex;
+		flex-direction: column;
+		position: fixed;
+		top: 0; bottom: 0; left: 0; right: 0;
 	}
-
-	background-color: $background-color;
-	color: $content-text-color;
-
-	display: flex;
-	flex-direction: column;
-	position: fixed;
-	top: 0; bottom: 0; left: 0; right: 0;
 }
 
 body.hero {
@@ -72,6 +75,9 @@ a {
 }
 
 div.call-to-action {
+	@media print {
+		display: none;
+	}
 
 	.primary-action,
 	.secondary-action {
@@ -116,17 +122,19 @@ div.post-meta {
 
 /*Content Styles */
 div.page-content {
-	flex: auto;
-	overflow-y: auto;
-	overflow-x: hidden;
-	padding-bottom: 0;
+	@media screen {
+		flex: auto;
+		overflow-y: auto;
+		overflow-x: hidden;
+		padding-bottom: 0;
+	}
 
 	a {
 		border-bottom-style: dotted;
 		border-bottom-width: 1px;
 		text-decoration: none;
 	}
-	@media (max-width: $on-palm) {
+	@media screen and (max-width: $on-palm) {
 		padding-top: 15px;
 		.wrapper {
 			padding-left: 30px;
@@ -249,12 +257,19 @@ header.post-header h1 {
 	font-weight: 700;
 	font-size: 1em;
 	line-height: 1em;
-	padding-left: 1em;
-	text-indent: -1em;
+	@media screen {
+		padding-left: 1em;
+		text-indent: -1em;
+	}
 }
 
 .back-to-home {
-	display: inline-block;
+	@media screen {
+		display: inline-block;
+	}
+	@media print {
+		display: none;
+	}
 	vertical-align: top;
 	text-decoration: none;
 
@@ -276,28 +291,26 @@ header.post-header h1 {
 	padding: 8px 5px;
 }
 
- @include media-query($on-palm) {
+@include media-query($on-palm) {
     .post .post-header .post-title {
-		font-size: 2em;
-     }
- }
+        font-size: 2em;
+    }
+}
 
- .post, footer.site-footer p {
-	 margin-left: $spacing-unit * 4;
-	 ul {
-	 	margin-left: 0;
-	 }
- }
- @include media-query($on-laptop) {
-	 .post, footer.site-footer p {
-		 margin-left: $spacing-unit * 4;
-	 }
- }
- @include media-query($on-palm) {
-	 .post, footer.site-footer p {
-		 margin-left: 0;
-	 }
- }
+.post, footer.site-footer p {
+    @media screen {
+        margin-left: $spacing-unit * 4;
+        ul {
+            margin-left: 0;
+        }
+    }
+    @include media-query($on-laptop) {
+        margin-left: $spacing-unit * 4;
+    }
+    @include media-query($on-palm) {
+        margin-left: 0;
+    }
+}
 
 article.post-content p {
 	font-size: 1.15em;
