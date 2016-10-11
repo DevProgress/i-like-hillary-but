@@ -10,6 +10,7 @@ categories: controversy
 got him off and she is seen laughing on two occasions laughing at the girl who was raped." This is [completely false](http://www.politico.com/blogs/2016-presidential-debate-fact-check/2016/10/trump-is-wrong-hillary-clinton-did-not-laugh-about-the-rape-of-a-12-year-old-229455#ixzz4MiTn0Cwt). Here are the facts:
 
 * In 1975, Hillary was **appointed by a judge** to defend a homeless man who was being tried for the rape of a 12 year old girl. 
+* The defendant specifically requested a female attorney<iframe width="560" height="315" src="https://www.youtube.com/embed/jJ03Nw7ohww" frameborder="0" allowfullscreen></iframe>
 * Hillary was a young lawyer, only 27 at the time, and **did not want to take the case**. However, since she was appointed, she was not in a position to refuse.
 * The [Sixth Amendment of the U.S. Constitution](http://constitution.findlaw.com/amendment6.html) guarantees the right to an attorney. As a result, Hillary was **obligated to defend her client to the best of her ability**, which she did.
 * The case resulted in a plea bargain, in which **the defendant was convicted** of a lesser charge.
