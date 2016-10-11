@@ -23,6 +23,6 @@ got him off and she is seen laughing on two occasions laughing at the girl who w
 
 **Q**: But how could Hillary laugh at a girl who was raped?
 
-**A**: She didn't. This accusation stems from a recorded interview with an Arkansas journalist in the 1980's. In the **six minute recording**, Hillary can be heard chuckling four times. However, the topics she was laughing about had [nothing to do with the central points of the case, and she **certainly was not laughing at the victim**](http://www.politico.com/blogs/2016-presidential-debate-fact-check/2016/10/trump-is-wrong-hillary-clinton-did-not-laugh-about-the-rape-of-a-12-year-old-229455#ixzz4MiTn0Cwt).
+**A**: She didn't. This accusation stems from a recorded interview with an Arkansas journalist in the 1980's. In the **six minute recording**, Hillary can be heard chuckling a total of **four times**. However, she was laughing about ["unusual aspects of the case"](http://www.factcheck.org/2016/06/clintons-1975-rape-case/) and **never laughed at or about the victim**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=e2f13f2awK4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e2f13f2awK4" frameborder="0" allowfullscreen></iframe>
