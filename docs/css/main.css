@@ -651,16 +651,16 @@ header.post-header h1 {
 @media screen and (max-width: 600px) {
   .post .post-header .post-title {
     font-size: 2em; } }
-.post {
+.post, footer.site-footer p {
   margin-left: 120px; }
-  .post ul {
+  .post ul, footer.site-footer p ul {
     margin-left: 0; }
 
 @media screen and (max-width: 900px) {
-  .post {
+  .post, footer.site-footer p {
     margin-left: 120px; } }
 @media screen and (max-width: 600px) {
-  .post {
+  .post, footer.site-footer p {
     margin-left: 0; } }
 article.post-content p {
   font-size: 1.15em;
