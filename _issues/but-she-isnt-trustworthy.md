@@ -6,7 +6,7 @@ categories: deception
 
 **Q**: Doesn't she lie all of the time?
 
-**A**: No. Hillary is actually one of the most truthful candidates to run in the past three Presidential elections! Here are the facts:
+**A**: No. Hillary is actually **one of the most truthful candidates** to run in the past three Presidential elections! Here are the facts:
 
 * Politifact, a Pulitzer Prize-winning, independent fact-checking organization, determined that [**Hillary is the most truthful of all of the candidates who ran in 2016**, and ranks 2nd overall in a field of 20 presidential candidates, since 2007](https://datavizblog.com/2016/07/24/political-dataviz-who-lies-more-a-comparison-robert-mann/)!
 
