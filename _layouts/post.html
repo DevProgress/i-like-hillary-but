@@ -17,47 +17,45 @@ layout: default
       <a class="secondary-action" href="https://www.hillaryclinton.com/donate/?amount=10.00&utm_source=hillarymyths">Donate</a>
     </p>
     {% if site.feedback %}
-    <p>
-      <a class="not-convinced" href="#">I'm still not convinced</a>
-      <form id="feedback" hidden action="{{ site.feedback.action }}" class="veiled" target="feedback-target" method="POST">
-        <textarea name="{{ site.feedback.input }}" placeholder="Tell us more..." aria-label="Tell us more"></textarea>
-        <input type="hidden" name="{{ site.feedback.url }}" value="{{ page.url }}">
-        <button type="submit">Send</button>
-        <iframe id="feedback-target" name="feedback-target"></iframe>
-      </form>
-      <div id="thank-you" hidden>Thank you for your submission!</div>
-      <script>
+    <p><a class="not-convinced" href="#">I'm still not convinced</a></p>
+    <form id="feedback" hidden action="{{ site.feedback.action }}" class="veiled" target="feedback-target" method="POST">
+      <textarea name="{{ site.feedback.input }}" placeholder="Tell us more..." aria-label="Tell us more"></textarea>
+      <input type="hidden" name="{{ site.feedback.url }}" value="{{ page.url }}">
+      <button type="submit">Send</button>
+      <iframe id="feedback-target" name="feedback-target"></iframe>
+    </form>
+    <div id="thank-you" hidden>Thank you for your submission!</div>
+    <script>
 
-      ~function() {
+    ~function() {
 
-        var link = document.querySelector('.not-convinced');
-        var form = document.querySelector('#feedback');
-        var iframe = document.querySelector('#feedback-target');
-        var thanks = document.querySelector('#thank-you');
-        link.addEventListener('click', function(evt) {
-          link.hidden = true;
-          form.hidden = false;
-          evt.preventDefault();
-        })
-        iframe.addEventListener('load', onSubmission);
-        iframe.addEventListener('error', onSubmission);
+      var link = document.querySelector('.not-convinced');
+      var form = document.querySelector('#feedback');
+      var iframe = document.querySelector('#feedback-target');
+      var thanks = document.querySelector('#thank-you');
+      link.addEventListener('click', function(evt) {
+        link.hidden = true;
+        form.hidden = false;
+        evt.preventDefault();
+      })
+      iframe.addEventListener('load', onSubmission);
+      iframe.addEventListener('error', onSubmission);
 
-        function onSubmission() {
-          form.hidden = true;
-          thanks.hidden = false;
-        }
+      function onSubmission() {
+        form.hidden = true;
+        thanks.hidden = false;
+      }
 
-      }();
+    }();
 
-      </script>
-    </p>
+    </script>
     {% endif %}
   </div>
 
   <div class="post-meta">
-    <span class="sharing-links">{% include social-sharing.html %}</span>
-    {% if page.author %} • {{ page.author }}{% endif %}
-    {% if page.meta %} • {{ page.meta }}{% endif %}
+    <div class="sharing-links">{% include social-sharing.html %}</div>
+    <p>{% if page.author %} • {{ page.author }}{% endif %}
+    {% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </div>
 
 </div>
