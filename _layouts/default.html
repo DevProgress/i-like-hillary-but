@@ -7,12 +7,32 @@
     {% include body-js.html %}
     {% include header.html %}
 
-    <div class="page-content">
+    <div id="page-content" class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
       {% include footer.html %}
     </div>
 
+    <script>
+        <!-- Execute after the DOM is loaded -->
+        (function() {
+          var content = document.getElementById('page-content');
+          content.addEventListener('scroll', function(e) {
+              var distanceY = window.pageYOffset || content.scrollTop,
+                  shrinkOn = 300,
+                  header = document.querySelector("header.post-header");
+              if (distanceY > shrinkOn) {
+                  classie.add(header, "smaller");
+              } else {
+                  if (classie.has(header, "smaller")) {
+                      classie.remove(header, "smaller");
+                  }
+              }
+          });
+        })();
+   </script>
+   <!-- For adding and removing classes -->
+   <script src="//cdnjs.cloudflare.com/ajax/libs/classie/1.0.1/classie.min.js"></script>
   </body>
 </html>
