@@ -4,8 +4,8 @@ title: "isn't her experience all bad?"
 categories: experience
 ---  
   
-**Q:** Isn't her experience all bad? 
-  
+## Q: Isn't her experience all bad?
+
 **A**: In the first Presidential debate, Donald Trump claimed that Hillary "has experience, but it's bad experience." This is not true. Specifically, he was referring to the [Iran Nuclear Deal](http://correctrecord.org/the-path-to-a-landmark-deal-how-hillary-led-on-iran-sanctions/) and our [intervention in Libya](http://www.npr.org/2011/09/12/140292920/natos-intervention-in-libya-a-new-model):
 
 * Far from a failure, the Iran Nuclear Deal was [one of the most strategic successes](https://www.washingtonpost.com/opinions/the-obama-bet-that-paid-off/2015/09/15/e46b80f6-5be6-11e5-8e9e-dce8a2a2a679_story.html?utm_term=.225e39af4806) of the Obama administration. And the [crippling sanctions](http://correctrecord.org/the-path-to-a-landmark-deal-how-hillary-led-on-iran-sanctions/) that Hillary personally fought for pushed Iran to the negotiating table.
@@ -13,7 +13,7 @@ categories: experience
 * Hillary's critics have convinced many people that the Libyan crisis began and ended with the tragic attack on our mission in Benghazi. However, the U.S. intervention in Libya helped avert [mass killings](http://uk.reuters.com/article/libya-protests-gaddafi-idUKLDE71L26D20110222) by the Libyan government. It also led to the ouster and death of Moammar Gadhafi, a brutal dictator, terrorist supporter, and enemy of the United States. What if the United States had not intervened in Libya? According to [Ivo Daalder, President of the Chicago Council on Global Affairs and the U.S. Ambassador to NATO during the 2011 Libyan revolution](http://www.huffingtonpost.com/2015/03/07/libya-intervention-daalder_n_6809756.html):
 > We would have seen a massive humanitarian nightmare inflicted on the people of Libya by their government. 
 
-**Q**: What were Hillary's other accomplishments as a public servant?
+## Q: What were Hillary's other accomplishments as a public servant?
 
 **A**: Hillary's record as a public servant includes her time as Secretary of State, U.S. Senator from New York, First Lady of the United States, and the First Lady of Arkansas. Here are just a [few of her accomplishments](https://www.hillaryclinton.com/feed/seven-hillary-clintons-biggest-accomplishments/):
 
@@ -29,6 +29,6 @@ categories: experience
 
 * When Hillary was First Lady, she fought for health care reform. When that effort did not succeed, Hillary kept fighting. **She worked with Republicans and Democrats** to help create the [Children's Health Insurance Program](http://www.factcheck.org/2008/03/giving-hillary-credit-for-schip/). Today, CHIP **provides health care to more than 8 million children**.
 
-**Q**: So she only got into public service because she was Bill Clinton's wife, right?
+## Q: So she only got into public service because she was Bill Clinton's wife, right?
 
 **A**: No. Hillary's call to public service began before she married Bill. When Hillary graduated law school, she could have joined a prestigious law firm. Instead, she chose to take a job with the [Children's Defense Fund](https://www.hillaryclinton.com/feed/what-hillary-clintons-first-job-out-of-law-school-can-tell-us-about-who-she-is-today/), where **she worked with teenagers incarcerated in adult prisons and families with disabled children**.

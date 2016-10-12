@@ -4,7 +4,7 @@ title: "isn't she a war hawk?"
 categories: policy
 ---  
 
-**Q: Isn't Hillary a "war hawk"?**
+## Q: Isn't Hillary a "war hawk"?
   
 **A**: No. A "war hawk" is considered to be someone who favors military use over diplomacy. That is absolutely NOT Hillary Clinton. Here are the facts:
 
