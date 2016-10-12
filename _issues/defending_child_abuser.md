@@ -4,7 +4,7 @@ title: "Didn't she get a rapist acquitted, and then laugh about the girl who was
 categories: controversy
 ---
 
-**Q:** Didn't Hillary get a rapist acquitted, and then laugh about the girl who was raped?  
+## Q: Didn't Hillary get a rapist acquitted, and then laugh about the girl who was raped?  
 
 **A**: In the second Presidential debate, Donald Trump claimed "Her client she represented
 got him off and she is seen laughing on two occasions laughing at the girl who was raped." This accusation [has been repeatedly disproven](http://www.politico.com/blogs/2016-presidential-debate-fact-check/2016/10/trump-is-wrong-hillary-clinton-did-not-laugh-about-the-rape-of-a-12-year-old-229455#ixzz4MiTn0Cwt). Here are the facts:
@@ -21,8 +21,8 @@ got him off and she is seen laughing on two occasions laughing at the girl who w
 
 * The case resulted in a plea bargain, in which **the defendant was convicted** of a lesser charge.
 
-**Q**: But how could Hillary laugh at a girl who was raped?
+## Q: But how could Hillary laugh at a girl who was raped?
 
-**A**: She didn't. This accusation stems from a recorded interview with an Arkansas journalist in the 1980's. In the **six minute recording**, Hillary can be heard chuckling a total of **four times**. However, she was laughing about ["unusual aspects of the case"](http://www.factcheck.org/2016/06/clintons-1975-rape-case/) and **never laughed at or about the victim**.
+**A**: Hillary did not laugh at the girl who was raped. In the mid-1980's, Arkansas journalist, Roy Reed interviewed Hillary and asked questions about some criminal work she did as a lawyer. While discussing this case, Hillary is heard laughing about the polygraph test her court-appointed client took and about a conversation she had with the prosecutor about the poor forensic evidence available for prosecution. [At no point did she laugh at or about the victim](https://www.factcheck.org/2016/06/clintons-1975-rape-case/). Listen for yourself:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e2f13f2awK4" frameborder="0" allowfullscreen></iframe>
