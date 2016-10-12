@@ -129,11 +129,14 @@ div.page-content {
 		padding-bottom: 0;
 	}
 
-	a {
-		border-bottom-style: dotted;
-		border-bottom-width: 1px;
-		text-decoration: none;
-	}
+    div.post {
+        a {
+            border-bottom-style: dotted;
+            border-bottom-width: 1px;
+            text-decoration: none;
+        }
+    }
+
 	@media screen and (max-width: $on-palm) {
 		padding-top: 15px;
 		.wrapper {
