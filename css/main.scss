@@ -65,9 +65,8 @@ body.hero {
 	background-color: $brand-color-dark;
 }
 
-a {
+a, a:link, a:visited {
 	color: inherit;
-	text-decoration: underline;
 }
 
 .myth {
@@ -89,7 +88,7 @@ div.call-to-action {
 	}
 
 	.secondary-action,
-	a.secondary-action,
+	a.secondary-action:link,
 	a.secondary-action:visited
 	{
 		color: $content-text-color;
@@ -99,7 +98,7 @@ div.call-to-action {
 	}
 
 	.primary-action,
-	a.primary-action,
+	a.primary-action:link,
 	a.primary-action:visited
 	{
 		color: $background-color;
@@ -127,11 +126,14 @@ div.page-content {
 		overflow-y: auto;
 		overflow-x: hidden;
 		padding-bottom: 0;
-	}
 
-    div.post {
-        a {
+        div.post a {
             text-decoration: underline;
+        }
+	}
+    @media print {
+        div.post a {
+            text-decoration: none;
         }
     }
 
