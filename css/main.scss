@@ -318,9 +318,18 @@ header.post-header h1 {
     }
 }
 
-article.post-content p {
+article.post-content {
 	font-size: 1.15em;
     color: $content-text-color;
+
+    h1, h2 {
+        margin-top: 1em;
+        color: $brand-color-dark;
+    }
+    h2 {
+        font-size: inherit;
+    }
+    .semantic-annotation { display: none; }
 }
 
 #feedback {
