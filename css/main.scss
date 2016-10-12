@@ -171,7 +171,7 @@ span.wrapper {
 }
 
 a.post-link {
-	font-size: 2.25em;
+	font-size: 2.2em;
 	font-weight: 700;
 	padding: 2px 5px;
 }
@@ -204,22 +204,33 @@ header.home-header {
 	display: flex;
 	align-items: center;
 	min-height: 0;
-}
-header.home-header h1 {
-	margin-bottom: 0;
-	transition-duration: 1s;
-	transition-property: font-weight;
-	padding-top: 1.5em;
-	@include media-query($on-palm) {
-		padding-top: 0.5em;
-	}
 
-	padding-bottom: 0.5em;
+	h1 {
+		margin-bottom: 0;
+		transition-duration: 1s;
+		transition-property: font-weight;
+		padding-top: 3em;
+		font-size: 1.8em;
+		@include media-query($on-palm) {
+			font-size: 1.5em;
+			padding-left: 0.6em;
+		}
+
+		padding-bottom: 2em;
+		padding-left: 0.5em;
+	}
 }
 
 header.hero {
-	font-size: 3em;
+	font-size: 3.5em;
 	min-height: 100vh;
+	h1 {
+		padding-top: 0.5em;
+		@include media-query($on-palm) {
+			font-size: 1.5em;
+			padding-left: 0.6em;
+		}
+	}
 	margin-bottom: 10em;
 }
 
