@@ -65,9 +65,8 @@ body.hero {
 	background-color: $brand-color-dark;
 }
 
-a {
+a, a:link, a:visited {
 	color: inherit;
-	text-decoration: underline;
 }
 
 .myth {
@@ -89,7 +88,7 @@ div.call-to-action {
 	}
 
 	.secondary-action,
-	a.secondary-action,
+	a.secondary-action:link,
 	a.secondary-action:visited
 	{
 		color: $content-text-color;
@@ -99,7 +98,7 @@ div.call-to-action {
 	}
 
 	.primary-action,
-	a.primary-action,
+	a.primary-action:link,
 	a.primary-action:visited
 	{
 		color: $background-color;
@@ -127,13 +126,21 @@ div.page-content {
 		overflow-y: auto;
 		overflow-x: hidden;
 		padding-bottom: 0;
-	}
 
-	a {
-		border-bottom-style: dotted;
-		border-bottom-width: 1px;
-		text-decoration: none;
+        div.post a {
+            text-decoration: underline;
+        }
 	}
+    @media print {
+        div.post a {
+            text-decoration: none;
+        }
+    }
+
+    blockquote {
+        font-size: 1em;
+    }
+
 	@media screen and (max-width: $on-palm) {
 		padding-top: 15px;
 		.wrapper {
@@ -141,7 +148,6 @@ div.page-content {
 			padding-right: 30px;
 		}
 		blockquote {
-			font-size: 1em;
 			padding-left: 10px;
 		}
 	}
@@ -315,12 +321,6 @@ header.post-header h1 {
 article.post-content p {
 	font-size: 1.15em;
     color: $content-text-color;
-}
-
-article.post-content>p:first-child,
-article.post-content>p:nth-child(2) {
-	font-weight: 300;
-	color: $brand-color-dark;
 }
 
 #feedback {
