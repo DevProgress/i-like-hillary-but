@@ -323,12 +323,6 @@ article.post-content p {
     color: $content-text-color;
 }
 
-article.post-content>p:first-child,
-article.post-content>p:nth-child(2) {
-	font-weight: 300;
-	color: $brand-color-dark;
-}
-
 #feedback {
 	display: flex;
 	align-items: flex-start;
