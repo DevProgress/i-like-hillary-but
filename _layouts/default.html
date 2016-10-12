@@ -17,22 +17,20 @@
     <script>
         <!-- Execute after the DOM is loaded -->
         (function() {
+          const shrinkOn = 300;
           var content = document.getElementById('page-content');
+          var header = document.querySelector("header.post-header");
           content.addEventListener('scroll', function(e) {
-              var distanceY = window.pageYOffset || content.scrollTop,
-                  shrinkOn = 300,
-                  header = document.querySelector("header.post-header");
+              var distanceY = window.pageYOffset || content.scrollTop;
               if (distanceY > shrinkOn) {
-                  classie.add(header, "smaller");
+                  header.classList.add("smaller");
               } else {
-                  if (classie.has(header, "smaller")) {
-                      classie.remove(header, "smaller");
+                  if (header.classList.contains("smaller")) {
+                      header.classList.remove("smaller");
                   }
               }
           });
         })();
    </script>
-   <!-- For adding and removing classes -->
-   <script src="//cdnjs.cloudflare.com/ajax/libs/classie/1.0.1/classie.min.js"></script>
   </body>
 </html>
