@@ -4,14 +4,14 @@ title: "doesn't she want my guns?"
 categories: guns, gun control
 ---
 
-Q: Doesn't Hillary want to take away my right to own a gun?
+## Q: Doesn't Hillary want to take away my right to own a gun?
 
 
 A: Hillary respects law-abiding citizens’ 2nd Amendment right to own guns. She just wants to put in place [common-sense solutions](https://www.hillaryclinton.com/issues/gun-violence-prevention/) to make our communities safer. 
 
 Guns kill [around 33,000](http://fivethirtyeight.com/features/gun-deaths/) Americans a year. Hillary is committed to reducing the epidemic of gun violence. 
 
-Q: What do those solutions look like?
+## Q: What do those solutions look like?
 
 A: Here are the facts. As president, Hillary will:
 

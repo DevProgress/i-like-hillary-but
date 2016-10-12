@@ -3,7 +3,7 @@ layout: post
 title: "hasn't the establishment failed us?"  
 categories: obama
 ---  
-**Q**: Hasn't the establishment failed us?
+## Q: Hasn't the establishment failed us?
   
 **A**: No. President Obama inherited a [financial](http://www.csmonitor.com/Commentary/Opinion/2009/0218/p09s02-coop.html) disaster. And despite an [obstructionist Republican Congress](https://www.washingtonpost.com/opinions/republican-obstructionism-is-nothing-new/2016/02/15/2d856c12-d42c-11e5-b195-2e29a4e13425_story.html?utm_term=.7faadad9f0e1), look at [where we are now](http://www.nytimes.com/2016/05/01/magazine/president-obama-weighs-his-economic-legacy.html?_r=0):
 
@@ -12,7 +12,7 @@ categories: obama
 * The Dow Jones Industrial Average was below 7,000 points in 2009, **today it is over 18,000**.
 * And contrary to what many people think, our **federal deficit has declined by roughly three-quarters**.
 
-**Q**: How has the current administration helped regular Americans?
+## Q: How has the current administration helped regular Americans?
 
 **A**: The Obama administration fought for legislation to create jobs, close the gender pay gap, help people with "underwater" mortgages keep their houses, and provide access to health coverage for millions of Americans.
 
@@ -24,6 +24,6 @@ categories: obama
 
 * And perhaps President Obama's crowning achievement, the Affordable Care Act (informally known as "Obamacare"), [**provides health insurance to 11.3 million people**](https://www.washingtonpost.com/news/to-your-health/wp/2016/01/07/more-than-11-3-million-americans-signed-up-for-obamacare-report-says/)!
 
-**Q**: Is there more to do? 
+## Q: Is there more to do? 
 
 **A**: Of course there is! Hillary will continue to move our country forward, and fight for even more programs to help Americans who are struggling. Check out the [detailed plans](http://www.hillaryclinton.com) on her website.
