@@ -456,19 +456,20 @@ pre {
   .highlight .il {
     color: #099; }
 
-body {
-  font-family: "Montserrat", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  background-color: #FFFFFF;
-  color: #4A4A4A;
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0; }
+@media screen {
+  body {
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #FFFFFF;
+    color: #4A4A4A;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0; } }
   @media screen and (max-width: 600px) {
     body {
       font-size: 14px; } }
@@ -476,13 +477,15 @@ body {
 body.hero {
   background-color: #0057B8; }
 
-a {
-  color: inherit;
-  text-decoration: underline; }
+a, a:link, a:visited {
+  color: inherit; }
 
 .myth {
   color: #0057B8; }
 
+@media print {
+  div.call-to-action {
+    display: none; } }
 div.call-to-action .primary-action,
 div.call-to-action .secondary-action {
   padding: 10px 16px;
@@ -491,14 +494,14 @@ div.call-to-action .secondary-action {
   font-weight: 500;
   border-radius: 4px; }
 div.call-to-action .secondary-action,
-div.call-to-action a.secondary-action,
+div.call-to-action a.secondary-action:link,
 div.call-to-action a.secondary-action:visited {
   color: #4A4A4A;
   background-color: #FFFFFF;
   border: 2px #9B9B9B solid;
   text-decoration: none; }
 div.call-to-action .primary-action,
-div.call-to-action a.primary-action,
+div.call-to-action a.primary-action:link,
 div.call-to-action a.primary-action:visited {
   color: #FFFFFF;
   background-color: #BD10E0;
@@ -509,31 +512,31 @@ div.call-to-action a.primary-action:visited {
 .sharing-links > * {
   vertical-align: bottom !important; }
 
-span.sharing-links {
-  display: inline-block; }
-
 div.post-meta {
   margin-bottom: 1em; }
 
 /*Content Styles */
-div.page-content {
-  flex: auto;
-  overflow-y: auto;
-  overflow-x: hidden;
-  padding-bottom: 0; }
-  div.page-content a {
-    border-bottom-style: dotted;
-    border-bottom-width: 1px;
-    text-decoration: none; }
-  @media (max-width: 600px) {
-    div.page-content {
-      padding-top: 15px; }
-      div.page-content .wrapper {
-        padding-left: 30px;
-        padding-right: 30px; }
-      div.page-content blockquote {
-        font-size: 1em;
-        padding-left: 10px; } }
+@media screen {
+  div.page-content {
+    flex: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-bottom: 0; }
+    div.page-content div.post a {
+      text-decoration: underline; } }
+@media print {
+  div.page-content div.post a {
+    text-decoration: none; } }
+div.page-content blockquote {
+  font-size: 1em; }
+@media screen and (max-width: 600px) {
+  div.page-content {
+    padding-top: 15px; }
+    div.page-content .wrapper {
+      padding-left: 30px;
+      padding-right: 30px; }
+    div.page-content blockquote {
+      padding-left: 10px; } }
 
 /*Homepage */
 .home {
@@ -603,9 +606,6 @@ header.hero h1 {
   .home h2 .post-link {
     font-size: 1.1em; }
 
-  .sharing-links {
-    display: none; }
-
   header.hero {
     font-size: 2.25em; } }
 /* Issues page styles */
@@ -625,12 +625,13 @@ header.post-header {
 header.post-header h1 {
   font-weight: 700;
   font-size: 1em;
-  line-height: 1em;
-  padding-left: 1em;
-  text-indent: -1em; }
+  line-height: 1em; }
+  @media screen {
+    header.post-header h1 {
+      padding-left: 1em;
+      text-indent: -1em; } }
 
 .back-to-home {
-  display: inline-block;
   vertical-align: top;
   text-decoration: none;
   background: url("../img/back-caret.svg") no-repeat;
@@ -639,6 +640,12 @@ header.post-header h1 {
   filter: brightness(0) invert(1);
   width: 1em;
   height: 1em; }
+  @media screen {
+    .back-to-home {
+      display: inline-block; } }
+  @media print {
+    .back-to-home {
+      display: none; } }
 
 .post .post-header .post-title {
   display: inline-block;
@@ -651,25 +658,28 @@ header.post-header h1 {
 @media screen and (max-width: 600px) {
   .post .post-header .post-title {
     font-size: 2em; } }
-.post, footer.site-footer p {
-  margin-left: 120px; }
-  .post ul, footer.site-footer p ul {
-    margin-left: 0; }
-
+@media screen {
+  .post, footer.site-footer p {
+    margin-left: 120px; }
+    .post ul, footer.site-footer p ul {
+      margin-left: 0; } }
 @media screen and (max-width: 900px) {
   .post, footer.site-footer p {
     margin-left: 120px; } }
 @media screen and (max-width: 600px) {
   .post, footer.site-footer p {
     margin-left: 0; } }
-article.post-content p {
+
+article.post-content {
   font-size: 1.15em;
   color: #4A4A4A; }
-
-article.post-content > p:first-child,
-article.post-content > p:nth-child(2) {
-  font-weight: 300;
-  color: #0057B8; }
+  article.post-content h1, article.post-content h2 {
+    margin-top: 1em;
+    color: #0057B8; }
+  article.post-content h2 {
+    font-size: inherit; }
+  article.post-content .semantic-annotation {
+    display: none; }
 
 #feedback {
   display: flex;
