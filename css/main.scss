@@ -323,7 +323,7 @@ header.post-header.smaller h1 {
     }
 }
 
-.post, footer.site-footer p {
+.post {
     @media screen {
         margin-left: $spacing-unit * 4;
         ul {
