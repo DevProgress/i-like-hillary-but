@@ -352,6 +352,10 @@ article.post-content {
     .semantic-annotation { display: none; }
 }
 
+.not-convinced {
+	line-height: $base-line-height * 2;
+}
+
 #feedback {
 	display: flex;
 	align-items: flex-start;
