@@ -278,6 +278,15 @@ header.post-header h1 {
 		padding-left: 1em;
 		text-indent: -1em;
 	}
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+header.post-header.smaller h1 {
+	font-size: .5em;
 }
 
 .back-to-home {
