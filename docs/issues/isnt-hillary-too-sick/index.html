@@ -106,7 +106,7 @@ x///////////////////////x   http://DevProgress.us
 </header>
 
 
-    <div class="page-content">
+    <div id="page-content" class="page-content">
       <div class="wrapper">
         <div class="post">
 
@@ -210,5 +210,23 @@ x///////////////////////x   http://DevProgress.us
 
     </div>
 
+    <script>
+        <!-- Execute after the DOM is loaded -->
+        (function() {
+          const shrinkOn = 300;
+          var content = document.getElementById('page-content');
+          var header = document.querySelector("header.post-header");
+          content.addEventListener('scroll', function(e) {
+              var distanceY = window.pageYOffset || content.scrollTop;
+              if (distanceY > shrinkOn) {
+                  header.classList.add("smaller");
+              } else {
+                  if (header.classList.contains("smaller")) {
+                      header.classList.remove("smaller");
+                  }
+              }
+          });
+        })();
+   </script>
   </body>
 </html>

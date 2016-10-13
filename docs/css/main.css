@@ -552,7 +552,7 @@ span.wrapper {
   display: block; }
 
 a.post-link {
-  font-size: 2.25em;
+  font-size: 2.2em;
   font-weight: 700;
   padding: 2px 5px; }
 
@@ -580,21 +580,29 @@ header.home-header {
   display: flex;
   align-items: center;
   min-height: 0; }
-
-header.home-header h1 {
-  margin-bottom: 0;
-  transition-duration: 1s;
-  transition-property: font-weight;
-  padding-top: 1.5em;
-  padding-bottom: 0.5em; }
-  @media screen and (max-width: 600px) {
-    header.home-header h1 {
-      padding-top: 0.5em; } }
+  header.home-header h1 {
+    margin-bottom: 0;
+    transition-duration: 1s;
+    transition-property: font-weight;
+    padding-top: 3em;
+    font-size: 1.8em;
+    padding-bottom: 2em;
+    padding-left: 0.5em; }
+    @media screen and (max-width: 600px) {
+      header.home-header h1 {
+        font-size: 1.5em;
+        padding-left: 0.6em; } }
 
 header.hero {
-  font-size: 3em;
+  font-size: 3.5em;
   min-height: 100vh;
   margin-bottom: 10em; }
+  header.hero h1 {
+    padding-top: 0.5em; }
+    @media screen and (max-width: 600px) {
+      header.hero h1 {
+        font-size: 1.5em;
+        padding-left: 0.6em; } }
 
 header.hero h1 {
   font-weight: 700; }
@@ -625,11 +633,19 @@ header.post-header {
 header.post-header h1 {
   font-weight: 700;
   font-size: 1em;
-  line-height: 1em; }
+  line-height: 1.3em;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s; }
   @media screen {
     header.post-header h1 {
-      padding-left: 1em;
-      text-indent: -1em; } }
+      padding-left: 1.3em;
+      text-indent: -1.3em; } }
+
+header.post-header.smaller h1 {
+  font-size: .5em; }
 
 .back-to-home {
   vertical-align: top;
@@ -638,8 +654,8 @@ header.post-header h1 {
   background-size: cover;
   -webkit-filter: brightness(0) invert(1);
   filter: brightness(0) invert(1);
-  width: 1em;
-  height: 1em; }
+  width: 1.3em;
+  height: 1.3em; }
   @media screen {
     .back-to-home {
       display: inline-block; } }
@@ -659,15 +675,15 @@ header.post-header h1 {
   .post .post-header .post-title {
     font-size: 2em; } }
 @media screen {
-  .post, footer.site-footer p {
+  .post {
     margin-left: 120px; }
-    .post ul, footer.site-footer p ul {
+    .post ul {
       margin-left: 0; } }
 @media screen and (max-width: 900px) {
-  .post, footer.site-footer p {
+  .post {
     margin-left: 120px; } }
 @media screen and (max-width: 600px) {
-  .post, footer.site-footer p {
+  .post {
     margin-left: 0; } }
 
 article.post-content {
@@ -680,6 +696,9 @@ article.post-content {
     font-size: inherit; }
   article.post-content .semantic-annotation {
     display: none; }
+
+.not-convinced {
+  line-height: 3; }
 
 #feedback {
   display: flex;

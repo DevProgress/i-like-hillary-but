@@ -29,7 +29,7 @@ x///////////////////////x   http://DevProgress.us
  xxxxxxxxxxxxxxxxxxxxxxx
 
   -->
-  <meta name="description" content="Source: What the FBI Files Reveal About Hillary Clinton’s Email ServerQ: Isn’t Hillary is a criminal because she used a private email server?A: No, an intens...">
+  <meta name="description" content="Q: Isn’t Hillary is a criminal because she used a private email server?A: No, an intensive FBI investigation concluded that there was no criminal wrongdoing....">
  	<link rel="shortcut icon" href="/favicon.ico"/>
 
   <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
@@ -45,11 +45,11 @@ x///////////////////////x   http://DevProgress.us
   <meta property="og:url"           content="https://hillarymyths.org/issues/emails/" />
   <meta property="og:type"          content="article" />
   <meta property="og:title"         content="Isn't she a criminal for using a private email server? | Hillary Myths" />
-  <meta property="og:description"   content="Source: What the FBI Files Reveal About Hillary Clinton’s Email ServerQ: Isn’t Hillary is a criminal because she used a private email server?A: No, an intens..." />
+  <meta property="og:description"   content="Q: Isn’t Hillary is a criminal because she used a private email server?A: No, an intensive FBI investigation concluded that there was no criminal wrongdoing...." />
 
   <!-- Twitter Cards Metadata -->
   <meta name="twitter:title"        content="Isn't she a criminal for using a private email server? | Hillary Myths" />
-  <meta name="twitter:card"         content="Source: What the FBI Files Reveal About Hillary Clinton’s Email ServerQ: Isn’t Hillary is a criminal because she used a private email server?A: No, an intens..." />
+  <meta name="twitter:card"         content="Q: Isn’t Hillary is a criminal because she used a private email server?A: No, an intensive FBI investigation concluded that there was no criminal wrongdoing...." />
   <meta name="twitter:description"  content="&ldquo;I'd vote for Hillary, but...&rdquo; is a site designed to refute myths and misconceptions about Hillary Clinton. Please pick your concern from the following list!
 " />
   <meta name="twitter:url"          content="https://hillarymyths.org/issues/emails/" />
@@ -106,7 +106,7 @@ x///////////////////////x   http://DevProgress.us
 </header>
 
 
-    <div class="page-content">
+    <div id="page-content" class="page-content">
       <div class="wrapper">
         <div class="post">
 
@@ -114,11 +114,9 @@ x///////////////////////x   http://DevProgress.us
 
   <article class="post-content">
     <h1 class="semantic-annotation"></h1>
-    <p>Source: <a href="http://www.politico.com/magazine/story/2016/09/hillary-clinton-emails-2016-server-state-department-fbi-214307">What the FBI Files Reveal About Hillary Clinton’s Email Server</a></p>
+    <h2 id="q-isnt-hillary-is-a-criminal-because-she-used-a-private-email-server">Q: Isn’t Hillary is a criminal because she used a private email server?</h2>
 
-<h2 id="q-isnt-hillary-is-a-criminal-because-she-used-a-private-email-server">Q: Isn’t Hillary is a criminal because she used a private email server?</h2>
-
-<p><strong>A</strong>: No, an intensive FBI investigation concluded that there was <strong>no criminal wrongdoing.</strong> On July 5th, FBI Director James Comey took the unprecedented step of publicly criticizing Hillary for her use of private emails. However, he went on to say that the FBI investigation showed that there was insufficient evidence of any criminal wrongdoing.</p>
+<p><strong>A</strong>: No, <a href="http://www.politico.com/magazine/story/2016/09/hillary-clinton-emails-2016-server-state-department-fbi-214307">an intensive FBI investigation</a> concluded that there was <strong>no criminal wrongdoing.</strong> On July 5th, FBI Director James Comey took the unprecedented step of publicly criticizing Hillary for her use of private emails. However, he went on to say that the FBI investigation showed that there was insufficient evidence of any criminal wrongdoing.</p>
 
 <h2 id="q-even-if-it-wasnt-a-crime-wasnt-it-against-department-of-state-regulations">Q: Even if it wasn’t a crime, wasn’t it against Department of State regulations?</h2>
 
@@ -218,5 +216,23 @@ x///////////////////////x   http://DevProgress.us
 
     </div>
 
+    <script>
+        <!-- Execute after the DOM is loaded -->
+        (function() {
+          const shrinkOn = 300;
+          var content = document.getElementById('page-content');
+          var header = document.querySelector("header.post-header");
+          content.addEventListener('scroll', function(e) {
+              var distanceY = window.pageYOffset || content.scrollTop;
+              if (distanceY > shrinkOn) {
+                  header.classList.add("smaller");
+              } else {
+                  if (header.classList.contains("smaller")) {
+                      header.classList.remove("smaller");
+                  }
+              }
+          });
+        })();
+   </script>
   </body>
 </html>
