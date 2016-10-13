@@ -480,6 +480,9 @@ body.hero {
 a, a:link, a:visited {
   color: inherit; }
 
+iframe {
+  border: 0; }
+
 .myth {
   color: #0057B8; }
 
