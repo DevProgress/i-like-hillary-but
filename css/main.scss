@@ -273,10 +273,10 @@ header.post-header {
 header.post-header h1 {
 	font-weight: 700;
 	font-size: 1em;
-	line-height: 1em;
+	line-height: 1.3em;
 	@media screen {
-		padding-left: 1em;
-		text-indent: -1em;
+		padding-left: 1.3em;
+		text-indent: -1.3em;
 	}
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -287,10 +287,6 @@ header.post-header h1 {
 
 header.post-header.smaller h1 {
 	font-size: .5em;
-}
-
-.page-title {
-	line-height: 1.3em;
 }
 
 .back-to-home {
@@ -308,8 +304,8 @@ header.post-header.smaller h1 {
 	-webkit-filter: brightness(0) invert(1);
 	filter: brightness(0) invert(1);
 
-	width: 1em;
-	height: 1em;
+	width: 1.3em;
+	height: 1.3em;
 }
 
 .post .post-header .post-title {
