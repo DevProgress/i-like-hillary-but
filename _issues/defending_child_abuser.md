@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Didn't she get a rapist acquitted, and then laugh about the girl who was raped?"
+title: "didn't she get a rapist acquitted, and then laugh about the girl who was raped?"
 categories: controversy
 ---
 
@@ -25,4 +25,4 @@ got him off and she is seen laughing on two occasions laughing at the girl who w
 
 **A**: Hillary did not laugh at the girl who was raped. In the mid-1980's, Arkansas journalist, Roy Reed interviewed Hillary and asked questions about some criminal work she did as a lawyer. While discussing this case, Hillary is heard laughing about the polygraph test her court-appointed client took and about a conversation she had with the prosecutor about the poor forensic evidence available for prosecution. [At no point did she laugh at or about the victim](https://www.factcheck.org/2016/06/clintons-1975-rape-case/). Listen for yourself:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e2f13f2awK4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e2f13f2awK4" allowfullscreen></iframe>
