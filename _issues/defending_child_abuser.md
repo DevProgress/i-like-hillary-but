@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Didn't she get a rapist acquitted, and then laugh about the girl who was raped?"
+title: "didn't she get a rapist acquitted, and then laugh about the girl who was raped?"
 categories: controversy
 ---
 
