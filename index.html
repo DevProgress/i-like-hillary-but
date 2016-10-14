@@ -1,12 +1,14 @@
 ---
 layout: hero
 ---
-<ul class="post-list">
-  {% for post in site.issues %}
-    <li>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-        <span class="wrapper">{{ post.title | escape }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+<nav>
+  <ul class="post-list">
+    {% for post in site.issues %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          <span class="wrapper">&hellip;&nbsp;{{ post.title | escape }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

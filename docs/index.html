@@ -1,6 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>I'd vote for Hillary, but... | Hillary Myths</title>
   <!--
  ____             ____
 |  _ \  _____   _|  _ \ _ __ ___   __ _ _ __ ___  ___ ___  _   _ ___
@@ -22,42 +28,59 @@ x   xxxxxxxxxxxxxxxxx///x
 x///////////////////////x   http://DevProgress.us
  xxxxxxxxxxxxxxxxxxxxxxx
 
--->
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>I like Hillary But...</title>
-  <meta name="description" content="I Like Hillary But... is a site designed to refute falsehoods and misconceptions about Hillary Clinton. Please pick your concern from the following list!
+  -->
+  <meta name="description" content="&ldquo;I'd vote for Hillary, but...&rdquo; is a site designed to refute myths and misconceptions about Hillary Clinton. Please pick your concern from the following list!
 ">
- 	<link rel="shortcut icon" href="favicon.ico"/>
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <link rel="manifest" href="/manifest.json">
+
+  <meta name="theme-color" content="#0057B8">
+
+  <!-- Android manifest fallback -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="application-name" content="">
+
+  <!-- iOS Safari -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="">
+
+  <link rel="apple-touch-icon" href="/img/favicon-48.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon-72.png">
+  <link rel="apple-touch-icon" sizes="96x96" href="/img/favicon-96.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon-144.png">
+  <link rel="apple-touch-icon" sizes="192x192" href="/img/favicon-192.png">
 
   <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
 
-  <link rel="stylesheet" href="/i-like-hillary-but/css/main.css">
+  <link rel="stylesheet" href="/css/main.css">
 
-  <link rel="canonical" href="https://devprogress.us/i-like-hillary-but/">
-  <link rel="alternate" type="application/rss+xml" title="I like Hillary But..." href="https://devprogress.us/i-like-hillary-but/feed.xml" />
+  <link rel="canonical" href="https://hillarymyths.org/">
+  <link rel="alternate" type="application/rss+xml" title="I'd vote for Hillary, but... | Hillary Myths" href="https://hillarymyths.org/feed.xml" />
 
   <!-- Facebook OpenGraph Metadata -->
   <meta property="fb:app_id"        content="585977871590212" />
-  <meta property="og:site_name"     content="I like Hillary But..." />
-  <meta property="og:url"           content="https://devprogress.us/i-like-hillary-but/" />
+  <meta property="og:site_name"     content="I'd vote for Hillary, but... | Hillary Myths" />
+  <meta property="og:url"           content="https://hillarymyths.org/" />
   <meta property="og:type"          content="website" />
-  <meta property="og:title"         content="I like Hillary But..." />
-  <meta property="og:description"   content="I Like Hillary But... is a site designed to refute falsehoods and misconceptions about Hillary Clinton. Please pick your concern from the following list!
+  <meta property="og:title"         content="I'd vote for Hillary, but... | Hillary Myths" />
+  <meta property="og:description"   content="&ldquo;I'd vote for Hillary, but...&rdquo; is a site designed to refute myths and misconceptions about Hillary Clinton. Please pick your concern from the following list!
 " />
-
-  <!-- meta property="og:image"  content="http://www.your-domain.com/path/image.jpg" /-->
 
   <!-- Twitter Cards Metadata -->
-  <meta name="twitter:title"        content="I like Hillary But..." />
-  <meta name="twitter:card"         content="I Like Hillary But... is a site designed to refute falsehoods and misconceptions about Hillary Clinton. Please pick your concern from the following list!
+  <meta name="twitter:title"        content="I'd vote for Hillary, but... | Hillary Myths" />
+  <meta name="twitter:card"         content="&ldquo;I'd vote for Hillary, but...&rdquo; is a site designed to refute myths and misconceptions about Hillary Clinton. Please pick your concern from the following list!
 " />
-  <meta name="twitter:description"  content="I Like Hillary But... is a site designed to refute falsehoods and misconceptions about Hillary Clinton. Please pick your concern from the following list!
+  <meta name="twitter:description"  content="&ldquo;I'd vote for Hillary, but...&rdquo; is a site designed to refute myths and misconceptions about Hillary Clinton. Please pick your concern from the following list!
 " />
-  <meta name="twitter:url"          content="https://devprogress.us/i-like-hillary-but/" />
+  <meta name="twitter:url"          content="https://hillarymyths.org/" />
+
+  <!-- Images -->
+  
+  <meta property="og:image"  content="https://hillarymyths.org/img/ivhb.png" />
+  <meta name="twitter:image" content="https://hillarymyths.org/img/ivhb.png" />
+  
 
   <script>
 
@@ -92,11 +115,18 @@ x///////////////////////x   http://DevProgress.us
    }(document, 'script', 'facebook-jssdk'));
 </script>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8" async defer></script>
-<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script src="//apis.google.com/js/platform.js" async defer></script>
 
+    <header class="home-header wrapper">
+      <h1>I'd vote for Hillary, but...</h1>
+    </header>
     <script>
 
     ~function() {
+
+      var header = document.body.querySelector('header');
+      if (!header)
+        return; // this is unlikely.
 
       var alwaysAnimate = location.search.indexOf('always_animate') >= 0;
       var shouldAnimate = !localStorage.getItem('animated');
@@ -104,92 +134,113 @@ x///////////////////////x   http://DevProgress.us
         localStorage.setItem('animated', "yes");
       }
 
-      document.addEventListener('DOMContentLoaded', function() {
-        if (alwaysAnimate || shouldAnimate) {
-          onMotionDetected(toggleHero);
-        } else {
-          toggleHero();
-        }
-      });
-
-      function onMotionDetected(handler) {
-        document.body.onmousemove = handler;
-        document.body.onscroll = handler;
-        document.body.onkeydown = handler;
+      if (alwaysAnimate || shouldAnimate) {
+        header.classList.add('animated-ease-in');
+        header.classList.add('hero');
+        addMotionDetected();
       }
 
-      function toggleHero() {
-        [].forEach.call(document.body.querySelectorAll('.hero'), function(hero) {
-          hero.classList.toggle('hero');
-        });
-        onMotionDetected(null);
+      function addMotionDetected() {
+        document.body.addEventListener('mousemove', toggleHeroAnimation);
+        document.body.addEventListener('scroll', toggleHeroAnimation);
+        document.body.addEventListener('keydown', toggleHeroAnimation);
+        document.body.addEventListener('touchstart', toggleHeroAnimation);
+      }
+
+      function removeMotionDetected() {
+        document.body.removeEventListener('mousemove', toggleHeroAnimation);
+        document.body.removeEventListener('scroll', toggleHeroAnimation);
+        document.body.removeEventListener('keydown', toggleHeroAnimation);
+        document.body.removeEventListener('touchstart', toggleHeroAnimation);
+      }
+
+      function toggleHeroAnimation() {
+        header.classList.remove('hero');
+        removeMotionDetected();
       }
 
     }();
 
     </script>
-    <header class="home-header hero wrapper">
-      <h1>I'd vote for Hillary, but...</h1>
-    </header>
     <div class="home">
-      <ul class="post-list">
-  
-    <li>
-      <a class="post-link" href="/i-like-hillary-but/issues/bad-experience/">
-        <span class="wrapper">But isn&#39;t her experience all bad?</span>
-      </a>
-    </li>
-  
-    <li>
-      <a class="post-link" href="/i-like-hillary-but/issues/but-hillary-wants-my-guns/">
-        <span class="wrapper">But Hillary wants my guns!</span>
-      </a>
-    </li>
-  
-    <li>
-      <a class="post-link" href="/i-like-hillary-but/issues/clinton-foundation-crooked/">
-        <span class="wrapper">But isn&#39;t Hillary Clinton&#39;s foundation corrupt?</span>
-      </a>
-    </li>
-  
-    <li>
-      <a class="post-link" href="/i-like-hillary-but/issues/establishment-failed/">
-        <span class="wrapper">But hasn&#39;t the establishment failed us?</span>
-      </a>
-    </li>
-  
-    <li>
-      <a class="post-link" href="/i-like-hillary-but/issues/hawk/">
-        <span class="wrapper">But isn&#39;t she a war hawk?</span>
-      </a>
-    </li>
-  
-    <li>
-      <a class="post-link" href="/i-like-hillary-but/issues/hillary-is-cold/">
-        <span class="wrapper">But Hillary Clinton cold, robotic, and unlikable</span>
-      </a>
-    </li>
-  
-    <li>
-      <a class="post-link" href="/i-like-hillary-but/issues/isnt-hillary-too-sick/">
-        <span class="wrapper">But isn&#39;t Hillary too sick to be president?</span>
-      </a>
-    </li>
-  
-    <li>
-      <a class="post-link" href="/i-like-hillary-but/issues/trade/">
-        <span class="wrapper">But isn&#39;t she for free trade?</span>
-      </a>
-    </li>
-  
-</ul>
+      <nav>
+  <ul class="post-list">
+    
+      <li>
+        <a class="post-link" href="/issues/bad-experience/">
+          <span class="wrapper">&hellip;&nbsp;isn&#39;t her experience all bad?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/but-hillary-wants-my-guns/">
+          <span class="wrapper">&hellip;&nbsp;doesn&#39;t she want my guns?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/but-she-isnt-trustworthy/">
+          <span class="wrapper">&hellip;&nbsp;Hillary Clinton’s not trustworthy. She lies all the time, right?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/clinton-foundation-crooked/">
+          <span class="wrapper">&hellip;&nbsp;isn&#39;t the Clinton Foundation corrupt?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/defending-child-abuser/">
+          <span class="wrapper">&hellip;&nbsp;didn&#39;t she get a rapist acquitted, and then laugh about the girl who was raped?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/emails/">
+          <span class="wrapper">&hellip;&nbsp;isn&#39;t she a criminal for using a private email server?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/establishment-failed/">
+          <span class="wrapper">&hellip;&nbsp;hasn&#39;t the establishment failed us?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/hawk/">
+          <span class="wrapper">&hellip;&nbsp;isn&#39;t she a war hawk?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/hillary-is-cold/">
+          <span class="wrapper">&hellip;&nbsp;isn&#39;t she cold, robotic, and unlikable?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/isnt-hillary-too-sick/">
+          <span class="wrapper">&hellip;&nbsp;isn&#39;t she too sick to be president?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/trade/">
+          <span class="wrapper">&hellip;&nbsp;isn&#39;t she for free trade?</span>
+        </a>
+      </li>
+    
+  </ul>
+</nav>
 
       <footer class="site-footer">
 
   <div class="wrapper">
 
     <p>
-      Built by DevProgress. <a href="https://devprogress.us/">Find out more</a>.</li>
+      Built by DevProgress. <a href="https://devprogress.us/">Find out more</a>.
     </p>
 
   </div>

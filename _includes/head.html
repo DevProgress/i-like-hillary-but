@@ -1,4 +1,10 @@
-<!--
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | capitalize | append: site.title_postfix }}{% else %}{{ site.title }}{% endif %}</title>
+  <!--
  ____             ____
 |  _ \  _____   _|  _ \ _ __ ___   __ _ _ __ ___  ___ ___  _   _ ___
 | | | |/ _ \ \ / / |_) | '__/ _ \ / _` | '__/ _ \/ __/ __|| | | / __|
@@ -19,15 +25,28 @@ x   xxxxxxxxxxxxxxxxx///x
 x///////////////////////x   http://DevProgress.us
  xxxxxxxxxxxxxxxxxxxxxxx
 
--->
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  -->
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
- 	<link rel="shortcut icon" href="favicon.ico"/>
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <link rel="manifest" href="/manifest.json">
+
+  <meta name="theme-color" content="#0057B8">
+
+  <!-- Android manifest fallback -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="application-name" content="{{ title_short }}">
+
+  <!-- iOS Safari -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="{{ title_short }}">
+
+  <link rel="apple-touch-icon" href="/img/favicon-48.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon-72.png">
+  <link rel="apple-touch-icon" sizes="96x96" href="/img/favicon-96.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon-144.png">
+  <link rel="apple-touch-icon" sizes="192x192" href="/img/favicon-192.png">
 
   <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
 
@@ -41,16 +60,26 @@ x///////////////////////x   http://DevProgress.us
   <meta property="og:site_name"     content="{{ site.title }}" />
   <meta property="og:url"           content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:type"          content="{% if page.title %}article{% else %}website{% endif %}" />
-  <meta property="og:title"         content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:title"         content="{% if page.title %}{{ page.title | capitalize | append: site.title_postfix }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:description"   content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 
-  <!-- meta property="og:image"  content="http://www.your-domain.com/path/image.jpg" /-->
-
   <!-- Twitter Cards Metadata -->
-  <meta name="twitter:title"        content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="twitter:title"        content="{% if page.title %}{{ page.title | capitalize | append: site.title_postfix }}{% else %}{{ site.title }}{% endif %}" />
   <meta name="twitter:card"         content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:description"  content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:url"          content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+
+  <!-- Images -->
+  {% if page.image %}
+  <meta property="og:image"  content="{{ page.image | prepend: '/img' | prepend: site.url }}" />
+  <meta name="twitter:image" content="{{ page.image | prepend: '/img' | prepend: site.url }}" />
+  {% elsif page.sharing_image %}
+  <meta property="og:image"  content="{{ page.sharing_image | prepend: '/img' | prepend: site.url }}" />
+  <meta name="twitter:image" content="{{ page.sharing_image | prepend: '/img' | prepend: site.url }}" />
+  {% else %}
+  <meta property="og:image"  content="{{ site.sharing_image | prepend: '/img' | prepend: site.url }}" />
+  <meta name="twitter:image" content="{{ site.sharing_image | prepend: '/img' | prepend: site.url }}" />
+  {% endif %}
 
   <script>
 

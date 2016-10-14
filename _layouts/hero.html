@@ -1,13 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
   <body class="hero">
     {% include body-js.html %}
+    <header class="home-header wrapper">
+      <h1>I'd vote for Hillary, but...</h1>
+    </header>
     <script>
 
     ~function() {
+
+      var header = document.body.querySelector('header');
+      if (!header)
+        return; // this is unlikely.
 
       var alwaysAnimate = location.search.indexOf('always_animate') >= 0;
       var shouldAnimate = !localStorage.getItem('animated');
@@ -15,33 +22,34 @@
         localStorage.setItem('animated', "yes");
       }
 
-      document.addEventListener('DOMContentLoaded', function() {
-        if (alwaysAnimate || shouldAnimate) {
-          onMotionDetected(toggleHero);
-        } else {
-          toggleHero();
-        }
-      });
-
-      function onMotionDetected(handler) {
-        document.body.onmousemove = handler;
-        document.body.onscroll = handler;
-        document.body.onkeydown = handler;
+      if (alwaysAnimate || shouldAnimate) {
+        header.classList.add('animated-ease-in');
+        header.classList.add('hero');
+        addMotionDetected();
       }
 
-      function toggleHero() {
-        [].forEach.call(document.body.querySelectorAll('.hero'), function(hero) {
-          hero.classList.toggle('hero');
-        });
-        onMotionDetected(null);
+      function addMotionDetected() {
+        document.body.addEventListener('mousemove', toggleHeroAnimation);
+        document.body.addEventListener('scroll', toggleHeroAnimation);
+        document.body.addEventListener('keydown', toggleHeroAnimation);
+        document.body.addEventListener('touchstart', toggleHeroAnimation);
+      }
+
+      function removeMotionDetected() {
+        document.body.removeEventListener('mousemove', toggleHeroAnimation);
+        document.body.removeEventListener('scroll', toggleHeroAnimation);
+        document.body.removeEventListener('keydown', toggleHeroAnimation);
+        document.body.removeEventListener('touchstart', toggleHeroAnimation);
+      }
+
+      function toggleHeroAnimation() {
+        header.classList.remove('hero');
+        removeMotionDetected();
       }
 
     }();
 
     </script>
-    <header class="home-header hero wrapper">
-      <h1>I'd vote for Hillary, but...</h1>
-    </header>
     <div class="home">
       {{ content }}
       {% include footer.html %}

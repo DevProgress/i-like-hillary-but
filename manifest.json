@@ -1,0 +1,20 @@
+{
+  "name": "I'd vote for Hillary, but...",
+  "short_name": "hillarymyths.org",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0057B8",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "img/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
