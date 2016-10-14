@@ -18,9 +18,9 @@ categories: deception
 
 **A**: Politifact measures truthfulness on a [six-point scale](http://www.politifact.com/truth-o-meter/article/2013/nov/01/principles-politifact-punditfact-and-truth-o-meter/), from "True - The statement is accurate and there's nothing significant missing" down to "Pants On Fire - The statement is not accurate and makes a ridiculous claim." Here is how [Hillary matches up against Bernie Sanders and Donald Trump](https://public.tableau.com/views/WhoLiesTheMost-2016PresidentialElectionv92_0921_02/WhoLiesMostDashboard?:embed=y&:display_count=yes&:showVizHome=no):
 
-* Hillary Clinton - True: 22.90%; Mostly True: 27.86%; Half True: 22.13%; Mostly False: 14.50%; False: 10.31%; Pants On Fire: 2.29%. **Hillary's overall truthfulness is 72.89%**.
-* Bernie Sanders - True: 13.21%; Mostly True: 38.68%; Half True: 19.81%; Mostly False: 16.98%; False: 11.32%; Pants On Fire: 0%. **Bernie's overall truthfulness is just slightly lower than Hillary's at 71.70%**.
-* Donald Trump - True: 4.38%; Mostly True: 11.31%; Half True: 14.23%; Mostly False: 17.52%; False: 35.04%; Pants On Fire: 17.52%. **Donald Trump's overall truthfulness is only 29.92%**.
+* **Hillary Clinton** - True: 22.90%; Mostly True: 27.86%; Half True: 22.13%; Mostly False: 14.50%; False: 10.31%; Pants On Fire: 2.29%. **Hillary's overall truthfulness is 72.89%**.
+* **Bernie Sanders** - True: 13.21%; Mostly True: 38.68%; Half True: 19.81%; Mostly False: 16.98%; False: 11.32%; Pants On Fire: 0%. **Bernie's overall truthfulness is just slightly lower than Hillary's at 71.70%**.
+* **Donald Trump** - True: 4.38%; Mostly True: 11.31%; Half True: 14.23%; Mostly False: 17.52%; False: 35.04%; Pants On Fire: 17.52%. **Donald Trump's overall truthfulness is only 29.92%**.
 
 ## Q: If she's not a liar, where does this perception come from?
 
