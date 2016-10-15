@@ -20,7 +20,7 @@ categories: deception
 
 * **Hillary Clinton** - True: 22.90%; Mostly True: 27.86%; Half True: 22.13%; Mostly False: 14.50%; False: 10.31%; Pants On Fire: 2.29%. **Hillary Clinton's overall truthfulness is 72.89%**.
 * **Bernie Sanders** - True: 13.21%; Mostly True: 38.68%; Half True: 19.81%; Mostly False: 16.98%; False: 11.32%; Pants On Fire: 0%. **Bernie Sander's overall truthfulness is 71.70%**.
-* President Barack Obama** - True: 20.57%; Mostly True: 27.49%; Half True: 26.81%; Mostly False: 11.64%; False: 11.97%; Pants On Fire: 1.52%. **President Obama's overall truthfulness is 74.90%**.
+* **President Barack Obama** - True: 20.57%; Mostly True: 27.49%; Half True: 26.81%; Mostly False: 11.64%; False: 11.97%; Pants On Fire: 1.52%. **President Obama's overall truthfulness is 74.90%**.
 * **Mike Pence** - True: 15.4%; Mostly True: 7.7%; Half True: 34.6%; Mostly False: 15.38; False: 26.9%; Pants On Fire: 0%. **Mike Pence's overall truthfulness is only 57.70%**.
 * **Donald Trump** - True: 4.38%; Mostly True: 11.31%; Half True: 14.23%; Mostly False: 17.52%; False: 35.04%; Pants On Fire: 17.52%. **Donald Trump's overall truthfulness is only 29.92%**.
 
