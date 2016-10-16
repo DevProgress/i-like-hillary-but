@@ -2,7 +2,7 @@
 layout: null
 ---
 
-{% if site.destination != 'docs' %}
+{% if site.destination == 'docs' %}
 
 var cacheName = 'i-like-hillary';
 var fontCacheName = 'fonts-gistatic-com';
