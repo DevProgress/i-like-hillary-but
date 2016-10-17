@@ -14,6 +14,16 @@ categories: deception
 
 * Even one of her [long-time critics](https://www.theguardian.com/commentisfree/2016/mar/28/hillary-clinton-honest-transparency-jill-abramson) admits that Hillary is **"fundamentally honest and trustworthy"**.
 
+## Q: How does Politifact measure truthfulness? 
+
+**A**: Politifact measures truthfulness on a [six-point scale](http://www.politifact.com/truth-o-meter/article/2013/nov/01/principles-politifact-punditfact-and-truth-o-meter/), from "True - The statement is accurate and there's nothing significant missing" down to "Pants On Fire - The statement is not accurate and makes a ridiculous claim." Here is how [Hillary matches up with some other prominent politicians](https://public.tableau.com/views/WhoLiesTheMost-2016PresidentialElectionv92_0921_02/WhoLiesMostDashboard?:embed=y&:display_count=yes&:showVizHome=no):
+
+* **Hillary Clinton** - True: 22.90%; Mostly True: 27.86%; Half True: 22.13%; Mostly False: 14.50%; False: 10.31%; Pants On Fire: 2.29%. **Hillary Clinton's overall truthfulness is 72.89%**.
+* **Bernie Sanders** - True: 13.21%; Mostly True: 38.68%; Half True: 19.81%; Mostly False: 16.98%; False: 11.32%; Pants On Fire: 0%. **Bernie Sander's overall truthfulness is 71.70%**.
+* **President Barack Obama** - True: 20.57%; Mostly True: 27.49%; Half True: 26.81%; Mostly False: 11.64%; False: 11.97%; Pants On Fire: 1.52%. **President Obama's overall truthfulness is 74.90%**.
+* **Mike Pence** - True: 15.4%; Mostly True: 7.7%; Half True: 34.6%; Mostly False: 15.38; False: 26.9%; Pants On Fire: 0%. **Mike Pence's overall truthfulness is only 57.70%**.
+* **Donald Trump** - True: 4.38%; Mostly True: 11.31%; Half True: 14.23%; Mostly False: 17.52%; False: 35.04%; Pants On Fire: 17.52%. **Donald Trump's overall truthfulness is only 29.92%**.
+
 ## Q: If she's not a liar, where does this perception come from?
 
 **A**: Aside from the almost three decades of [conspiracy theories](http://www.motherjones.com/politics/2014/06/hillary-clinton-conspiracy-theories) aimed at destroying her reputation, there may be a psychological component to this perception. [Studies](https://www.washingtonpost.com/news/the-fix/wp/2016/05/29/does-hillary-clinton-face-a-different-standard-for-honesty/) have shown that **women are expected to be more honest than men**. According to Julie Dolan, professor of political science at Macalester College, and the lead author of [Women in Politics: Paths to Power and Political Influence](https://www.amazon.com/Women-Politics-Paths-Political-Influence/dp/0205827152):
