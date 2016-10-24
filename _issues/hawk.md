@@ -50,7 +50,8 @@ And this was Rep. Kevin McCarthy's (R-CA) comment:
 
 * Most recently, the Iraqi Kurdish forces known as the peshmerga are playing a crucial role in the [battle for Mosul](https://www.yahoo.com/news/peshmerga-fighters-tell-of-encounters-with-isis-while-others-wait-anxiously-for-their-turn-210034498.html), Iraq's second largest city and the Islamic State's stronghold in that country. The Kurds and the Iraqi military, with assistance from U.S. special forces, and air support from the U.S., France, and Great Britain, **[took back 80 villages](http://www.reuters.com/article/us-mideast-cris-iraq-mosul-idUSKCN12N0CA) from ISIS** in the first week of fighting alone.
 
-* However, while the Kurds fight alongside the Iraqi army, as [a recent news article](http://www.thedailybeast.com/articles/2016/10/21/on-the-mosul-front-where-kurds-fight-isis-with-bulldozers-and-pickups.html) points out, the peshmerga do not have anywhere near the same weapons and military equipment. And they are **taking heavy casualties** as a result:
+* While the Kurds fight alongside the Iraqi army, as [a recent news article](http://www.thedailybeast.com/articles/2016/10/21/on-the-mosul-front-where-kurds-fight-isis-with-bulldozers-and-pickups.html) points out, the peshmerga do not have anywhere near the same weapons and military equipment. And they are **taking heavy casualties** as a result:
+
 > The MRAPs (mine-resistant ambush-protected vehicles), armored Humvees and German Dingos have been largely replaced by pickup trucks mounted with machine guns or light anti-aircraft cannons. The KRG has enjoyed some U.S. and European support, but has not been lavished with military hardware like the Iraqi army. 
 
 >As the Kurds fan out into enemy territory, this lack of protection begins to cost them. By the early afternoon, a steady stream of ambulances comes careening up the road. One of the advance columns has been attacked by a car bomb which succeeded in inflicting casualties.
