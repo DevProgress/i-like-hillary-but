@@ -18,19 +18,19 @@ categories: policy
 
 > Even though the resolution before the Senate is not as strong as I would like in requiring the diplomatic route first... **I take the President at his word that he will try hard to pass a United Nations resolution and seek to avoid war**, if possible. Because bipartisan support for this resolution makes success in the United Nations more likely and war less likely—and because a good faith effort by the United States, even if it fails, will bring more allies and legitimacy to our cause—I have concluded, after careful and serious consideration, that a vote for the resolution best serves the security of our nation.
 
-* Hillary's critics have made Benghazi a "rallying cry." They've used the deaths of four American citizens, including U.S. Ambassador Christopher Stevens, [to score political points](http://www.cnn.com/2015/10/14/politics/hillary-clinton-benghazi-committee/index.html) and to paint Hillary as incompetent and hawkish. They've even **admitted that the Benghazi investigations were politically motivated**.
+## Q: What are the facts around our involvement in Libya?
+
+**A** As Secretary of State, Hillary also advocated for the NATO-led 2011 intervention in Libya that toppled Muammar Gaddafi. The intervention was launched to [protect Libyan civilians](http://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2011_03/20110927_110311-UNSCR-1973.pdf). At the time, Libya was engulfed in civil war, and Gaddafi was [threatening to massacre civilians](http://www.nytimes.com/2011/02/23/world/africa/23libya.html) protesting his regime, whom he called “cockroaches.” 
+
+* The intervention received broad support from [European](https://www.gov.uk/government/speeches/prime-ministers-statement-on-libya--2) [allies,](https://www.theguardian.com/world/2011/feb/23/libya-nofly-zone-david-cameron) [Libyan rebels,](http://edition.cnn.com/2011/WORLD/africa/03/09/libya.civil.war/) [Arab states,](http://www.nytimes.com/2011/03/13/world/middleeast/13libya.html?pagewanted=all&_r=0) and [Democratic](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/10/AR2011031004684.html) and [Republican](http://firstread.nbcnews.com/_news/2011/03/31/6382558-rubio-urges-regime-change-in-libya) members of Congress.
+
+* Hillary's critics have made Benghazi a "rallying cry." They've used the deaths of four American citizens, including U.S. Ambassador Christopher Stevens, [to score political points](http://www.cnn.com/2015/10/14/politics/hillary-clinton-benghazi-committee/index.html) and to paint Hillary as incompetent and hawkish. They've even **admitted that the Benghazi investigations were politically motivated**. 
 
 Representative Richard Hanna (R-NY): 
 > This may not be politically correct, but I think that there was **a big part of this investigation that was designed to go after people and an individual, Hillary Clinton**. After what Kevin McCarthy said, it's difficult to accept at least a part of it was not. I think that's the way Washington works. But you'd like to expect more from a committee that's spent millions of dollars and tons of time.
 
 And this was Rep. Kevin McCarthy's (R-CA) comment: 
 > Everybody thought Hillary Clinton was unbeatable, right? But we put together a Benghazi special committee, a select committee. What are her numbers today? Her numbers are dropping. Why? Because she's untrustable. But no one would have known any of that had happened had we not fought.
-
-## Q: What are the facts around our involvement in Libya?
-
-**A** As Secretary of State, Hillary also advocated for the NATO-led 2011 intervention in Libya that toppled Muammar Gaddafi. The intervention was launched to [protect Libyan civilians](http://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2011_03/20110927_110311-UNSCR-1973.pdf). At the time, Libya was engulfed in civil war, and Gaddafi was [threatening to massacre civilians](http://www.nytimes.com/2011/02/23/world/africa/23libya.html) protesting his regime, whom he called “cockroaches.” 
-
-* The intervention received broad support from [European](https://www.gov.uk/government/speeches/prime-ministers-statement-on-libya--2) [allies,](https://www.theguardian.com/world/2011/feb/23/libya-nofly-zone-david-cameron) [Libyan rebels,](http://edition.cnn.com/2011/WORLD/africa/03/09/libya.civil.war/) [Arab states,](http://www.nytimes.com/2011/03/13/world/middleeast/13libya.html?pagewanted=all&_r=0) and [Democratic](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/10/AR2011031004684.html) and [Republican](http://firstread.nbcnews.com/_news/2011/03/31/6382558-rubio-urges-regime-change-in-libya) members of Congress.
 
 ## Q: But based on her history with Putin, wouldn't Hillary be more likely to start a war with Russia?
 
@@ -41,3 +41,19 @@ And this was Rep. Kevin McCarthy's (R-CA) comment:
 
 * During the 3rd Democratic debate, Hillary made it clear that she would want [Russia included in a coalition to help destroy ISIS](https://www.washingtonpost.com/news/the-fix/wp/2015/12/19/3rd-democratic-debate-transcript-annotated-who-said-what-and-what-it-meant/). She has repeated her stance that:
 > “There is an important role for Russia to help in resolving the conflict in Syria.”
+
+##Q: Why does Hillary support arming the Kurds in the war against ISIS? 
+
+**A**: The [Kurds](http://www.bbc.com/news/world-middle-east-29702440) are a mostly Sunni Muslim people who live in the mountainous region of southern Turkey, western Iran, northern Iraq, and northern Syria. Here are some facts about the Kurds and their role in the war against ISIS:
+
+* The Kurds have been **battling ISIS since the middle of 2013**. Since then, they have shown themselves to be one of our most effective partners in Syria and Iraq. 
+
+* Most recently, the Iraqi Kurdish forces known as the peshmerga are playing a crucial role in the [battle for Mosul](https://www.yahoo.com/news/peshmerga-fighters-tell-of-encounters-with-isis-while-others-wait-anxiously-for-their-turn-210034498.html), Iraq's second largest city and the Islamic State's stronghold in that country. The Kurds and the Iraqi military, with assistance from U.S. special forces, and air support from the U.S., France, and Great Britain, **[took back 80 villages](http://www.reuters.com/article/us-mideast-cris-iraq-mosul-idUSKCN12N0CA) from ISIS** in the first week of fighting alone.
+
+* While the Kurds fight alongside the Iraqi army, as [a recent news article](http://www.thedailybeast.com/articles/2016/10/21/on-the-mosul-front-where-kurds-fight-isis-with-bulldozers-and-pickups.html) points out, the peshmerga do not have anywhere near the same weapons and military equipment. And they are **taking heavy casualties** as a result:
+
+> The MRAPs (mine-resistant ambush-protected vehicles), armored Humvees and German Dingos have been largely replaced by pickup trucks mounted with machine guns or light anti-aircraft cannons. The KRG has enjoyed some U.S. and European support, but has not been lavished with military hardware like the Iraqi army. 
+
+>As the Kurds fan out into enemy territory, this lack of protection begins to cost them. By the early afternoon, a steady stream of ambulances comes careening up the road. One of the advance columns has been attacked by a car bomb which succeeded in inflicting casualties.
+
+> "They target the vehicles that do not have any armor," says a Peshmerga who has accompanied a wounded comrade back from the front.
