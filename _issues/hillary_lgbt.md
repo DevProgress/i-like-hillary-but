@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Doesn't she just pay lip service to the LGBT community?"
+title: "doesn't she just pander to the LGBT community?"
 categories: policy
 ---
 
-##Q: Doesn't Hillary just pay lip service to the LGBT community?
+##Q: doesn't she just pander to the LGBT community?
 
 **A**: Not at all. Consider these facts:
 
@@ -20,7 +20,7 @@ categories: policy
 
 ##Q: But she flip-flopped on same-sex marriage, right?
 
-**A**: No, like many people, Hillary's views on same-sex marriage have evolved over time. In 2013, Hillary [released a video](https://www.youtube.com/watch?v=6RP9pbKMJ7c) expressing **full support for same-sex marriage** "personally and as a matter of policy and law." As [Matt Baume at LGBTQ Nation](http://www.lgbtqnation.com/2016/10/watch-debunking-claim-hillary-clinton-bad-lgbt-people/) put it:
+**A**: Like many people, Hillary's views on same-sex marriage have evolved over time. In 2013, Hillary [released a video](https://www.youtube.com/watch?v=6RP9pbKMJ7c) expressing **full support for same-sex marriage** "personally and as a matter of policy and law." As [Matt Baume at LGBTQ Nation](http://www.lgbtqnation.com/2016/10/watch-debunking-claim-hillary-clinton-bad-lgbt-people/) put it:
 >Hillary has changed her position over the last 40 years — which is another way of saying she’s improved her position.
 
 Check out the video for yourself:
