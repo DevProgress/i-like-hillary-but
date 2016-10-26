@@ -12,7 +12,7 @@ categories: policy
 
 * As Secretary of State, Hillary implemented several [LGBT-friendly policies](http://correctrecord.org/hillary-clinton-expanding-lgbt-rights-at-state/) at the State Department. These policies include: **modifying the equal employment opportunity policy** to “explicitly protect against discriminatory treatment of employees and job applicants based on gender identity”, providing **equal benefits to same-sex partners** of diplomats, **ending the old policy** that denied same-sex couples and families “the same rights and privileges” of straight diplomats, and working with USAID to create an **LGBT-specific brochure** to recruit applicants.
 
-* In 2011, Hillary [delivered a speech](http://www.huffingtonpost.com/2011/12/06/hillary-clinton-gay-rights-speech-geneva_n_1132392.html) in Geneva, Switzerland in recognition of International Human Rights Day. In this speech, she called for protections and recognition of the LGBT community, stating "**gay rights are human rights, and human rights are gay rights!**"
+* In 2011, Hillary [delivered a speech](http://www.huffingtonpost.com/2011/12/06/hillary-clinton-gay-rights-speech-geneva_n_1132392.html) in Geneva, Switzerland in recognition of International Human Rights Day. In this speech, she called for protections and recognition of the LGBT community around the world, stating "**gay rights are human rights, and human rights are gay rights!**"
 
 * Hillary was the **first First Lady** and **first major party Presidential nominee** to [march in a Gay Pride parade](https://www.hillaryclinton.com/feed/the-times-hillary-clinton-marched-in-a-pride-parade-and-made-history/).
 
