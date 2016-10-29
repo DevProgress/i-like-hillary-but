@@ -42,7 +42,7 @@ var filesToCache = [
 
 ];
 
-// Generated on Sat, 29 Oct 2016 09:43:51 -0400
+// Generated on Sat, 29 Oct 2016 11:19:06 -0400
 
 self.addEventListener('install', function(event) {
   self.skipWaiting();
