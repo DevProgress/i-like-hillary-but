@@ -33,6 +33,8 @@ var filesToCache = [
 
 '/issues/hillary-is-cold/',
 
+'/issues/hillary-lgbt/',
+
 '/issues/isnt-hillary-too-sick/',
 
 '/issues/trade/',
@@ -40,7 +42,7 @@ var filesToCache = [
 
 ];
 
-// Generated on Wed, 19 Oct 2016 00:23:15 -0400
+// Generated on Sat, 29 Oct 2016 09:43:51 -0400
 
 self.addEventListener('install', function(event) {
   self.skipWaiting();
