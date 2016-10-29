@@ -4,7 +4,7 @@ title: "doesn't she just pander to the LGBT community?"
 categories: policy
 ---
 
-##Q: doesn't she just pander to the LGBT community?
+## Q: doesn't she just pander to the LGBT community?
 
 **A**: Not at all. Consider these facts:
 
@@ -18,7 +18,7 @@ categories: policy
 
 * Hillary has been [**endorsed by several LGBT organizations**](http://www.advocate.com/election/2016/3/14/hillary-clinton-gets-another-lgbt-endorsement), and enjoys the [wide support](http://www.upi.com/Top_News/US/2016/10/26/Hillary-Clinton-enjoys-wide-support-among-LGBT-community/7671477491695/) of the LGBT community.
 
-##Q: But she flip-flopped on same-sex marriage, right?
+## Q: But she flip-flopped on same-sex marriage, right?
 
 **A**: Like many people, Hillary's views on same-sex marriage have evolved over time. In 2013, Hillary [released a video](https://www.youtube.com/watch?v=6RP9pbKMJ7c) expressing **full support for same-sex marriage** "personally and as a matter of policy and law." As [Matt Baume at LGBTQ Nation](http://www.lgbtqnation.com/2016/10/watch-debunking-claim-hillary-clinton-bad-lgbt-people/) put it:
 >Hillary has changed her position over the last 40 years — which is another way of saying she’s improved her position.
