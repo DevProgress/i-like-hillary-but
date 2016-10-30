@@ -41,15 +41,15 @@ Instead, Eichenwald states:
 
 > In a communication to bureau employees, Comey described his letter to Congress as an attempt to thread a needle – amend his testimony while not disclosing details of an ongoing investigation.
 
-Since the directory testified that they were done reviewing e-mails in that case, and since there were e-mails that _may_ be related to that case, Comey thought it was necessary to update congress.
+Since the director testified that they were done reviewing e-mails in that case, and since there were e-mails that _may_ be related to that case, Comey thought it was necessary to update congress.
 
 ## Q: Doesn't this late change mean that Hillary Clinton and her allies withheld evidence from the FBI?
 
-A: Not quite. Eichenwald again explains:
+A: It does not. Eichenwald again explains:
 
 > There is no indication the emails in question were withheld by Clinton during the investigation, the law enforcement official told Newsweek, nor does the discovery suggest she did anything illegal. Also, none of the emails were to or from Clinton, the official said.
 
-[NBC corroborates this](http://www.nbcnews.com/news/us-news/fbi-re-open-investigation-clinton-email-server-n674631). They state the e-mails found were on Anthony Weiner's laptop in an unrelated investigation, which his then-wife and Clinton aide, Huma Abedin, used to send e-mails _to_ Hillary Clinton.
+[NBC corroborates this](http://www.nbcnews.com/news/us-news/fbi-re-open-investigation-clinton-email-server-n674631). They state the e-mails found were on Anthony Weiner's laptop in an unrelated investigation, which his then-wife and Clinton aide, Huma Abedin, used to send e-mails.
 
 ## Q: But doesn't a reveal this close to election mean that the FBI has reason to believe something significant has been found?
 
