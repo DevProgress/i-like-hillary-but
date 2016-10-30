@@ -49,13 +49,13 @@ A: It does not. Eichenwald again explains:
 
 > There is no indication the emails in question were withheld by Clinton during the investigation, the law enforcement official told Newsweek, nor does the discovery suggest she did anything illegal. Also, none of the emails were to or from Clinton, the official said.
 
-[NBC corroborates this](http://www.nbcnews.com/news/us-news/fbi-re-open-investigation-clinton-email-server-n674631). They state the e-mails found were on Anthony Weiner's laptop in an unrelated investigation, which his then-wife and Clinton aide, Huma Abedin, used to send e-mails.
+The e-mails found were on Anthony Weiner's laptop in an unrelated investigation, which his then-wife and Clinton aide, Huma Abedin, used to send e-mails. Back in April, Abedin had explained to the FBI that she "transferred emails from her unclassified State Department account" to print them from there.
 
 ## Q: But doesn't a reveal this close to election mean that the FBI has reason to believe something significant has been found?
 
 A: As Comey himself said in the letter, the FBI cannot yet assess if any of this information is significant.
 
-In fact, [Business Insider claims](http://www.businessinsider.com/fbi-clinton-emails-huma-abedin-warrant-comey-2016-10) that the FBI has not yet obtained a search warrant to access the e-mails sent by Huma Abdein. Officials claim that the FBI have not yet read those or even determined their content.
+In fact, [Business Insider claims](http://www.businessinsider.com/fbi-clinton-emails-huma-abedin-warrant-comey-2016-10) that the FBI has not yet obtained a search warrant to access the e-mails sent by Huma Abdein. Officials claim that the FBI have not yet read those or even determined their content. As they were not yet examined, [ThinkProgress states these new e-mails might all be duplicates](https://thinkprogress.org/the-new-clinton-emails-might-all-be-duplicates-d4bce69479c5#.l5lxckko6) previously turned in to the FBI.
 
 Eichenwald also states:
 
