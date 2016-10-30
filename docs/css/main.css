@@ -462,7 +462,12 @@ pre {
     font-weight: 400;
     font-size: 16px;
     background-color: #FFFFFF;
-    color: #4A4A4A; } }
+    color: #4A4A4A;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0; } }
   @media screen and (max-width: 600px) {
     body {
       font-size: 14px; } }
