@@ -55,7 +55,9 @@ The e-mails found were on Anthony Weiner's laptop in an unrelated investigation,
 
 A: As Comey himself said in the letter, the FBI cannot yet assess if any of this information is significant.
 
-In fact, [Business Insider claims](http://www.businessinsider.com/fbi-clinton-emails-huma-abedin-warrant-comey-2016-10) that the FBI has not yet obtained a search warrant to access the e-mails sent by Huma Abdein. Officials claim that the FBI have not yet read those or even determined their content. As they were not yet examined, [ThinkProgress states these new e-mails might all be duplicates](https://thinkprogress.org/the-new-clinton-emails-might-all-be-duplicates-d4bce69479c5#.l5lxckko6) previously turned in to the FBI.
+In fact, [Yahoo News reveals](https://www.yahoo.com/news/comey-wrote-bombshell-letter-to-congress-before-fbi-had-reviewed-new-emails-220219586.html) that the FBI has not yet obtained a search warrant to access the e-mails sent by Huma Abdein. Officials claim that the FBI have not yet read those or even determined their content. As they were not yet examined, [ThinkProgress states these new e-mails might all be duplicates](https://thinkprogress.org/the-new-clinton-emails-might-all-be-duplicates-d4bce69479c5#.l5lxckko6) previously turned in to the FBI.
+
+Yahoo News reviewed the full transcript of Abedin's interview with the FBI back in April, Abedin stated that some e-mails might exist on her then-husband's personal laptop, yet "agents do not appear to have followed up on the clues."
 
 Eichenwald also states:
 
