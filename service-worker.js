@@ -9,6 +9,7 @@ var fontCacheName = 'fonts-gistatic-com';
 var filesToCache = [
 
 '/css/main.css',
+'/anchor.min.js',
 '/img/back-caret.svg',
 '/img/favicon-144.png',
 '/img/favicon-192.png',
