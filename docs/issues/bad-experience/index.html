@@ -79,11 +79,17 @@ x///////////////////////x   http://DevProgress.us
   <meta name="twitter:image" content="https://hillarymyths.org/img/ivhb.png" />
   
 
+  <script src="/anchor.min.js"></script>
+
   <script>
 
   'use strict';
 
   ~function() {
+
+  document.addEventListener('DOMContentLoaded', function() {
+    anchors.add();
+  });
 
   if (!'serviceWorker' in navigator)
     return;

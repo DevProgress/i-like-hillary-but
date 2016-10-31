@@ -5,6 +5,7 @@ var fontCacheName = 'fonts-gistatic-com';
 var filesToCache = [
 
 '/css/main.css',
+'/anchor.min.js',
 '/img/back-caret.svg',
 '/img/favicon-144.png',
 '/img/favicon-192.png',
@@ -42,7 +43,7 @@ var filesToCache = [
 
 ];
 
-// Generated on Sun, 30 Oct 2016 11:08:22 -0400
+// Generated on Sun, 30 Oct 2016 23:08:23 -0400
 
 self.addEventListener('install', function(event) {
   self.skipWaiting();
