@@ -13,6 +13,14 @@ categories: experience
 * Hillary's critics have convinced many people that the Libyan crisis began and ended with the tragic attack on our mission in Benghazi. However, the U.S. intervention in Libya helped avert [mass killings](http://uk.reuters.com/article/libya-protests-gaddafi-idUKLDE71L26D20110222) by the Libyan government. It also led to the ouster and death of Moammar Gadhafi, a brutal dictator, terrorist supporter, and enemy of the United States. What if the United States had not intervened in Libya? According to [Ivo Daalder, President of the Chicago Council on Global Affairs and the U.S. Ambassador to NATO during the 2011 Libyan revolution](http://www.huffingtonpost.com/2015/03/07/libya-intervention-daalder_n_6809756.html):
 > We would have seen a massive humanitarian nightmare inflicted on the people of Libya by their government. 
 
+## Q: Why didn't Hillary close the loophole that allowed Donald Trump to avoid paying taxes for all those years?
+
+**A**: In the Presidential debates and in campaign speeches, Donald Trump routinely challenges Hillary's effectiveness as a legislator with the question: "Why didn't she ever try to change those [tax] laws so I couldn't use them?" However, as [a recent New York Times article](http://www.nytimes.com/2016/11/01/us/politics/donald-trump-tax.html?referer=&_r=0) points out, **Hillary did just that**!
+
+According to tax experts who reviewed documents obtained by the New York Times, it is likely that **Donald Trump employed a legally questionable loophole** that the IRS would have determined was improper in an audit. That loophole allowed equity-for-debt swaps, and as a U.S. Senator, Hillary voted to close that loophole in 2004:
+
+> Mr. Trump can no longer benefit from the same maneuver. Just as Congress acted in 1993 to ban stock-for-debt swaps by corporations, it acted in 2004 to ban equity-for-debt swaps by partnerships. Among the members of Congress who voted to finally close the loophole: Senator Hillary Clinton of New York.
+
 ## Q: What were Hillary's other accomplishments as a public servant?
 
 **A**: Hillary's record as a public servant includes her time as Secretary of State, U.S. Senator from New York, First Lady of the United States, and the First Lady of Arkansas. Here are just a [few of her accomplishments](https://www.hillaryclinton.com/feed/seven-hillary-clintons-biggest-accomplishments/):
