@@ -81,11 +81,17 @@ x///////////////////////x   http://DevProgress.us
   <meta name="twitter:image" content="{{ site.sharing_image | prepend: '/img' | prepend: site.url }}" />
   {% endif %}
 
+  <script src="/anchor.min.js"></script>
+
   <script>
 
   'use strict';
 
   ~function() {
+
+  document.addEventListener('DOMContentLoaded', function() {
+    anchors.add();
+  });
 
   if (!'serviceWorker' in navigator)
     return;

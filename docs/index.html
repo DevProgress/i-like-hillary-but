@@ -82,11 +82,17 @@ x///////////////////////x   http://DevProgress.us
   <meta name="twitter:image" content="https://hillarymyths.org/img/ivhb.png" />
   
 
+  <script src="/anchor.min.js"></script>
+
   <script>
 
   'use strict';
 
   ~function() {
+
+  document.addEventListener('DOMContentLoaded', function() {
+    anchors.add();
+  });
 
   if (!'serviceWorker' in navigator)
     return;
@@ -233,6 +239,12 @@ x///////////////////////x   http://DevProgress.us
       <li>
         <a class="post-link" href="/issues/hillary-is-cold/">
           <span class="wrapper">&hellip;&nbsp;isn&#39;t she cold, robotic, and unlikable?</span>
+        </a>
+      </li>
+    
+      <li>
+        <a class="post-link" href="/issues/hillary-lgbt/">
+          <span class="wrapper">&hellip;&nbsp;doesn&#39;t she just pander to the LGBT community?</span>
         </a>
       </li>
     

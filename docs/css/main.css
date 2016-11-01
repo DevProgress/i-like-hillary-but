@@ -480,6 +480,9 @@ body.hero {
 a, a:link, a:visited {
   color: inherit; }
 
+.anchorjs-link {
+  text-decoration: none !important; }
+
 iframe {
   border: 0; }
 
