@@ -17,7 +17,7 @@ categories: experience
 
 **A**: In the Presidential debates and in campaign speeches, Donald Trump routinely challenges Hillary's effectiveness as a legislator with the question: "Why didn't she ever try to change those [tax] laws so I couldn't use them?" However, as [a recent New York Times article](http://www.nytimes.com/2016/11/01/us/politics/donald-trump-tax.html?referer=&_r=0) points out, **Hillary did just that**!
 
-According to tax experts who reviewed newly obtained documents, it is likely that **Donald Trump employed a legally questionable loophole** that the IRS would have determined was improper in an audit. That loophole allowed equity-for-debt swaps, and as a U.S. Senator, Hillary voted to close that loophole in 2004:
+According to tax experts who reviewed documents obtained by the New York Times, it is likely that **Donald Trump employed a legally questionable loophole** that the IRS would have determined was improper in an audit. That loophole allowed equity-for-debt swaps, and as a U.S. Senator, Hillary voted to close that loophole in 2004:
 
 > Mr. Trump can no longer benefit from the same maneuver. Just as Congress acted in 1993 to ban stock-for-debt swaps by corporations, it acted in 2004 to ban equity-for-debt swaps by partnerships. Among the members of Congress who voted to finally close the loophole: Senator Hillary Clinton of New York.
 
