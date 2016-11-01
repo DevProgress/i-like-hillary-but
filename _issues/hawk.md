@@ -57,3 +57,13 @@ And this was Rep. Kevin McCarthy's (R-CA) comment:
 >As the Kurds fan out into enemy territory, this lack of protection begins to cost them. By the early afternoon, a steady stream of ambulances comes careening up the road. One of the advance columns has been attacked by a car bomb which succeeded in inflicting casualties.
 
 > "They target the vehicles that do not have any armor," says a Peshmerga who has accompanied a wounded comrade back from the front.
+
+## Q: Did Hillary as Secretary of State mishandle the 2009 coup in Honduras?
+
+
+**A**: The 2009 coup in Honduras was brought on by a constitutional crisis within Honduras, in which President Manuel Zelaya tried to call a referendum to change the constitution even after the [Supreme Court of Honduras had declared the move illegal](http://news.bbc.co.uk/2/hi/americas/8120161.stm). The result was that the military broke into Zelaya's house in the middle of the night and forced him to leave the country. In an interview, Hillary was asked about the situation, and has been criticized for her responses to the questions. Particularly, she seemed to be refusing to call the event a coup, when almost all observers would agree that it was.
+
+
+* While the media surrounding this issue suggests that, the fact is that it has been US policy to call it a coup since 2009. The United States [maintains that Zelaya is the only legitimate President of Honduras](http://www.reuters.com/article/us-honduras-president-usa-sb-idUSTRE55R2AY20090628). What we are actually not doing is calling it a military coup. Calling it a coup is enough to [cancel all joint Honduras-United States military operations and stop giving them military aid](http://www.thehour.com/norwalk/article/Honduras-government-s-isolation-grows-after-coup-8260540.php). It is also enough to stop giving most kinds of non-humanitarian aid. [Calling it a military coup would only have the effect of stopping humanitarian aid](http://www.reuters.com/article/idUSN29520049._CH_.2400), without any added benefit. Hillary may not have said that she wanted these things in an interview, but she was a major part of the formation of these policies that active oppose the current Honduran regime.
+
+

@@ -5,7 +5,6 @@ var fontCacheName = 'fonts-gistatic-com';
 var filesToCache = [
 
 '/css/main.css',
-'/anchor.min.js',
 '/img/back-caret.svg',
 '/img/favicon-144.png',
 '/img/favicon-192.png',
@@ -34,8 +33,6 @@ var filesToCache = [
 
 '/issues/hillary-is-cold/',
 
-'/issues/hillary-lgbt/',
-
 '/issues/isnt-hillary-too-sick/',
 
 '/issues/trade/',
@@ -43,11 +40,7 @@ var filesToCache = [
 
 ];
 
-<<<<<<< HEAD
-// Generated on Tue, 01 Nov 2016 13:03:32 -0400
-=======
-// Generated on Mon, 31 Oct 2016 09:33:45 -0400
->>>>>>> upstream/master
+// Generated on Wed, 19 Oct 2016 00:23:15 -0400
 
 self.addEventListener('install', function(event) {
   self.skipWaiting();
