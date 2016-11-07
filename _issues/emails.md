@@ -51,10 +51,8 @@ A: It does not. Eichenwald again explains:
 
 The e-mails found were on Anthony Weiner's laptop in an unrelated investigation, which his then-wife and Clinton aide, Huma Abedin, used to send e-mails. Back in April, Abedin had explained to the FBI that she "transferred emails from her unclassified State Department account" to print them from there.
 
-## Q: But doesn't a reveal this close to election mean that the FBI has reason to believe something significant has been found?
+## Q: But doesn't a reveal this close to election mean that the FBI found something of significance?
 
-A: As Comey himself said in the letter, the FBI cannot yet assess if any of this information is significant.
+A: Comey released another statement on Sunday, November 6 after further investigation of the emails on Anthony Weiner's laptop. He says that **nothing new has come to light, and upholds the FBI statement from July indicating no criminal wrongdoing.** 
 
-In fact, [Yahoo News reveals](https://www.yahoo.com/news/comey-wrote-bombshell-letter-to-congress-before-fbi-had-reviewed-new-emails-220219586.html) that the FBI has not yet obtained a search warrant to access the e-mails sent by Huma Abdein. Officials claim that the FBI have not yet read those or even determined their content. As they were not yet examined, [ThinkProgress states these new e-mails might all be duplicates](https://thinkprogress.org/the-new-clinton-emails-might-all-be-duplicates-d4bce69479c5#.l5lxckko6) previously turned in to the FBI.
-
-Yahoo News reviewed the full transcript of Abedin's interview with the FBI back in April. Abedin stated that some e-mails might exist on her estranged husband's personal laptop, yet "agents do not appear to have followed up on the clues."
+[NPR reports](http://www.npr.org/sections/thetwo-way/2016/11/06/500929164/comey-we-have-not-changed-our-conclusions-as-fbi-finishes-clinton-email-review) that the emails obtained were largely copies of ones already investigated earlier in the year.
