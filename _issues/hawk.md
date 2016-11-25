@@ -42,7 +42,7 @@ And this was Rep. Kevin McCarthy's (R-CA) comment:
 * During the 3rd Democratic debate, Hillary made it clear that she would want [Russia included in a coalition to help destroy ISIS](https://www.washingtonpost.com/news/the-fix/wp/2015/12/19/3rd-democratic-debate-transcript-annotated-who-said-what-and-what-it-meant/). She has repeated her stance that:
 > “There is an important role for Russia to help in resolving the conflict in Syria.”
 
-##Q: Why does Hillary support arming the Kurds in the war against ISIS? 
+## Q: Why does Hillary support arming the Kurds in the war against ISIS? 
 
 **A**: The [Kurds](http://www.bbc.com/news/world-middle-east-29702440) are a mostly Sunni Muslim people who live in the mountainous region of southern Turkey, western Iran, northern Iraq, and northern Syria. Here are some facts about the Kurds and their role in the war against ISIS:
 
@@ -57,3 +57,13 @@ And this was Rep. Kevin McCarthy's (R-CA) comment:
 >As the Kurds fan out into enemy territory, this lack of protection begins to cost them. By the early afternoon, a steady stream of ambulances comes careening up the road. One of the advance columns has been attacked by a car bomb which succeeded in inflicting casualties.
 
 > "They target the vehicles that do not have any armor," says a Peshmerga who has accompanied a wounded comrade back from the front.
+
+## Q: Did Hillary as Secretary of State mishandle the 2009 coup in Honduras?
+
+**A**: The 2009 coup in Honduras was brought on by a constitutional crisis within Honduras, in which President Manuel Zelaya tried to call a referendum to change the constitution even after the [Supreme Court of Honduras had declared the move illegal](http://news.bbc.co.uk/2/hi/americas/8120161.stm). The result was that the military broke into Zelaya's house in the middle of the night and forced him to leave the country. In an interview, Hillary was asked about the situation.
+
+> If the United States government declares a coup, you immediately have to shut off all aid, including humanitarian aid, the Agency for International Development aid, the support that we were providing at that time for a lot of very poor people. And that triggers a legal necessity. There’s no way to get around it. So, our assessment was, we will just make the situation worse by punishing the Honduran people if we declare a coup and we immediately have to stop all aid for the people, but we should slow walk and try to stop anything that the government could take advantage of, without calling it a coup.
+
+* Some journalists said that her attitude served to prop up the post-coup regime and only wanted to continue military aid to the country. This would clearly be mishandling the situation, if it were true. But the fact is that it has been US policy to call it a coup since 2009. What we are actually not doing is calling it a "military" coup. Calling it a coup was enough to [initially cancel all joint Honduras-United States military operations and stop giving them military aid](http://www.thehour.com/norwalk/article/Honduras-government-s-isolation-grows-after-coup-8260540.php). It was also enough to stop giving most kinds of non-humanitarian aid. [Calling it a military coup would only have the effect of stopping humanitarian aid](http://www.reuters.com/article/idUSN29520049._CH_.2400), without any added benefit. Hillary may not have said in the interview that she believed it was a coup, but the US policy that she helped to create certainly does recognize that it was.
+
+
